@@ -1,0 +1,222 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/11/2007 01:02:20.
+Game is Campaign type Networked
+
+Mission Type: Escort 
+Flight Callsign: Shark1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event 49thCop joined as Shark11 at 09:29:07 
+Event 49thKolbe joined as Shark14 at 09:29:17 
+Event Banshee joined as Shark13 at 09:29:17 
+Event Rico75th joined as Shark12 at 09:29:27 
+Event R-13R launched at 49thCop 09:56:26 
+Event R-13R launched at 49thCop 09:56:34 
+Event DPRK MiG-21Mbis downed by 49thCop at 09:56:43 
+Event DPRK MiG-21Mbis downed by 49thCop at 09:57:03 
+Event DPRK MiG-21Mbis downed by Banshee at 09:58:15 
+Event DPRK MiG-21Mbis downed by 49thKolbe at 09:58:35 
+Event SA14 launched at Rico75th 09:58:47 
+Event DPRK MiG-21Mbis downed by Rico75th at 09:58:59 
+Event DPRK MiG-21Mbis downed by Rico75th at 09:59:31 
+Event DPRK Su-32* downed by Banshee at 09:59:59 
+Event DPRK Su-39 downed by 49thCop at 10:00:24 
+Event DPRK Su-39 downed by Rico75th at 10:00:36 
+Event DPRK MiG-29SM downed by Rico75th at 10:05:14 
+Event DPRK MiG-29SM downed by 49thKolbe at 10:06:08 
+Event R-27RE launched at Banshee 10:06:11 
+Event Banshee ejected at 10:06:28 
+Event DPRK MiG-29SM downed by Banshee at 10:06:44 
+Event 49thKolbe landed at 10:23:06 
+Event 49thCop landed at 10:23:10 
+Event 49thCop landed at 10:23:11 
+Event Rico75th landed at 10:26:09 
+Event Rico75th landed at 10:26:10 
+Event 49thCop exited from Shark11 at 10:57:30 
+Event Banshee exited from Shark13 at 10:58:45 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Maj. Cop 
+Callsign: 49thCop 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 6 
+Fired 6 
+Missed 2 
+Hit 4 
+Event AIM-120C-4 released at 09:56:10   hit MiG-21Mbis - destroyed 
+Event AIM-120C-4 released at 09:56:29   miss 
+Event AIM-120C-4 released at 09:56:42   hit MiG-21Mbis - destroyed 
+Event AIM-120C-4 released at 09:59:50   hit Su-39 - damaged 
+Event AIM-120C-4 released at 09:59:56   hit Su-39 - destroyed 
+Event AIM-120C-4 released at 10:03:48   miss 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Rico75th 
+Callsign: Rico75th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 09:57:40   miss 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 6 
+Fired 6 
+Missed 1 
+Hit 5 
+Event AIM-120C-4 released at 09:55:01   hit Su-32* - damaged 
+Event AIM-120C-4 released at 09:57:08   miss 
+Event AIM-120C-4 released at 09:58:34   hit MiG-21Mbis - destroyed 
+Event AIM-120C-4 released at 09:59:13   hit MiG-21Mbis - destroyed 
+Event AIM-120C-4 released at 10:00:27   hit Su-39 - destroyed 
+Event AIM-120C-4 released at 10:04:07   hit MiG-29SM - destroyed 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: 2Lt. Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 6 
+Fired 3 
+Missed 0 
+Hit 3 
+Event AIM-120C-4 released at 09:57:43   hit MiG-21Mbis - destroyed 
+Event AIM-120C-4 released at 09:59:45   hit Su-32* - destroyed 
+Event AIM-120C-4 released at 10:06:11   hit MiG-29SM - destroyed 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 6 
+Fired 3 
+Missed 1 
+Hit 2 
+Event AIM-120C-4 released at 09:58:04   hit MiG-21Mbis - destroyed 
+Event AIM-120C-4 released at 10:04:52   hit MiG-29SM - destroyed 
+Event AIM-120C-4 released at 10:05:27   miss 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

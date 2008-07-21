@@ -1,0 +1,223 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/11/2007 12:40:32.
+Game is Tactical Engagement type Networked
+Mission name: Airbase Strike
+
+Mission Type: Escort 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-50 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event 49thKolbe joined as Falcon12 at 09:05:16 
+Event 49thSnake joined as Falcon11 at 09:05:16 
+Event Oscar5 49th joined as Falcon13 at 09:05:23 
+Event Banshee joined as Falcon14 at 09:05:24 
+Event Yugoslavian MiG-21F downed by 49thKolbe at 09:13:09 
+Event Yugoslavian MiG-21F downed by 49thKolbe at 09:13:26 
+Event SA6 launched at 49thSnake 09:26:12 
+Event SA6 launched at 49thSnake 09:26:17 
+Event SA3 launched at 49thKolbe 09:29:38 
+Event SA3 launched at 49thKolbe 09:29:40 
+Event 49thSnake landed at 09:48:33 
+Event 49thKolbe landed at 09:48:46 
+Event 49thKolbe landed at 09:48:51 
+Event 49thSnake exited from Falcon11 at 09:50:11 
+Event Banshee landed at 09:51:58 
+Event Oscar5 49th landed at 09:51:59 
+Event Oscar5 49th landed at 09:52:02 
+Event 49thKolbe landed at 09:52:50 
+Event 49thKolbe exited from Falcon12 at 09:54:26 
+Event Banshee exited from Falcon14 at 09:57:05 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Lt. 49thSnake 
+Callsign: 49thSnake 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Maj. 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120B released at 09:12:30   hit MiG-21F - destroyed 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-4 released at 09:12:57   hit MiG-21F - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Oscar5 
+Callsign: Oscar5 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-120B released at 09:17:47   miss 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: 2Lt. Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

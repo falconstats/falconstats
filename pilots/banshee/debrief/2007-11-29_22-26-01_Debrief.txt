@@ -1,0 +1,240 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/29/2007 22:26:02.
+Game is Tactical Engagement type Networked
+Mission name: LLTM_2006_TE-5_final
+
+Mission Type: OCA Strike 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16A-MLU 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Falcon13 at 19:50:19 
+Event Cleaner 49th joined as Falcon12 at 19:50:19 
+Event Banshee joined as Falcon14 at 19:50:26 
+Event Steffen 49th joined as Falcon11 at 19:50:28 
+Event SA2 launched at Ghost 49th 20:47:54 
+Event DPRK Runway destroyed by Cleaner 49th at 20:51:58 
+Event DPRK Runway destroyed by Cleaner 49th at 20:51:59 
+Event DPRK Runway destroyed by Cleaner 49th at 20:52:04 
+Event DPRK Runway destroyed by Steffen 49th at 20:52:14 
+Event DPRK Runway destroyed by Steffen 49th at 20:52:14 
+Event Steffen 49th ejected at 20:54:28 
+Event DPRK Fuel Tank destroyed by Banshee at 20:55:02 
+Event Steffen 49th exited from Falcon11 at 20:55:35 
+Event DPRK Control Tower destroyed by Ghost 49th at 20:58:22 
+Event Ghost 49th ejected at 21:00:45 
+Event Ghost 49th exited from Falcon13 at 21:01:18 
+Event DPRK MiG-29A downed by Banshee at 21:23:20 
+Event Cleaner 49th landed at 21:23:43 
+Event DPRK MiG-29A downed by Banshee at 21:24:20 
+Event Cleaner 49th exited from Falcon12 at 21:24:51 
+Event SA2 launched at Banshee 21:27:17 
+Event SA2 launched at Banshee 21:27:31 
+Event DPRK MiG-29A downed by Banshee at 21:27:51 
+Event SA2 launched at Banshee 21:27:51 
+Event Banshee downed by DPRK SA-2 at 21:28:11 
+Event Banshee exited from Falcon14 at 21:28:23 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Capt. 49th Steffen 
+Callsign: Steffen 49th 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Python-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: BLU-107/B 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BLU-107/B released at 20:52:05   hit Runway - destroyed 
+Event BLU-107/B released at 20:52:06   hit Runway - destroyed 
+Event BLU-107/B released at 20:52:07   hit Runway - damaged 
+Event BLU-107/B released at 20:52:08   hit Runway - damaged 
+Event BLU-107/B released at 20:52:10   hit Runway - damaged 
+Event BLU-107/B released at 20:52:11   hit Approach Lights - damaged 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Capt. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Python-4 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-24/B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event GBU-24/B released at 20:54:07   miss 
+Event GBU-24/B released at 20:57:46   hit Control Tower - destroyed 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Unassigned 
+Callsign: Falcon13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Python-4 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-24/B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 3 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Python-4 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event AIM-120C-5 released at 21:22:18   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 21:23:11   miss 
+Event AIM-120C-5 released at 21:23:28   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 21:27:11   hit MiG-29A - destroyed 
+
+LOADOUT 3: GBU-24/B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event GBU-24/B released at 20:54:24   hit Fuel Tank - destroyed 
+Event GBU-24/B released at 20:58:36   miss 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

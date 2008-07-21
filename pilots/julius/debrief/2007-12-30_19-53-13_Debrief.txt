@@ -1,0 +1,208 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/30/2007 19:53:14.
+Game is Tactical Engagement type Local
+Mission name: watchtower
+
+Mission Type: Naval Strike 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 01:14:01 
+Event Banshee violated ATC protocol at 01:16:29 
+Event Banshee violated ATC protocol at 01:16:34 
+Event Banshee exited from Cowboy11 at 01:42:28 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 4 
+Missed 3 
+Hit 1 
+Event 20mm M61 fired at 01:42:03   miss 
+Event 20mm M61 fired at 01:42:05   miss 
+Event 20mm M61 fired at 01:42:07   miss 
+Event 20mm M61 fired at 01:42:09   hit Tanker - damaged 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-119 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Bortz 
+Callsign: Cowboy12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-119 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Covert 
+Callsign: Cowboy13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-119 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Griffey 
+Callsign: Cowboy14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-119 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

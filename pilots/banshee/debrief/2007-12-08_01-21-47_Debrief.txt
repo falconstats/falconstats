@@ -1,0 +1,356 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/8/2007 01:21:48.
+Game is Tactical Engagement type Local
+Mission name: precise-cut
+
+Mission Type: Training 
+Flight Callsign: Rooster2
+4 Ship Flight
+Ac type: Su-25 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Banshee joined as Rooster21 at 05:07:02 
+Event Yugoslavian Shops destroyed by Banshee at 05:12:47 
+Event Yugoslavian An-225 downed by Banshee at 05:14:31 
+Event Yugoslavian Search Radar destroyed by Banshee at 05:15:37 
+Event Yugoslavian Radar destroyed by Banshee at 05:19:31 
+Event Yugoslavian Apartment destroyed by Banshee at 05:21:00 
+Event Banshee collided with Apartment at 05:21:00 
+Event Banshee exited from Rooster21 at 05:21:19 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-30-2 
+Starting Load 250 
+Fired 4 
+Missed 2 
+Hit 2 
+Event 30mm GSH-30-2 fired at 05:10:00   miss 
+Event 30mm GSH-30-2 fired at 05:14:14   miss 
+Event 30mm GSH-30-2 fired at 05:14:26   hit An-225 - destroyed 
+Event    hit Fence - damaged 
+
+LOADOUT 1: S-5 FFAR* 
+Starting Load 8 
+Fired 216 
+Missed 180 
+Hit 36 
+Event S-5 FFAR* released at 05:11:37   miss 
+Event S-5 FFAR* released at 05:11:37   miss 
+Event S-5 FFAR* released at 05:11:38   miss 
+Event S-5 FFAR* released at 05:12:15   miss 
+Event S-5 FFAR* released at 05:12:15   miss 
+Event S-5 FFAR* released at 05:12:15   miss 
+Event S-5 FFAR* released at 05:12:15   miss 
+Event S-5 FFAR* released at 05:12:16   hit Apartment - damaged 
+Event S-5 FFAR* released at 05:12:37   miss 
+Event S-5 FFAR* released at 05:12:38   miss 
+Event S-5 FFAR* released at 05:12:38   miss 
+Event S-5 FFAR* released at 05:12:38   hit Apartment - damaged 
+Event S-5 FFAR* released at 05:12:38   hit Apartment - damaged 
+Event S-5 FFAR* released at 05:12:40   miss 
+Event S-5 FFAR* released at 05:12:41   miss 
+Event S-5 FFAR* released at 05:12:41   miss 
+Event S-5 FFAR* released at 05:12:41   miss 
+Event S-5 FFAR* released at 05:12:41   hit Offices - damaged 
+Event S-5 FFAR* released at 05:12:41   hit Shops - damaged 
+Event S-5 FFAR* released at 05:12:42   hit Apartment - damaged 
+Event S-5 FFAR* released at 05:12:42   miss 
+Event S-5 FFAR* released at 05:12:42   hit Shops - damaged 
+Event S-5 FFAR* released at 05:12:43   hit Shops - damaged 
+Event S-5 FFAR* released at 05:12:43   hit Shops - damaged 
+Event S-5 FFAR* released at 05:12:44   hit Admin Building - damaged 
+Event S-5 FFAR* released at 05:12:44   hit Shops - damaged 
+Event S-5 FFAR* released at 05:12:44   hit Shops - damaged 
+Event S-5 FFAR* released at 05:12:44   hit Shops - destroyed 
+Event S-5 FFAR* released at 05:12:44   hit Offices - damaged 
+Event S-5 FFAR* released at 05:12:59   miss 
+Event S-5 FFAR* released at 05:12:59   miss 
+Event S-5 FFAR* released at 05:12:59   miss 
+Event S-5 FFAR* released at 05:13:05   miss 
+Event S-5 FFAR* released at 05:13:05   miss 
+Event S-5 FFAR* released at 05:13:06   hit Oil Tank - damaged 
+Event S-5 FFAR* released at 05:13:06   miss 
+Event S-5 FFAR* released at 05:13:07   miss 
+Event S-5 FFAR* released at 05:14:02   miss 
+Event S-5 FFAR* released at 05:14:02   miss 
+Event S-5 FFAR* released at 05:14:02   miss 
+Event S-5 FFAR* released at 05:14:02   miss 
+Event S-5 FFAR* released at 05:14:39   hit m977 - damaged 
+Event S-5 FFAR* released at 05:14:39   miss 
+Event S-5 FFAR* released at 05:14:39   miss 
+Event S-5 FFAR* released at 05:14:40   miss 
+Event S-5 FFAR* released at 05:14:40   miss 
+Event S-5 FFAR* released at 05:14:40   miss 
+Event S-5 FFAR* released at 05:14:40   miss 
+Event S-5 FFAR* released at 05:14:40   miss 
+Event S-5 FFAR* released at 05:14:41   miss 
+Event S-5 FFAR* released at 05:14:41   miss 
+Event S-5 FFAR* released at 05:14:41   hit Warehouse - damaged 
+Event S-5 FFAR* released at 05:14:46   hit Fence - damaged 
+Event S-5 FFAR* released at 05:14:46   miss 
+Event S-5 FFAR* released at 05:14:46   miss 
+Event S-5 FFAR* released at 05:14:47   miss 
+Event S-5 FFAR* released at 05:14:47   hit Terminal - damaged 
+Event S-5 FFAR* released at 05:14:47   hit Terminal - damaged 
+Event S-5 FFAR* released at 05:14:47   hit Terminal - damaged 
+Event S-5 FFAR* released at 05:14:47   hit Terminal - damaged 
+Event S-5 FFAR* released at 05:14:48   miss 
+Event S-5 FFAR* released at 05:14:48   miss 
+Event S-5 FFAR* released at 05:14:49   miss 
+Event S-5 FFAR* released at 05:14:50   miss 
+Event S-5 FFAR* released at 05:14:50   hit Search Radar - damaged 
+Event S-5 FFAR* released at 05:15:35   hit Search Radar - damaged 
+Event S-5 FFAR* released at 05:15:35   miss 
+Event S-5 FFAR* released at 05:15:35   miss 
+Event S-5 FFAR* released at 05:15:35   miss 
+Event S-5 FFAR* released at 05:15:35   miss 
+Event S-5 FFAR* released at 05:15:36   miss 
+Event S-5 FFAR* released at 05:15:36   miss 
+Event S-5 FFAR* released at 05:15:36   miss 
+Event S-5 FFAR* released at 05:15:36   miss 
+Event S-5 FFAR* released at 05:15:36   miss 
+Event S-5 FFAR* released at 05:15:36   miss 
+Event S-5 FFAR* released at 05:15:36   hit Search Radar - destroyed 
+Event S-5 FFAR* released at 05:15:37   miss 
+Event S-5 FFAR* released at 05:16:29   miss 
+Event S-5 FFAR* released at 05:16:29   miss 
+Event S-5 FFAR* released at 05:16:30   miss 
+Event S-5 FFAR* released at 05:16:30   hit Hangar - damaged 
+Event S-5 FFAR* released at 05:16:30   miss 
+Event S-5 FFAR* released at 05:16:30   miss 
+Event S-5 FFAR* released at 05:16:30   miss 
+Event S-5 FFAR* released at 05:16:30   miss 
+Event S-5 FFAR* released at 05:16:31   miss 
+Event S-5 FFAR* released at 05:16:31   hit warehouse - damaged 
+Event S-5 FFAR* released at 05:16:31   miss 
+Event S-5 FFAR* released at 05:16:31   miss 
+Event S-5 FFAR* released at 05:16:31   hit TV Station - damaged 
+Event S-5 FFAR* released at 05:17:25   miss 
+Event S-5 FFAR* released at 05:17:46   miss 
+Event S-5 FFAR* released at 05:17:46   hit TV Station - damaged 
+Event S-5 FFAR* released at 05:17:46   miss 
+Event S-5 FFAR* released at 05:17:47   miss 
+Event S-5 FFAR* released at 05:17:47   miss 
+Event S-5 FFAR* released at 05:17:47   miss 
+Event S-5 FFAR* released at 05:18:05   miss 
+Event S-5 FFAR* released at 05:18:05   miss 
+Event S-5 FFAR* released at 05:18:35   miss 
+Event S-5 FFAR* released at 05:18:35   miss 
+Event S-5 FFAR* released at 05:18:35   miss 
+Event S-5 FFAR* released at 05:18:35   miss 
+Event S-5 FFAR* released at 05:18:35   miss 
+Event S-5 FFAR* released at 05:18:36   miss 
+Event S-5 FFAR* released at 05:18:45   miss 
+Event S-5 FFAR* released at 05:18:46   miss 
+Event S-5 FFAR* released at 05:18:46   miss 
+Event S-5 FFAR* released at 05:18:46   miss 
+Event S-5 FFAR* released at 05:18:46   miss 
+Event S-5 FFAR* released at 05:18:46   miss 
+Event S-5 FFAR* released at 05:18:47   miss 
+Event S-5 FFAR* released at 05:18:47   miss 
+Event S-5 FFAR* released at 05:18:47   miss 
+Event S-5 FFAR* released at 05:18:47   miss 
+Event S-5 FFAR* released at 05:18:48   miss 
+Event S-5 FFAR* released at 05:18:48   miss 
+Event S-5 FFAR* released at 05:18:48   miss 
+Event S-5 FFAR* released at 05:18:48   miss 
+Event S-5 FFAR* released at 05:18:48   miss 
+Event S-5 FFAR* released at 05:18:49   miss 
+Event S-5 FFAR* released at 05:18:49   miss 
+Event S-5 FFAR* released at 05:18:49   miss 
+Event S-5 FFAR* released at 05:18:49   miss 
+Event S-5 FFAR* released at 05:18:50   miss 
+Event S-5 FFAR* released at 05:18:50   miss 
+Event S-5 FFAR* released at 05:18:50   miss 
+Event S-5 FFAR* released at 05:18:50   miss 
+Event S-5 FFAR* released at 05:18:50   miss 
+Event S-5 FFAR* released at 05:18:51   miss 
+Event S-5 FFAR* released at 05:18:51   miss 
+Event S-5 FFAR* released at 05:18:51   miss 
+Event S-5 FFAR* released at 05:18:51   miss 
+Event S-5 FFAR* released at 05:18:51   miss 
+Event S-5 FFAR* released at 05:18:52   miss 
+Event S-5 FFAR* released at 05:18:52   miss 
+Event S-5 FFAR* released at 05:18:52   miss 
+Event S-5 FFAR* released at 05:18:52   miss 
+Event S-5 FFAR* released at 05:18:53   miss 
+Event S-5 FFAR* released at 05:18:53   miss 
+Event S-5 FFAR* released at 05:18:53   miss 
+Event S-5 FFAR* released at 05:18:53   miss 
+Event S-5 FFAR* released at 05:18:54   miss 
+Event S-5 FFAR* released at 05:18:54   miss 
+Event S-5 FFAR* released at 05:18:54   miss 
+Event S-5 FFAR* released at 05:18:54   miss 
+Event S-5 FFAR* released at 05:18:54   miss 
+Event S-5 FFAR* released at 05:18:54   miss 
+Event S-5 FFAR* released at 05:18:55   miss 
+Event S-5 FFAR* released at 05:18:55   miss 
+Event S-5 FFAR* released at 05:18:55   miss 
+Event S-5 FFAR* released at 05:18:55   hit Radar - damaged 
+Event S-5 FFAR* released at 05:19:29   hit Radar - destroyed 
+Event S-5 FFAR* released at 05:19:29   miss 
+Event S-5 FFAR* released at 05:19:29   miss 
+Event S-5 FFAR* released at 05:19:29   hit Radar - damaged 
+Event S-5 FFAR* released at 05:19:30   hit Radar - damaged 
+Event S-5 FFAR* released at 05:19:30   miss 
+Event S-5 FFAR* released at 05:19:30   miss 
+Event S-5 FFAR* released at 05:19:32   miss 
+Event S-5 FFAR* released at 05:19:32   hit Parking-4Large - damaged 
+Event S-5 FFAR* released at 05:19:32   miss 
+Event S-5 FFAR* released at 05:19:32   miss 
+Event S-5 FFAR* released at 05:19:32   miss 
+Event S-5 FFAR* released at 05:19:32   miss 
+Event S-5 FFAR* released at 05:19:33   hit An-225 - damaged 
+Event S-5 FFAR* released at 05:19:33   miss 
+Event S-5 FFAR* released at 05:19:33   miss 
+Event S-5 FFAR* released at 05:19:33   miss 
+Event S-5 FFAR* released at 05:19:33   miss 
+Event S-5 FFAR* released at 05:19:34   miss 
+Event S-5 FFAR* released at 05:19:34   miss 
+Event S-5 FFAR* released at 05:19:34   miss 
+Event S-5 FFAR* released at 05:20:20   miss 
+Event S-5 FFAR* released at 05:20:20   miss 
+Event S-5 FFAR* released at 05:20:20   miss 
+Event S-5 FFAR* released at 05:20:21   miss 
+Event S-5 FFAR* released at 05:20:21   miss 
+Event S-5 FFAR* released at 05:20:21   miss 
+Event S-5 FFAR* released at 05:20:23   miss 
+Event S-5 FFAR* released at 05:20:23   miss 
+Event S-5 FFAR* released at 05:20:24   miss 
+Event S-5 FFAR* released at 05:20:24   miss 
+Event S-5 FFAR* released at 05:20:24   miss 
+Event S-5 FFAR* released at 05:20:24   miss 
+Event S-5 FFAR* released at 05:20:24   miss 
+Event S-5 FFAR* released at 05:20:25   miss 
+Event S-5 FFAR* released at 05:20:25   miss 
+Event S-5 FFAR* released at 05:20:25   miss 
+Event S-5 FFAR* released at 05:20:25   miss 
+Event S-5 FFAR* released at 05:20:25   miss 
+Event S-5 FFAR* released at 05:20:25   miss 
+Event S-5 FFAR* released at 05:20:44   miss 
+Event S-5 FFAR* released at 05:20:44   miss 
+Event S-5 FFAR* released at 05:20:44   miss 
+Event S-5 FFAR* released at 05:20:48   miss 
+Event S-5 FFAR* released at 05:20:48   miss 
+Event S-5 FFAR* released at 05:20:49   miss 
+Event S-5 FFAR* released at 05:20:49   miss 
+Event S-5 FFAR* released at 05:20:49   miss 
+Event S-5 FFAR* released at 05:20:49   miss 
+Event S-5 FFAR* released at 05:20:49   miss 
+Event S-5 FFAR* released at 05:20:49   miss 
+Event S-5 FFAR* released at 05:20:49   miss 
+Event S-5 FFAR* released at 05:20:50   miss 
+Event S-5 FFAR* released at 05:20:50   hit Apartment - damaged 
+Event S-5 FFAR* released at 05:20:50   miss 
+Event S-5 FFAR* released at 05:20:59   miss 
+Event S-5 FFAR* released at 05:20:59   miss 
+Event S-5 FFAR* released at 05:21:00   miss 
+Event S-5 FFAR* released at 05:21:00   miss 
+Event S-5 FFAR* released at 05:21:00   miss 
+Event S-5 FFAR* released at 05:21:00   miss 
+Event S-5 FFAR* released at 05:21:00   miss 
+Event S-5 FFAR* released at 05:21:00   miss 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. York 
+Callsign: Rooster22 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-30-2 
+Starting Load 250 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: S-5 FFAR* 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Murphy 
+Callsign: Rooster23 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-30-2 
+Starting Load 250 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: S-5 FFAR* 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Beisner 
+Callsign: Rooster24 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-30-2 
+Starting Load 250 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: S-5 FFAR* 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+

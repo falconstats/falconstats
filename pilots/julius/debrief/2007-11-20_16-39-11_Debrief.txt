@@ -1,0 +1,70 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/20/2007 16:39:12.
+Game is Campaign type Local
+
+Mission Type: Naval Strike 
+Flight Callsign: Panther2
+1 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Panther21 at 05:14:00 
+Event Banshee crashed at 05:18:38 
+Event Banshee exited from Panther21 at 05:19:06 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Python-4 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AGM-119 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

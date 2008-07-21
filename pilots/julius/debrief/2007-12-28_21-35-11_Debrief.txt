@@ -1,0 +1,179 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 21:35:12.
+Game is Tactical Engagement type Local
+Mission name: BLUE-SPIRIT-TEST
+
+Mission Type: Naval Strike 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16D-40 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 11:18:00 
+Event Cowboy12 landed at 11:29:04 
+Event Cowboy13 landed at 11:30:17 
+Event Cowboy14 landed at 11:30:54 
+Event U.S. Tanker destroyed by Banshee at 11:41:40 
+Event AIM-9P launched at Banshee 11:46:59 
+Event Banshee ejected at 11:47:13 
+Event Banshee exited from Cowboy11 at 11:47:20 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 1 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 7 
+Missed 6 
+Hit 1 
+Event 20mm M61 fired at 11:44:46   miss 
+Event 20mm M61 fired at 11:44:48   miss 
+Event 20mm M61 fired at 11:44:50   miss 
+Event 20mm M61 fired at 11:44:51   miss 
+Event 20mm M61 fired at 11:44:51   miss 
+Event 20mm M61 fired at 11:44:52   miss 
+Event 20mm M61 fired at 11:44:54   hit Tanker - damaged 
+
+LOADOUT 1: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-82 
+Starting Load 12 
+Fired 12 
+Missed 6 
+Hit 6 
+Event Mk-82 released at 11:36:28   miss 
+Event Mk-82 released at 11:36:28   miss 
+Event Mk-82 released at 11:38:51   hit Tanker - damaged 
+Event Mk-82 released at 11:38:51   hit Tanker - damaged 
+Event Mk-82 released at 11:39:58   hit Tanker - damaged 
+Event Mk-82 released at 11:39:58   hit Tanker - damaged 
+Event Mk-82 released at 11:41:37   hit Tanker - damaged 
+Event Mk-82 released at 11:41:37   hit Tanker - destroyed 
+Event Mk-82 released at 11:42:22   miss 
+Event Mk-82 released at 11:42:22   miss 
+Event Mk-82 released at 11:43:32   miss 
+Event Mk-82 released at 11:43:32   miss 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Covert 
+Callsign: Cowboy12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-82 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Griffey 
+Callsign: Cowboy13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-82 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Heffner 
+Callsign: Cowboy14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-82 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+

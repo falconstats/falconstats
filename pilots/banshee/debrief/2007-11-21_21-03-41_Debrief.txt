@@ -1,0 +1,228 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/21/2007 21:03:42.
+Game is Tactical Engagement type Networked
+Mission name: LLTM_2006_TE-3_final
+
+Mission Type: Interdiction 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16C-42 CCIP 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Cowboy11 at 10:58:16 
+Event 49thKolbe joined as Cowboy12 at 10:58:17 
+Event Banshee joined as Cowboy13 at 10:58:37 
+Event Banshee exited from Cowboy13 at 11:00:54 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Unassigned 
+Callsign: Cowboy14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

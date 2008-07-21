@@ -1,0 +1,113 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/12/2007 14:29:36.
+Game is Campaign type Local
+
+Mission Type: Interdiction 
+Flight Callsign: Python5
+2 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Python51 at 16:03:00 
+Event RBK-250/OAB launched at Banshee 16:10:36 
+Event RBK-250/OAB launched at Banshee 16:10:36 
+Event DPRK MiG-21Mbis downed by Banshee at 16:12:02 
+Event DPRK MiG-21Mbis downed by Banshee at 16:12:04 
+Event R-73 Mod 1 launched at Banshee 16:13:14 
+Event DPRK MiG-29A downed by Banshee at 16:13:15 
+Event DPRK MiG-29A downed by Banshee at 16:13:25 
+Event DPRK MiG-29A downed by Banshee at 16:13:40 
+Event Banshee ejected at 16:13:53 
+Event Python52 downed by DPRK MiG-29A at 16:13:57 
+Event Banshee exited from Python51 at 16:13:59 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 5 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 6 
+Missed 1 
+Hit 5 
+Event AIM-120C-5 released at 16:11:12   hit MiG-21Mbis - destroyed 
+Event AIM-120C-5 released at 16:11:35   hit MiG-21Mbis - destroyed 
+Event AIM-120C-5 released at 16:12:16   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 16:12:36   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 16:13:16   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 16:13:23   miss 
+
+LOADOUT 2: CBU-97 SFW 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Maj. Kram 
+Callsign: Python52 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: CBU-97 SFW 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

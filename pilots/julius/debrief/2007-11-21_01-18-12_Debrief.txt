@@ -1,0 +1,275 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/21/2007 01:18:14.
+Game is Campaign type Local
+
+Mission Type: SEAD Escort 
+Flight Callsign: Viper1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Viper11 at 06:35:00 
+Event Yugoslavian Fan Song B destroyed by Banshee at 06:46:44 
+Event Yugoslavian BMP-2 destroyed by Banshee at 06:49:10 
+Event Yugoslavian BMP-2 destroyed by Banshee at 06:49:10 
+Event Yugoslavian BMP-2 destroyed by Banshee at 06:49:10 
+Event Yugoslavian 2S1 destroyed by Banshee at 06:49:12 
+Event Yugoslavian 2S1 destroyed by Banshee at 06:49:12 
+Event Yugoslavian 2S1 destroyed by Banshee at 06:49:12 
+Event Yugoslavian SA-2 destroyed by Banshee at 06:49:36 
+Event Yugoslavian Fan Song B destroyed by Banshee at 06:49:36 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 06:49:36 
+Event SA14 launched at Banshee 06:51:16 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 06:51:24 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 06:51:24 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 06:51:24 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:24 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:24 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:24 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:28 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:28 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:28 
+Event SA14 launched at Banshee 06:51:28 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:28 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:28 
+Event Yugoslavian 2S19 destroyed by Banshee at 06:51:28 
+Event SA14 launched at Banshee 06:51:30 
+Event Yugoslavian StraightFlush destroyed by Viper12 at 06:52:13 
+Event Yugoslavian MiG-29A downed by Banshee at 06:53:11 
+Event Yugoslavian MiG-29A downed by Banshee at 06:54:08 
+Event Yugoslavian G-4 downed by Viper12 at 06:56:38 
+Event Yugoslavian G-4 downed by Banshee at 06:57:06 
+Event SA19 launched at Banshee 06:57:16 
+Event SA19 launched at Banshee 06:57:21 
+Event Banshee exited from Viper11 at 06:57:22 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 3 
+AG Kills 22 
+AS Kills 0 
+AN Kills 0 
+Shoot At 5 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120B released at 06:52:31   hit MiG-29A - destroyed 
+Event AIM-120B released at 06:53:17   hit MiG-29A - destroyed 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 06:56:44   hit G-4 - destroyed 
+Event AIM-120C-4 released at 06:56:56   hit G-4 - damaged 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 06:44:09   hit Fan Song B - destroyed 
+Event AGM-88C released at 06:47:32   hit SA-2 - destroyed 
+
+LOADOUT 4: Mk-20D 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event Mk-20D released at 06:48:53   hit BMP-2 - destroyed 
+Event    hit BMP-2 - destroyed 
+Event    hit BMP-2 - destroyed 
+Event Mk-20D released at 06:48:58   hit 2S1 - destroyed 
+Event    hit 2S1 - destroyed 
+Event    hit 2S1 - destroyed 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Cpt. Park 
+Callsign: Viper12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120B released at 06:52:26   hit MiG-29A - damaged 
+Event AIM-120B released at 06:53:48   miss 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 06:56:13   hit G-4 - destroyed 
+Event AIM-120C-4 released at 06:56:17   hit G-4 - damaged 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-88C released at 06:50:50   miss 
+Event AGM-88C released at 06:50:55   hit StraightFlush - destroyed 
+
+LOADOUT 4: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Maj. Blancquaert 
+Callsign: Viper13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Maj. Treasure 
+Callsign: Viper14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

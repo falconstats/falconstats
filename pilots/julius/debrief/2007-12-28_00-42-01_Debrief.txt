@@ -1,0 +1,160 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 00:42:02.
+Game is Tactical Engagement type Networked
+Mission name: train 4
+
+Mission Type: OCA Strike 
+Flight Callsign: Falcon1
+3 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Falcon11 at 09:00:48 
+Event Banshee joined as Falcon12 at 09:00:49 
+Event Tom 360th joined as Falcon13 at 09:00:49 
+Event R-77M launched at Banshee 09:02:01 
+Event R-77M launched at Ghost 49th 09:02:15 
+Event R-27RE launched at Ghost 49th 09:02:45 
+Event Yugoslavian MiG-29SM downed by Banshee at 09:03:35 
+Event R-13M launched at Ghost 49th 09:05:27 
+Event R-13M launched at Ghost 49th 09:05:31 
+Event R-13M launched at Ghost 49th 09:05:59 
+Event R-13M launched at Ghost 49th 09:06:03 
+Event Yugoslavian MiG-21F downed by Banshee at 09:06:03 
+Event Yugoslavian MiG-21F downed by Tom 360th at 09:06:09 
+Event Yugoslavian MiG-21F downed by Banshee at 09:06:45 
+Event Yugoslavian MiG-21F downed by Tom 360th at 09:07:06 
+Event Banshee exited from Falcon12 at 09:09:13 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 6 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 09:06:23   miss 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-9X released at 09:05:23   miss 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-5 released at 09:02:28   hit MiG-29SM - damaged 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-9X released at 09:05:37   hit MiG-21F - destroyed 
+Event AIM-9X released at 09:06:19   hit MiG-21F - destroyed 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-5 released at 09:02:22   hit MiG-29SM - destroyed 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Tom 360th 
+Callsign: Tom 360th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-9X released at 09:05:45   hit MiG-21F - destroyed 
+Event AIM-9X released at 09:06:51   hit MiG-21F - destroyed 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

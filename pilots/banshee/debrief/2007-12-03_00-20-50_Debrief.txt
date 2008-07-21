@@ -1,0 +1,75 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/3/2007 00:20:52.
+Game is Tactical Engagement type Local
+Mission name: Flugshow
+
+Mission Type: DCA 
+Flight Callsign: Fury1
+2 Ship Flight
+Ac type: Typhoon 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Fury11 at 09:21:00 
+Event Fury12 landed at 09:30:08 
+Event Banshee exited from Fury11 at 09:52:33 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Aim-132 ASRAAM 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Batten 
+Callsign: Fury12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Aim-132 ASRAAM 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+

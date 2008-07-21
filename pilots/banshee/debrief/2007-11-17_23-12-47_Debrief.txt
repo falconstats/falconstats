@@ -1,0 +1,143 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/17/2007 23:12:48.
+Game is Tactical Engagement type Networked
+Mission name: Flugshow
+
+Mission Type: DCA 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-52 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Falcon12 at 09:19:41 
+Event DragonFly joined as Falcon13 at 09:19:41 
+Event Cleaner 49th joined as Falcon11 at 09:19:41 
+Event Banshee violated ATC protocol at 09:21:18 
+Event DragonFly violated ATC protocol at 09:21:24 
+Event Banshee violated ATC protocol at 09:21:34 
+Event DragonFly violated ATC protocol at 09:21:39 
+Event Banshee violated ATC protocol at 09:21:49 
+Event Banshee violated ATC protocol at 09:21:50 
+Event DragonFly violated ATC protocol at 09:21:52 
+Event Cleaner 49th ejected at 09:23:52 
+Event Cleaner 49th downed by Banshee at 09:24:28 
+Event Cleaner 49th exited from Falcon11 at 09:24:28 
+Event Banshee ejected at 09:25:03 
+Event Banshee exited from Falcon12 at 09:25:28 
+
+-------------
+PILOT SLOT 1:
+
+AI Player: Col. De Best 
+Callsign: Falcon11 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 1 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: 49thDragonFly 
+Callsign: DragonFly 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Cleaner 49th 
+Callsign: Cleaner 49th 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+

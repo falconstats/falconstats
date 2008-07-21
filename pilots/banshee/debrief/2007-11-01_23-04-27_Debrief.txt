@@ -1,0 +1,130 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2007 23:04:28.
+Game is Campaign type Local
+
+Mission Type: Interdiction 
+Flight Callsign: Serpent3
+2 Ship Flight
+Ac type: F-16C-52 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Serpent31 at 09:30:35 
+Event DPRK MiG-21MF downed by Banshee at 09:40:44 
+Event SA7 launched at Banshee 09:41:35 
+Event SA7 launched at Banshee 09:41:38 
+Event DPRK D-30 destroyed by Banshee at 09:41:42 
+Event DPRK D-30 destroyed by Banshee at 09:41:42 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:41:42 
+Event DPRK D-30 destroyed by Banshee at 09:41:42 
+Event SA7 launched at Banshee 09:41:42 
+Event SA7 launched at Banshee 09:42:09 
+Event SA7 launched at Banshee 09:42:54 
+Event DPRK D-30 destroyed by Banshee at 09:43:00 
+Event DPRK SA-7 destroyed by Banshee at 09:43:00 
+Event DPRK SA-7 destroyed by Banshee at 09:43:00 
+Event DPRK SA-7 destroyed by Banshee at 09:43:00 
+Event DPRK ZIL-135 destroyed by Banshee at 09:43:00 
+Event DPRK D-30 destroyed by Banshee at 09:43:00 
+Event DPRK D-30 destroyed by Banshee at 09:43:00 
+Event SA7 launched at Banshee 09:43:59 
+Event Banshee exited from Serpent31 at 09:44:05 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 1 
+AG Kills 11 
+AS Kills 0 
+AN Kills 0 
+Shoot At 6 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120B released at 09:40:01   hit MiG-21MF - destroyed 
+
+LOADOUT 3: BSU-49 
+Starting Load 12 
+Fired 2 
+Missed 0 
+Hit 2 
+Event BSU-49 released at 09:41:36   hit D-30 - destroyed 
+Event    hit D-30 - destroyed 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Chough 
+Callsign: Serpent32 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: BSU-49 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

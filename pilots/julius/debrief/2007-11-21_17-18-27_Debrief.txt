@@ -1,0 +1,119 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/21/2007 17:18:28.
+Game is Campaign type Local
+
+Mission Type: Naval Strike 
+Flight Callsign: Snake3
+2 Ship Flight
+Ac type: Typhoon 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Snake31 at 07:13:00 
+Event Yugoslavian Osa II destroyed by Banshee at 07:28:05 
+Event Yugoslavian Osa II destroyed by Snake32 at 07:30:49 
+Event Slovenian Cargo Ship destroyed by Banshee at 07:34:04 
+Event Banshee exited from Snake31 at 07:34:14 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 1 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: IRIS-T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-84A 
+Starting Load 6 
+Fired 5 
+Missed 1 
+Hit 4 
+Event AGM-84A released at 07:25:30   hit Osa II - destroyed 
+Event AGM-84A released at 07:25:43   miss 
+Event AGM-84A released at 07:28:21   hit Osa II - damaged 
+Event AGM-84A released at 07:31:27   hit Cargo Ship - damaged 
+Event AGM-84A released at 07:31:32   hit Cargo Ship - destroyed 
+
+LOADOUT 3: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Maj. Powers 
+Callsign: Snake32 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 1 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: IRIS-T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-84A 
+Starting Load 6 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-84A released at 07:30:05   hit Osa II - destroyed 
+Event AGM-84A released at 07:30:18   miss 
+
+LOADOUT 3: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

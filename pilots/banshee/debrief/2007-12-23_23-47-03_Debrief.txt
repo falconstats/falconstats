@@ -1,0 +1,288 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/23/2007 23:47:04.
+Game is Campaign type Networked
+
+Mission Type: OCA Strike 
+Flight Callsign: Gypsy1
+4 Ship Flight
+Ac type: F-16C-52 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Tom 360th joined as Gypsy14 at 14:24:36 
+Event Firefly joined as Gypsy12 at 14:24:53 
+Event DragonFly joined as Gypsy11 at 14:24:57 
+Event Banshee joined as Gypsy13 at 14:25:00 
+Event DPRK MiG-29A downed by Banshee at 15:00:49 
+Event DPRK MiG-29A downed by Tom 360th at 15:01:05 
+Event DPRK MiG-29A downed by Banshee at 15:04:57 
+Event DPRK MiG-29A downed by Tom 360th at 15:09:04 
+Event R-27R launched at DragonFly 15:09:12 
+Event R-27R launched at DragonFly 15:09:16 
+Event DPRK MiG-29A downed by Tom 360th at 15:09:18 
+Event SA7 launched at Banshee 15:09:51 
+Event DPRK MiG-29A downed by Banshee at 15:10:29 
+Event R-27R launched at Firefly 15:11:18 
+Event R-27R launched at Firefly 15:11:22 
+Event Firefly ejected at 15:11:58 
+Event Firefly exited from Gypsy12 at 15:12:36 
+Event DPRK MiG-29A downed by Banshee at 15:13:13 
+Event SA7 launched at DragonFly 15:15:35 
+Event DPRK Runway destroyed by DragonFly at 15:15:43 
+Event DPRK Runway destroyed by DragonFly at 15:15:45 
+Event DPRK Runway destroyed by DragonFly at 15:15:50 
+Event SA7 launched at Banshee 15:17:10 
+Event DPRK Runway destroyed by Banshee at 15:17:19 
+Event SA7 launched at Tom 360th 15:17:36 
+Event DPRK J-6 downed by DragonFly at 15:27:23 
+Event Banshee landed at 15:49:47 
+Event Banshee landed at 15:49:48 
+Event DragonFly landed at 15:50:45 
+Event DragonFly landed at 15:50:45 
+Event DragonFly violated ATC protocol at 15:50:46 
+Event Tom 360th violated ATC protocol at 15:51:51 
+Event Tom 360th landed at 15:52:48 
+Event Tom 360th violated ATC protocol at 15:52:48 
+Event Banshee exited from Gypsy13 at 15:57:03 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 49thDragonFly 
+Callsign: DragonFly 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 3 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-9M released at 15:12:59   miss 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 3 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120C-4 released at 15:12:20   miss 
+Event AIM-120C-4 released at 15:26:46   hit J-6 - destroyed 
+
+LOADOUT 3: BLU-107/B 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BLU-107/B released at 15:15:40   hit Runway - destroyed 
+Event BLU-107/B released at 15:15:42   hit Runway - destroyed 
+Event BLU-107/B released at 15:15:46   hit Runway - damaged 
+Event BLU-107/B released at 15:15:47   hit Runway - damaged 
+Event BLU-107/B released at 15:15:48   hit Runway - destroyed 
+Event BLU-107/B released at 15:15:50   hit Runway - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 2Lt. Firefly 
+Callsign: Firefly 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: BLU-107/B 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 0 
+Hit 1 
+Event 20mm M61 fired at 15:13:01   hit MiG-29A - destroyed 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-9M released at 15:11:22   hit MiG-29A - damaged 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 3 
+Fired 3 
+Missed 0 
+Hit 3 
+Event AIM-120C-4 released at 14:59:55   hit MiG-29A - destroyed 
+Event AIM-120C-4 released at 15:04:22   hit MiG-29A - destroyed 
+Event AIM-120C-4 released at 15:10:11   hit MiG-29A - destroyed 
+
+LOADOUT 3: BSU-49 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BSU-49 released at 15:17:13   hit Runway - damaged 
+Event BSU-49 released at 15:17:13   hit Runway - damaged 
+Event    hit Vasi - damaged 
+Event BSU-49 released at 15:17:14   hit Runway - damaged 
+Event BSU-49 released at 15:17:14   hit Runway - destroyed 
+Event BSU-49 released at 15:17:15   hit Runway - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Tom 360th 
+Callsign: Tom 360th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-9M released at 15:08:52   hit MiG-29A - destroyed 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 3 
+Fired 3 
+Missed 1 
+Hit 2 
+Event AIM-120C-4 released at 15:00:13   hit MiG-29A - destroyed 
+Event AIM-120C-4 released at 15:07:46   miss 
+Event AIM-120C-4 released at 15:08:15   hit MiG-29A - destroyed 
+
+LOADOUT 3: BSU-49 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BSU-49 released at 15:17:38   hit Runway - damaged 
+Event BSU-49 released at 15:17:38   hit Runway - damaged 
+Event BSU-49 released at 15:17:41   hit Runway - damaged 
+Event BSU-49 released at 15:17:41   hit Runway - damaged 
+Event BSU-49 released at 15:17:46   hit Runway - damaged 
+Event BSU-49 released at 15:17:46   hit Runway - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

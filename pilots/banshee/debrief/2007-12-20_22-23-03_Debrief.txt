@@ -1,0 +1,232 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/20/2007 22:23:04.
+Game is Tactical Engagement type Networked
+Mission name: train 4
+
+Mission Type: Sweep 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16C-52 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Cowboy13 at 09:00:36 
+Event DragonFly joined as Cowboy12 at 09:00:37 
+Event Banshee joined as Cowboy14 at 09:00:48 
+Event Steffen 49th joined as Cowboy11 at 09:01:08 
+Event R-77 launched at Steffen 49th 09:01:53 
+Event R-77M launched at DragonFly 09:02:01 
+Event R-27RE launched at Ghost 49th 09:02:08 
+Event R-27RE launched at Banshee 09:02:12 
+Event R-77 launched at DragonFly 09:02:13 
+Event R-77M launched at Banshee 09:02:15 
+Event R-27RE launched at DragonFly 09:02:30 
+Event Steffen 49th ejected at 09:02:49 
+Event DragonFly ejected at 09:03:31 
+Event Steffen 49th exited from Cowboy11 at 09:03:55 
+Event R-77 launched at Ghost 49th 09:04:06 
+Event R-27RE launched at Ghost 49th 09:04:54 
+Event Yugoslavian MiG-21F downed by Ghost 49th at 09:04:56 
+Event R-27RE launched at Ghost 49th 09:04:58 
+Event Yugoslavian MiG-29SM downed by Ghost 49th at 09:05:49 
+Event Yugoslavian MiG-29SM downed by Banshee at 09:06:29 
+Event R-77 launched at Ghost 49th 09:07:02 
+Event Yugoslavian MiG-21F downed by Banshee at 09:07:14 
+Event Yugoslavian MiG-29SM downed by Banshee at 09:08:38 
+Event Yugoslavian Su-27SM downed by Ghost 49th at 09:09:34 
+Event Yugoslavian MiG-29SM downed by Banshee at 09:11:54 
+Event Yugoslavian Su-27SM downed by Banshee at 09:13:25 
+Event Ghost 49th exited from Cowboy13 at 09:13:37 
+Event Banshee exited from Cowboy14 at 09:13:40 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Capt. Steffen 49th 
+Callsign: Steffen 49th 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-120C-5 released at 09:02:10   miss 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 49thDragonFly 
+Callsign: DragonFly 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 5 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 8 
+Missed 8 
+Hit 0 
+Event 20mm M61 fired at 09:11:06   miss 
+Event 20mm M61 fired at 09:11:10   miss 
+Event 20mm M61 fired at 09:11:19   miss 
+Event 20mm M61 fired at 09:11:35   miss 
+Event 20mm M61 fired at 09:11:49   miss 
+Event 20mm M61 fired at 09:13:11   miss 
+Event 20mm M61 fired at 09:13:12   miss 
+Event 20mm M61 fired at 09:13:13   miss 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-9X released at 09:09:04   hit Su-27SM - destroyed 
+Event AIM-9X released at 09:10:22   miss 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 4 
+Missed 2 
+Hit 2 
+Event AIM-120C-5 released at 09:02:10   miss 
+Event AIM-120C-5 released at 09:04:16   hit MiG-21F - destroyed 
+Event AIM-120C-5 released at 09:04:56   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 09:06:52   miss 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 5 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 7 
+Missed 4 
+Hit 3 
+Event 20mm M61 fired at 09:11:44   miss 
+Event 20mm M61 fired at 09:11:47   hit MiG-29SM - damaged 
+Event 20mm M61 fired at 09:11:49   miss 
+Event 20mm M61 fired at 09:13:13   miss 
+Event 20mm M61 fired at 09:13:15   miss 
+Event 20mm M61 fired at 09:13:15   hit Su-27SM - destroyed 
+Event 20mm M61 fired at 09:13:19   hit Su-27SM - damaged 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-9X released at 09:06:45   hit MiG-21F - destroyed 
+Event AIM-9X released at 09:08:11   hit Su-27SM - damaged 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 4 
+Missed 2 
+Hit 2 
+Event AIM-120C-5 released at 09:02:14   miss 
+Event AIM-120C-5 released at 09:05:43   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 09:06:16   miss 
+Event AIM-120C-5 released at 09:07:58   hit MiG-29SM - destroyed 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

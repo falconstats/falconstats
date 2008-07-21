@@ -1,0 +1,129 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/31/2007 17:45:20.
+Game is Campaign type Networked
+
+Mission Type: BARCAP 
+Flight Callsign: Hornet3
+2 Ship Flight
+Ac type: F/A-18F 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event DPRK Su-33SM downed by Hornet32 at 12:57:56 
+Event Banshee joined as Hornet31 at 12:58:34 
+Event DPRK MiG-29SM downed by Hornet32 at 12:58:40 
+Event Hornet32 ejected at 12:58:41 
+Event R-27RE launched at Banshee 12:59:02 
+Event DPRK MiG-29SM downed by Banshee at 12:59:49 
+Event DPRK MiG-29SM downed by Banshee at 13:05:46 
+Event DPRK MiG-29SM downed by Banshee at 13:06:21 
+Event R-77M launched at Banshee 13:11:07 
+Event R-77M launched at Banshee 13:11:08 
+Event Banshee downed by DPRK MiG-29S at 13:11:48 
+Event Banshee exited from Hornet31 at 13:11:52 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 570 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 13:09:15   miss 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120B released at 12:59:05   hit MiG-29SM - destroyed 
+Event AIM-120B released at 13:04:20   miss 
+
+LOADOUT 3: 330 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AIM-120C-4 
+Starting Load 6 
+Fired 6 
+Missed 4 
+Hit 2 
+Event AIM-120C-4 released at 13:04:34   hit MiG-29SM - destroyed 
+Event AIM-120C-4 released at 13:05:45   hit MiG-29SM - destroyed 
+Event AIM-120C-4 released at 13:11:02   miss 
+Event AIM-120C-4 released at 13:11:27   miss 
+Event AIM-120C-4 released at 13:11:28   miss 
+Event AIM-120C-4 released at 13:11:29   miss 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Maj. Kram 
+Callsign: Hornet32 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 570 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 330 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AIM-120C-4 
+Starting Load 6 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-4 released at 12:57:52   hit MiG-29SM - destroyed 
+

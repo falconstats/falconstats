@@ -1,0 +1,253 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/2/2007 20:38:06.
+Game is Campaign type Local
+
+Mission Type: SEAD Escort 
+Flight Callsign: Shark1
+4 Ship Flight
+Ac type: F-16C-52 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Shark11 at 11:30:43 
+Event DPRK Barlock-B destroyed by Banshee at 11:37:58 
+Event DPRK An-24 downed by Banshee at 11:40:30 
+Event SA2 launched at Banshee 11:41:02 
+Event SA2 launched at Banshee 11:41:08 
+Event DPRK An-24 downed by Banshee at 11:41:13 
+Event SA2 launched at Banshee 11:41:39 
+Event SA3 launched at Banshee 11:41:44 
+Event SA7 launched at Banshee 11:42:38 
+Event DPRK Fan Song B destroyed by Banshee at 11:42:42 
+Event DPRK KrAz T 255B destroyed by Banshee at 11:42:42 
+Event SA3 launched at Banshee 11:42:58 
+Event SA3 launched at Banshee 11:43:01 
+Event SA3 launched at Banshee 11:43:28 
+Event SA3 launched at Banshee 11:43:30 
+Event SA3 launched at Banshee 11:43:37 
+Event SA2 launched at Banshee 11:43:38 
+Event SA3 launched at Banshee 11:43:42 
+Event SA7 launched at Banshee 11:43:44 
+Event SA7 launched at Banshee 11:44:15 
+Event Banshee exited from Shark11 at 11:44:16 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 2 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 14 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 11:40:24   hit An-24 - damaged 
+Event AIM-120C-4 released at 11:40:40   hit An-24 - destroyed 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120B released at 11:39:27   hit An-24 - destroyed 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-88C released at 11:35:00   hit Barlock-B - destroyed 
+Event AGM-88C released at 11:37:21   miss 
+
+LOADOUT 4: CBU-58A/B 
+Starting Load 4 
+Fired 4 
+Missed 3 
+Hit 1 
+Event CBU-58A/B released at 11:42:35   hit Fan Song B - destroyed 
+Event    hit ZPU-2 - damaged 
+Event    hit ZPU-2 - damaged 
+Event    hit KrAz T 255B - destroyed 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Cpt. Byun 
+Callsign: Shark12 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: CBU-58A/B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Kang 
+Callsign: Shark13 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: CBU-58A/B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Cha 
+Callsign: Shark14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: CBU-58A/B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

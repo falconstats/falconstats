@@ -1,0 +1,191 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/10/2007 01:02:10.
+Game is Tactical Engagement type Networked
+Mission name: precise-cut
+
+Mission Type: Intercept 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 04:15:38 
+Event 49thKolbe joined as Cowboy13 at 04:15:38 
+Event Cowboy14 landed at 04:24:58 
+Event Cowboy12 landed at 04:25:00 
+Event SA16 launched at Banshee 04:35:09 
+Event R-77M launched at Banshee 04:37:25 
+Event R-77M launched at 49thKolbe 04:37:55 
+Event R-77M launched at 49thKolbe 04:37:59 
+Event R-77M launched at Banshee 04:38:05 
+Event R-77M launched at Banshee 04:38:07 
+Event 49thKolbe downed by Yugoslavian Su-37 at 04:38:08 
+Event 49thKolbe exited from Cowboy13 at 04:38:14 
+Event Banshee downed by Yugoslavian Su-37 at 04:38:35 
+Event Banshee exited from Cowboy11 at 04:38:41 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 4 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-65D 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Webster 
+Callsign: Cowboy12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-65D 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Maj. 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-120B released at 04:37:34   miss 
+
+LOADOUT 2: AGM-65D 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Munoz 
+Callsign: Cowboy14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-65D 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

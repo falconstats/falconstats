@@ -1,0 +1,259 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/18/2007 22:11:22.
+Game is Tactical Engagement type Networked
+Mission name: airbase
+
+Mission Type: Escort 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: Typhoon 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event dado joined as Falcon13 at 08:59:52 
+Event Marvel joined as Falcon14 at 08:59:56 
+Event DragonFly joined as Falcon12 at 09:00:01 
+Event Banshee joined as Falcon11 at 09:00:09 
+Event Yugoslavian MiG-31 downed by dado at 09:19:31 
+Event R-33 launched at Marvel 09:19:35 
+Event Yugoslavian MiG-31 downed by Banshee at 09:19:48 
+Event Yugoslavian MiG-31 downed by DragonFly at 09:19:50 
+Event Marvel ejected at 09:20:30 
+Event Mica RF launched at DragonFly 09:21:25 
+Event Mica RF launched at DragonFly 09:21:29 
+Event Mica RF launched at Banshee 09:21:51 
+Event Mica RF launched at Banshee 09:21:55 
+Event Yugoslavian Mirage 2000-D downed by Banshee at 09:23:18 
+Event Marvel exited from Falcon14 at 09:25:52 
+Event Yugoslavian MiG-21-93 downed by DragonFly at 09:29:20 
+Event Yugoslavian MiG-21-93 downed by Banshee at 09:29:20 
+Event Yugoslavian MiG-21-93 downed by DragonFly at 09:30:44 
+Event Yugoslavian MiG-21MF downed by dado at 09:48:42 
+Event Yugoslavian MiG-21MF downed by dado at 09:49:59 
+Event dado landed at 10:08:56 
+Event dado landed at 10:08:57 
+Event dado exited from Falcon13 at 10:10:23 
+Event Falcon13 crashed at 10:19:49 
+Event Banshee landed at 10:20:38 
+Event Banshee landed at 10:20:39 
+Event DragonFly landed at 10:21:10 
+Event Banshee exited from Falcon11 at 10:24:46 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 27mm-1x fired at 09:23:07   miss 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-9M released at 09:22:06   miss 
+Event AIM-9M released at 09:22:20   hit Mirage 2000-D - damaged 
+
+LOADOUT 2: AIM-120B 
+Starting Load 7 
+Fired 3 
+Missed 0 
+Hit 3 
+Event AIM-120B released at 09:18:51   hit MiG-31 - destroyed 
+Event AIM-120B released at 09:22:53   hit Mirage 2000-D - destroyed 
+Event AIM-120B released at 09:28:12   hit MiG-21-93 - destroyed 
+
+LOADOUT 3: 1500li Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALARM 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 49thDragonFly 
+Callsign: DragonFly 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-9M released at 09:29:39   miss 
+Event AIM-9M released at 09:30:29   hit MiG-21-93 - destroyed 
+
+LOADOUT 2: AIM-120B 
+Starting Load 8 
+Fired 5 
+Missed 2 
+Hit 3 
+Event AIM-120B released at 09:18:50   hit MiG-31 - destroyed 
+Event AIM-120B released at 09:20:31   hit MiG-31 - damaged 
+Event AIM-120B released at 09:23:05   miss 
+Event AIM-120B released at 09:28:20   hit MiG-21-93 - destroyed 
+Event AIM-120B released at 09:46:36   miss 
+
+LOADOUT 3: 1500li Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Capt. DADO 
+Callsign: dado 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-9M released at 09:30:03   miss 
+
+LOADOUT 2: AIM-120B 
+Starting Load 8 
+Fired 5 
+Missed 1 
+Hit 4 
+Event AIM-120B released at 09:18:22   hit MiG-31 - destroyed 
+Event AIM-120B released at 09:20:46   miss 
+Event AIM-120B released at 09:45:03   hit A-50 - damaged 
+Event AIM-120B released at 09:47:27   hit MiG-21MF - destroyed 
+Event AIM-120B released at 09:49:17   hit MiG-21MF - destroyed 
+
+LOADOUT 3: 1500li Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Capt. Marvel 
+Callsign: Marvel 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 7 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 1500li Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALARM 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

@@ -1,0 +1,196 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/11/2007 01:02:28.
+Game is Campaign type Networked
+
+Mission Type: OCA Strike 
+Flight Callsign: Serpent1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Condor joined as Serpent14 at 09:31:13 
+Event 49thNick joined as Serpent11 at 09:31:17 
+Event Spirit joined as Serpent12 at 09:31:22 
+Event Venom joined as Serpent13 at 09:31:31 
+Event R-77 launched at 49thNick 10:04:38 
+Event R-77 launched at 49thNick 10:04:54 
+Event 49thNick ejected at 10:05:11 
+Event R-77 launched at Spirit 10:05:12 
+Event R-27RE launched at Venom 10:05:18 
+Event R-77 launched at Spirit 10:05:27 
+Event Venom ejected at 10:05:34 
+Event Spirit ejected at 10:05:55 
+Event R-13M launched at Condor 10:08:06 
+Event R-60 launched at Condor 10:08:21 
+Event R-60 launched at Condor 10:08:38 
+Event R-13M launched at Condor 10:08:42 
+Event Condor ejected at 10:08:47 
+Event Venom exited from Serpent13 at 10:57:21 
+Event 49thNick exited from Serpent11 at 10:58:24 
+Event Spirit exited from Serpent12 at 10:58:52 
+Event Condor exited from Serpent14 at 10:58:52 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. 49thNickTaylor 
+Callsign: 49thNick 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: BLU-107/B 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Spirit 
+Callsign: Spirit 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: BLU-107/B 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Lt. Venom 
+Callsign: Venom 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: BLU-107/B 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Condor 
+Callsign: Condor 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 4 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: BLU-107/B 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

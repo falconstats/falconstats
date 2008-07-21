@@ -1,0 +1,218 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/20/2007 22:06:06.
+Game is Campaign type Networked
+
+Mission Type: Escort 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event 49thKolbe joined as Falcon13 at 12:37:18 
+Event Ghost 49th joined as Falcon14 at 12:37:23 
+Event 49GreyHunter joined as Falcon12 at 12:37:25 
+Event Banshee joined as Falcon11 at 12:37:27 
+Event 49thKolbe exited from Falcon13 at 12:47:06 
+Event R-27R launched at Banshee 13:01:03 
+Event PRC Su-27SM downed by Banshee at 13:02:10 
+Event CIS Su-27 downed by Ghost 49th at 13:08:52 
+Event R-60 launched at Ghost 49th 13:19:34 
+Event DPRK MiG-29SM downed by 49GreyHunter at 13:28:02 
+Event CIS Tu-160* downed by 49GreyHunter at 13:29:00 
+Event CIS Tu-160* downed by 49GreyHunter at 13:29:23 
+Event CIS Tu-160* downed by 49GreyHunter at 13:30:08 
+Event CIS Tu-160* downed by 49GreyHunter at 13:30:45 
+Event R-33 launched at Banshee 13:34:52 
+Event CIS Su-27 downed by Ghost 49th at 13:35:03 
+Event CIS MiG-31 downed by Ghost 49th at 13:36:20 
+Event 49GreyHunter landed at 13:50:31 
+Event 49GreyHunter exited from Falcon12 at 13:53:39 
+Event Ghost 49th landed at 14:03:58 
+Event Ghost 49th landed at 14:04:00 
+Event Banshee landed at 14:07:23 
+Event Ghost 49th exited from Falcon14 at 14:07:47 
+Event Banshee exited from Falcon11 at 14:09:37 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 4 
+Missed 1 
+Hit 3 
+Event AIM-120C-5 released at 13:01:06   hit Su-27SM - destroyed 
+Event AIM-120C-5 released at 13:27:27   hit Tu-160* - damaged 
+Event AIM-120C-5 released at 13:28:17   miss 
+Event AIM-120C-5 released at 13:34:54   hit MiG-31 - damaged 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Capt. 49GreyHunter 
+Callsign: 49GreyHunter 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 5 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 5 
+Missed 0 
+Hit 5 
+Event AIM-120C-5 released at 13:26:17   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 13:28:23   hit Tu-160* - destroyed 
+Event AIM-120C-5 released at 13:29:08   hit Tu-160* - destroyed 
+Event AIM-120C-5 released at 13:29:46   hit Tu-160* - destroyed 
+Event AIM-120C-5 released at 13:30:27   hit Tu-160* - destroyed 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Maj. 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Capt. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 4 
+Missed 4 
+Hit 0 
+Event 20mm M61 fired at 13:19:17   miss 
+Event 20mm M61 fired at 13:30:42   miss 
+Event 20mm M61 fired at 13:30:43   miss 
+Event 20mm M61 fired at 13:30:44   miss 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 6 
+Missed 2 
+Hit 4 
+Event AIM-120C-5 released at 13:08:11   hit Su-27 - destroyed 
+Event AIM-120C-5 released at 13:28:49   hit Tu-160* - damaged 
+Event AIM-120C-5 released at 13:29:48   miss 
+Event AIM-120C-5 released at 13:33:31   miss 
+Event AIM-120C-5 released at 13:34:17   hit Su-27 - destroyed 
+Event AIM-120C-5 released at 13:35:27   hit MiG-31 - destroyed 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

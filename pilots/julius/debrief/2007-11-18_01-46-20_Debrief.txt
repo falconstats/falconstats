@@ -1,0 +1,203 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/18/2007 01:46:22.
+Game is Tactical Engagement type Networked
+Mission name: Flugshow
+
+Mission Type: DCA 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-52 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Falcon12 at 09:19:29 
+Event Cleaner 49th joined as Falcon11 at 09:19:29 
+Event DragonFly joined as Falcon13 at 09:19:29 
+Event Banshee violated ATC protocol at 09:20:45 
+Event DragonFly violated ATC protocol at 09:20:57 
+Event Banshee violated ATC protocol at 09:21:00 
+Event DragonFly violated ATC protocol at 09:21:12 
+Event Banshee violated ATC protocol at 09:21:16 
+Event DragonFly violated ATC protocol at 09:21:28 
+Event Banshee violated ATC protocol at 09:21:31 
+Event Banshee violated ATC protocol at 09:21:32 
+Event DragonFly violated ATC protocol at 09:21:34 
+Event Falcon14 landed at 09:29:01 
+Event F-16C-52 Banshee launched AIM-9X at DragonFly 09:48:41 
+Event DragonFly landed at 10:09:28 
+Event Cleaner 49th landed at 10:09:28 
+Event DragonFly landed at 10:09:29 
+Event Cleaner 49th landed at 10:09:29 
+Event DragonFly violated ATC protocol at 10:09:30 
+Event Cleaner 49th violated ATC protocol at 10:09:30 
+Event Banshee landed at 10:09:30 
+Event Banshee violated ATC protocol at 10:09:30 
+Event Banshee violated ATC protocol at 10:11:09 
+Event DragonFly violated ATC protocol at 10:11:24 
+Event Slovenian Terminal destroyed by Banshee at 10:17:40 
+Event Cleaner 49th violated ATC protocol at 10:18:54 
+Event Cleaner 49th landed at 10:21:20 
+Event Cleaner 49th violated ATC protocol at 10:21:20 
+Event Banshee landed at 10:28:36 
+Event Banshee landed at 10:28:39 
+Event Banshee violated ATC protocol at 10:28:39 
+Event Banshee violated ATC protocol at 10:28:41 
+Event Slovenian Fence destroyed by Banshee at 10:43:15 
+Event Banshee landed at 11:00:59 
+Event Slovenian Fence destroyed by DragonFly at 11:08:10 
+Event Slovenian Terminal destroyed by Banshee at 11:09:07 
+Event DragonFly landed at 11:10:00 
+Event DragonFly violated ATC protocol at 11:10:00 
+Event DragonFly violated ATC protocol at 11:10:00 
+Event Banshee landed at 11:11:42 
+Event DragonFly landed at 11:12:22 
+Event DragonFly landed at 11:12:23 
+Event DragonFly violated ATC protocol at 11:12:23 
+Event DragonFly violated ATC protocol at 11:12:24 
+Event Banshee landed at 11:13:11 
+Event DragonFly landed at 11:13:54 
+Event DragonFly landed at 11:15:09 
+Event DragonFly landed at 11:15:12 
+Event DragonFly violated ATC protocol at 11:15:13 
+Event DragonFly violated ATC protocol at 11:16:11 
+Event Slovenian Terminal destroyed by DragonFly at 11:16:11 
+Event Slovenian Fence destroyed by DragonFly at 11:16:12 
+Event Slovenian Converter destroyed by DragonFly at 11:16:14 
+Event Banshee landed at 11:20:10 
+Event Banshee violated ATC protocol at 11:20:10 
+Event Banshee violated ATC protocol at 11:20:10 
+Event Banshee landed at 11:33:34 
+Event Banshee violated ATC protocol at 11:33:35 
+Event Banshee violated ATC protocol at 11:33:50 
+Event Slovenian Fence destroyed by DragonFly at 11:36:37 
+Event Banshee landed at 11:38:36 
+Event Cleaner 49th exited from Falcon11 at 11:43:15 
+Event Banshee landed at 11:46:59 
+Event Banshee landed at 11:47:00 
+Event DragonFly ejected at 11:48:47 
+Event DragonFly exited from Falcon13 at 11:49:04 
+Event Banshee exited from Falcon12 at 11:49:12 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Cleaner 49th 
+Callsign: Cleaner 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 09:58:56   miss 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 5 
+Missed 4 
+Hit 1 
+Event 20mm M61 fired at 10:33:20   miss 
+Event 20mm M61 fired at 10:33:25   miss 
+Event 20mm M61 fired at 10:56:51   miss 
+Event 20mm M61 fired at 10:57:00   hit Fence - damaged 
+Event 20mm M61 fired at 11:13:15   miss 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AIM-9X released at 09:48:41   miss 
+Event AIM-9X released at 10:37:46   miss 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col 49thDragonFly 
+Callsign: DragonFly 
+Pilot status  - OK 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Keiser 
+Callsign: Falcon14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+

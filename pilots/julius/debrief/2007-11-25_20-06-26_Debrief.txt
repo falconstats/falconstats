@@ -1,0 +1,208 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/25/2007 20:06:28.
+Game is Campaign type Local
+
+Mission Type: BAI 
+Flight Callsign: Viper1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Viper11 at 18:34:00 
+Event Banshee violated ATC protocol at 18:35:32 
+Event Banshee violated ATC protocol at 18:35:46 
+Event SA14 launched at Banshee 18:43:24 
+Event DPRK M-1974 destroyed by Banshee at 18:43:27 
+Event DPRK ACRV destroyed by Banshee at 18:43:27 
+Event DPRK KrAz T 255B destroyed by Banshee at 18:43:27 
+Event DPRK KrAz T 255B destroyed by Banshee at 18:43:27 
+Event DPRK D-30 destroyed by Banshee at 18:43:27 
+Event DPRK D-30 destroyed by Banshee at 18:43:27 
+Event DPRK BMP-1 destroyed by Banshee at 18:43:29 
+Event DPRK BMP-1 destroyed by Banshee at 18:43:29 
+Event DPRK D-30 destroyed by Banshee at 18:43:29 
+Event DPRK D-30 destroyed by Banshee at 18:43:29 
+Event DPRK D-30 destroyed by Banshee at 18:43:29 
+Event DPRK ZSU57-2 destroyed by Banshee at 18:43:29 
+Event DPRK KrAz F 255B destroyed by Banshee at 18:43:29 
+Event DPRK ZSU57-2 destroyed by Banshee at 18:43:29 
+Event DPRK ZSU57-2 destroyed by Banshee at 18:43:29 
+Event DPRK KrAz F 255B destroyed by Banshee at 18:43:29 
+Event DPRK KrAz F 255B destroyed by Banshee at 18:43:29 
+Event DPRK D-30 destroyed by Banshee at 18:43:30 
+Event DPRK D-30 destroyed by Banshee at 18:43:30 
+Event DPRK D-30 destroyed by Banshee at 18:43:30 
+Event DPRK Fuel Truck destroyed by Banshee at 18:43:30 
+Event DPRK KrAz T 255B destroyed by Banshee at 18:43:30 
+Event Banshee exited from Viper11 at 18:43:32 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 22 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event Mk-20D released at 18:43:09   hit M-1974 - destroyed 
+Event    hit Bunker - damaged 
+Event    hit D-30 - destroyed 
+Event    hit D-30 - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Hwan 
+Callsign: Viper12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Maj. Min-Taek 
+Callsign: Viper13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Rim 
+Callsign: Viper14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

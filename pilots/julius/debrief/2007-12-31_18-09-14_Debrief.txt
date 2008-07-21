@@ -1,0 +1,44 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/31/2007 18:09:16.
+Game is Campaign type Networked
+
+Mission Type: Tanker 
+Flight Callsign: Camel1
+1 Ship Flight
+Ac type: KC-135 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Camel11 at 13:16:59 
+Event Banshee landed at 13:24:37 
+Event Banshee landed at 13:25:54 
+Event Banshee landed at 13:25:54 
+Event Banshee landed at 13:25:59 
+Event Banshee landed at 13:26:14 
+Event Banshee landed at 13:26:14 
+Event Banshee landed at 13:28:28 
+Event Banshee landed at 13:28:29 
+Event Banshee landed at 13:35:40 
+Event Banshee landed at 13:35:40 
+Event Banshee landed at 13:35:41 
+Event Banshee exited from Camel11 at 13:35:47 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+

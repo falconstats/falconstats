@@ -1,0 +1,247 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/30/2007 21:39:04.
+Game is Tactical Engagement type Networked
+Mission name: Schlecht Wetter 49th
+
+Mission Type: Escort 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event x4nPro joined as Falcon13 at 18:54:12 
+Event de4deye joined as Falcon12 at 18:54:17 
+Event 49thKolbe joined as Falcon11 at 18:54:19 
+Event Banshee joined as Falcon14 at 18:54:32 
+Event DPRK MiG-21PFM downed by x4nPro at 19:05:39 
+Event DPRK MiG-21PFM downed by Banshee at 19:06:48 
+Event DPRK MiG-29G downed by de4deye at 19:09:04 
+Event DPRK MiG-29G downed by Banshee at 19:09:21 
+Event DPRK MiG-29G downed by 49thKolbe at 19:09:25 
+Event DPRK MiG-29G downed by x4nPro at 19:10:38 
+Event DPRK MiG-29G downed by 49thKolbe at 19:13:16 
+Event DPRK MiG-29G downed by de4deye at 19:13:49 
+Event DPRK MiG-29G downed by Banshee at 19:16:04 
+Event R-73 Mod 1 launched at 49thKolbe 19:16:15 
+Event 49thKolbe ejected at 19:16:30 
+Event DPRK MiG-29G downed by Banshee at 19:16:45 
+Event R-77 launched at de4deye 19:37:17 
+Event R-77 launched at de4deye 19:37:50 
+Event R-77 launched at x4nPro 19:38:16 
+Event de4deye ejected at 19:38:44 
+Event DPRK Su-37 downed by de4deye at 19:39:03 
+Event 49thKolbe exited from Falcon11 at 19:42:09 
+Event AIM-120C-4 launched at x4nPro 19:43:00 
+Event AIM-120C-5 launched at x4nPro 19:43:00 
+Event de4deye exited from Falcon12 at 19:43:08 
+Event Banshee landed at 19:47:06 
+Event x4nPro landed at 19:49:02 
+Event x4nPro landed at 19:49:06 
+Event x4nPro violated ATC protocol at 19:50:00 
+Event Banshee exited from Falcon14 at 19:53:15 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Maj. 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-9X released at 19:15:55   hit MiG-29G - damaged 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 19:08:35   hit MiG-29G - destroyed 
+Event AIM-120C-4 released at 19:12:10   hit MiG-29G - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col de4deye 
+Callsign: de4deye 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 3 
+Missed 0 
+Hit 3 
+Event AIM-120C-4 released at 19:08:28   hit MiG-29G - destroyed 
+Event AIM-120C-4 released at 19:12:43   hit MiG-29G - destroyed 
+Event AIM-120C-4 released at 19:37:56   hit Su-37 - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: x4nPro 
+Callsign: x4nPro 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-9X released at 19:38:22   miss 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 4 
+Missed 2 
+Hit 2 
+Event AIM-120C-4 released at 19:04:30   hit MiG-21PFM - destroyed 
+Event AIM-120C-4 released at 19:08:13   miss 
+Event AIM-120C-4 released at 19:09:41   hit MiG-29G - destroyed 
+Event AIM-120C-4 released at 19:12:08   miss 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-9X released at 19:16:18   hit MiG-29G - destroyed 
+Event AIM-9X released at 19:39:35   miss 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event AIM-120C-4 released at 19:04:51   miss 
+Event AIM-120C-4 released at 19:05:58   hit MiG-21PFM - destroyed 
+Event AIM-120C-4 released at 19:08:15   hit MiG-29G - destroyed 
+Event AIM-120C-4 released at 19:15:31   hit MiG-29G - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

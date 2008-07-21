@@ -1,0 +1,115 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/10/2007 22:34:00.
+Game is Tactical Engagement type Local
+Mission name: precise-cut
+
+Mission Type: AmbushCAP 
+Flight Callsign: Bat1
+2 Ship Flight
+Ac type: F-14D 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Bat11 at 04:20:00 
+Event R-27R launched at Banshee 04:38:33 
+Event Yugoslavian Su-37 downed by Banshee at 04:38:55 
+Event R-27R launched at Banshee 04:39:00 
+Event Banshee exited from Bat11 at 04:39:11 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 680 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-54C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-54C released at 04:37:17   hit Su-37 - destroyed 
+Event AIM-54C released at 04:37:34   hit Su-37 - damaged 
+
+LOADOUT 3: 268gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AIM-54A 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Covert 
+Callsign: Bat12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 680 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-54C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 268gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AIM-54A 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+

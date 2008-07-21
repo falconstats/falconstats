@@ -1,0 +1,202 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 19:53:48.
+Game is Tactical Engagement type Local
+Mission name: kunstflug
+
+Mission Type: Training 
+Flight Callsign: Fury1
+4 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Fury11 at 09:28:43 
+Event Spirit12 downed by Banshee at 09:50:45 
+Event Spirit11 downed by Banshee at 09:50:57 
+Event Spirit14 downed by Banshee at 09:51:05 
+Event Fury14 ejected at 09:51:23 
+Event Fury14 downed by Banshee at 09:51:35 
+Event Banshee and Spirit13 collided at 09:54:20 
+Event Spirit13 downed by Banshee at 09:54:27 
+Event Banshee exited from Fury11 at 09:54:52 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 11 
+Missed 10 
+Hit 1 
+Event 20mm M61 fired at 09:51:59   miss 
+Event 20mm M61 fired at 09:52:04   miss 
+Event 20mm M61 fired at 09:52:22   miss 
+Event 20mm M61 fired at 09:52:24   miss 
+Event 20mm M61 fired at 09:52:33   miss 
+Event 20mm M61 fired at 09:52:38   miss 
+Event 20mm M61 fired at 09:52:42   hit MiG-33 - damaged 
+Event 20mm M61 fired at 09:52:46   miss 
+Event 20mm M61 fired at 09:52:58   miss 
+Event 20mm M61 fired at 09:53:01   miss 
+Event 20mm M61 fired at 09:53:02   miss 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120B released at 09:49:57   hit MiG-33 - damaged 
+Event AIM-120B released at 09:50:11   miss 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event AIM-120C-5 released at 09:50:20   hit MiG-33 - destroyed 
+Event AIM-120C-5 released at 09:50:40   hit MiG-33 - destroyed 
+Event AIM-120C-5 released at 09:50:52   hit MiG-33 - destroyed 
+Event AIM-120C-5 released at 09:51:11   hit F-16C-52 CCIP - destroyed 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Leugers 
+Callsign: Fury12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. DeMange 
+Callsign: Fury13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Keiser 
+Callsign: Fury14 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

@@ -1,0 +1,58 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/12/2007 15:15:32.
+Game is Tactical Engagement type Local
+Mission name: SPIELEREI
+
+Mission Type: DCA 
+Flight Callsign: Cowboy1
+1 Ship Flight
+Ac type: F-16C-52 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 09:25:19 
+Event Banshee landed at 09:33:30 
+Event U.S. Cooling Tower destroyed by Banshee at 09:37:24 
+Event Banshee landed at 09:55:17 
+Event U.S. nav beacon destroyed by Banshee at 10:07:55 
+Event Banshee exited from Cowboy11 at 10:08:07 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 2 
+Missed 1 
+Hit 1 
+Event 20mm M61 fired at 09:37:51   miss 
+Event 20mm M61 fired at 09:37:54   hit Reactor - damaged 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

@@ -1,0 +1,151 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2007 21:35:20.
+Game is Campaign type Local
+
+Mission Type: Interdiction 
+Flight Callsign: Falcon3
+2 Ship Flight
+Ac type: F-16C-40 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Falcon31 at 09:32:02 
+Event SA2 launched at Banshee 09:37:36 
+Event DPRK FROG-7 destroyed by Banshee at 09:37:51 
+Event DPRK FROG-7 destroyed by Banshee at 09:37:52 
+Event DPRK KrAz T 255B destroyed by Banshee at 09:37:53 
+Event DPRK KrAz T 255B destroyed by Banshee at 09:37:53 
+Event DPRK KrAz T 255B destroyed by Banshee at 09:37:54 
+Event DPRK KrAz T 255B destroyed by Banshee at 09:37:54 
+Event DPRK KrAz T 255B destroyed by Banshee at 09:37:54 
+Event DPRK FROG-7 destroyed by Banshee at 09:37:55 
+Event DPRK ZU-23 destroyed by Banshee at 09:37:55 
+Event DPRK FROG-7 destroyed by Banshee at 09:37:56 
+Event DPRK FROG-7 destroyed by Banshee at 09:37:57 
+Event DPRK BTR-80 destroyed by Banshee at 09:37:57 
+Event DPRK Fuel Truck destroyed by Banshee at 09:37:58 
+Event DPRK ZU-23 destroyed by Banshee at 09:38:28 
+Event DPRK ZU-23 destroyed by Banshee at 09:38:28 
+Event DPRK ZU-23 destroyed by Banshee at 09:38:28 
+Event SA7 launched at Banshee 09:40:43 
+Event DPRK Fan Song B destroyed by Banshee at 09:40:47 
+Event SA14 launched at Banshee 09:40:54 
+Event DPRK SA-2 destroyed by Falcon32 at 09:41:44 
+Event Banshee exited from Falcon31 at 09:48:31 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 17 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 0 
+Hit 1 
+Event 20mm M61 fired at 09:40:46   hit Fan Song B - destroyed 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-20D 
+Starting Load 12 
+Fired 12 
+Missed 1 
+Hit 11 
+Event Mk-20D released at 09:37:46   hit FROG-7 - destroyed 
+Event Mk-20D released at 09:37:47   hit FROG-7 - destroyed 
+Event Mk-20D released at 09:37:47   hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event Mk-20D released at 09:37:48   hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event Mk-20D released at 09:37:49   hit FROG-7 - destroyed 
+Event Mk-20D released at 09:37:50   hit ZU-23 - destroyed 
+Event Mk-20D released at 09:37:51   hit FROG-7 - destroyed 
+Event Mk-20D released at 09:37:51   hit FROG-7 - destroyed 
+Event Mk-20D released at 09:37:52   hit BTR-80 - destroyed 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Mendenhall 
+Callsign: Falcon32 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-20D 
+Starting Load 12 
+Fired 8 
+Missed 6 
+Hit 2 
+Event Mk-20D released at 09:39:50   miss 
+Event Mk-20D released at 09:39:50   miss 
+Event Mk-20D released at 09:41:26   hit SA-2 - destroyed 
+Event Mk-20D released at 09:41:26   hit SA-2 - damaged 
+Event Mk-20D released at 09:42:45   miss 
+Event Mk-20D released at 09:42:45   miss 
+Event Mk-20D released at 09:42:46   miss 
+Event Mk-20D released at 09:42:46   miss 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

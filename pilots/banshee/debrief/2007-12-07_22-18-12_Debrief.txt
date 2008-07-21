@@ -1,0 +1,36 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/7/2007 22:18:14.
+Game is Tactical Engagement type Networked
+Mission name: LLTM_2007_TE-5_final
+
+Mission Type: HAVCAP 
+Flight Callsign: Falcon1
+3 Ship Flight
+Ac type: Typhoon 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Falcon13 at 18:10:31 
+Event R-77 launched at Banshee 18:32:33 
+Event Yugoslavian MiG-29S downed by Cleaner 49th at 18:32:37 
+Event R-77 launched at Banshee 18:32:37 
+Event Yugoslavian MiG-29S downed by Cleaner 49th at 18:32:51 
+Event Yugoslavian MiG-29S downed by Banshee at 18:33:04 
+Event Banshee ejected at 18:33:05 
+Event Yugoslavian MiG-29S downed by Banshee at 18:33:15 
+Event Yugoslavian G-4 downed by Cleaner 49th at 18:35:20 
+Event Yugoslavian G-4 downed by Cleaner 49th at 18:36:59 
+Event Yugoslavian G-4 downed by Cleaner 49th at 18:37:04 
+Event Yugoslavian G-4 downed by Cleaner 49th at 18:41:54 
+Event R-27R launched at Cleaner 49th 18:58:16 
+Event R-27R launched at Cleaner 49th 18:58:19 
+Event Yugoslavian MiG-29A downed by Cleaner 49th at 18:58:41 
+Event Yugoslavian MiG-29A downed by Cleaner 49th at 19:00:16 
+Event Cleaner 49th landed at 19:26:55 
+Event Cleaner 49th landed at 19:26:56 
+Event Cleaner 49th exited from Falcon12 at 19:28:08 
+Event Banshee exited from Falcon13 at 19:37:43 
+

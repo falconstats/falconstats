@@ -1,0 +1,213 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/5/2007 22:06:06.
+Game is Campaign type Networked
+
+Mission Type: Deep Strike 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Sharkfin joined as Cowboy12 at 10:28:07 
+Event Bluebird joined as Cowboy14 at 10:28:13 
+Event Steffen 49th joined as Cowboy11 at 10:28:17 
+Event Banshee joined as Cowboy13 at 10:28:33 
+Event DPRK Warehouse destroyed by Sharkfin at 11:33:21 
+Event DPRK Storage Tank destroyed by Sharkfin at 11:33:21 
+Event DPRK Generator destroyed by Banshee at 11:33:38 
+Event Banshee ejected at 11:34:51 
+Event Banshee exited from Cowboy13 at 11:39:27 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 49th Steffen 
+Callsign: Steffen 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: GBU-24/B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event GBU-24/B released at 11:33:11   hit Office - damaged 
+Event    hit Generator - damaged 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Sharkfin 2 
+Callsign: Sharkfin 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: GBU-24/B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event GBU-24/B released at 11:32:55   hit Warehouse - destroyed 
+Event    hit Storage Tank - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: GBU-24/B 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event GBU-24/B released at 11:33:15   hit Generator - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Bluebird 
+Callsign: Bluebird 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: GBU-24/B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

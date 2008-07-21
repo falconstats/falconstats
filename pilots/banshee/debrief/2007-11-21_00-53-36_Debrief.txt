@@ -1,0 +1,229 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/21/2007 00:53:38.
+Game is Campaign type Local
+
+Mission Type: SEAD Strike 
+Flight Callsign: Spade1
+4 Ship Flight
+Ac type: F-15E-229 
+Country: IDF  
+
+FLIGHT EVENTS
+Event Banshee joined as Spade11 at 07:22:00 
+Event AIM-120B launched at Banshee 07:32:01 
+Event Egyptian    Low Blow destroyed by Banshee at 07:32:46 
+Event Spade12 ejected at 07:32:57 
+Event Banshee exited from Spade11 at 07:33:04 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: CBU-97 SFW 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AGM-130 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AGM-130 released at 07:31:30   hit Low Blow - destroyed 
+
+LOADOUT 5: 600 Gal Tank F15 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Cpt. Floros 
+Callsign: Spade12 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: CBU-97 SFW 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AGM-130 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 600 Gal Tank F15 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Quesada 
+Callsign: Spade13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: CBU-97 SFW 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AGM-130 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 600 Gal Tank F15 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Fischer 
+Callsign: Spade14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: CBU-97 SFW 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AGM-130 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 600 Gal Tank F15 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

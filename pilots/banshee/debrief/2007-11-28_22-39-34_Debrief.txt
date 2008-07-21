@@ -1,0 +1,123 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/28/2007 22:39:36.
+Game is Campaign type Local
+
+Mission Type: Deep Strike 
+Flight Callsign: Cowboy7
+2 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy71 at 19:26:00 
+Event DPRK KS-19 destroyed by Banshee at 19:50:32 
+Event DPRK KS-19 destroyed by Cowboy72 at 19:51:19 
+Event DPRK KS-12 destroyed by Banshee at 19:51:45 
+Event Banshee landed at 20:07:37 
+Event Banshee landed at 20:07:37 
+Event Banshee exited from Cowboy71 at 20:09:44 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 2 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 5 
+Missed 4 
+Hit 1 
+Event 20mm M61 fired at 19:51:36   miss 
+Event 20mm M61 fired at 19:51:39   miss 
+Event 20mm M61 fired at 19:51:40   miss 
+Event 20mm M61 fired at 19:51:44   miss 
+Event 20mm M61 fired at 19:51:44   hit KS-12 - destroyed 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: GBU-10I/B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event GBU-10I/B released at 19:50:03   hit KS-19 - destroyed 
+Event GBU-10I/B released at 19:50:04   miss 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Pak 
+Callsign: Cowboy72 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: GBU-10I/B 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event GBU-10I/B released at 19:50:52   miss 
+Event GBU-10I/B released at 19:50:53   hit Underground Fact - damaged 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

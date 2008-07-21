@@ -1,0 +1,146 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/10/2007 18:38:06.
+Game is Campaign type Networked
+
+Mission Type: SEAD Escort 
+Flight Callsign: Serpent4
+2 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event IceTea joined as Serpent41 at 05:02:38 
+Event Max joined as Serpent42 at 05:02:48 
+Event R-73 Mod 1 launched at IceTea 05:29:43 
+Event R-73 Mod 1 launched at IceTea 05:29:57 
+Event IceTea ejected at 05:30:13 
+Event Yugoslavian ZSU23-4 destroyed by Max at 05:37:48 
+Event Yugoslavian Fire Can  destroyed by Max at 05:38:11 
+Event Yugoslavian AT-4 destroyed by Max at 05:38:11 
+Event Yugoslavian BMP-CMD destroyed by Max at 05:43:58 
+Event Yugoslavian BMP-CMD destroyed by Max at 05:43:58 
+Event Yugoslavian MDK-2-D destroyed by Max at 05:45:55 
+Event Yugoslavian MDK-2-D destroyed by Max at 05:45:55 
+Event Yugoslavian MDK-2-D destroyed by Max at 05:45:55 
+Event Yugoslavian MDK-2-D destroyed by Max at 05:45:55 
+Event Yugoslavian MDK-2-D destroyed by Max at 05:45:55 
+Event Yugoslavian MDK-2-D destroyed by Max at 05:45:55 
+Event SA14 launched at Max 05:45:56 
+Event Max landed at 06:09:19 
+Event Max landed at 06:09:20 
+Event IceTea exited from Serpent41 at 06:20:36 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: IceTea 
+Callsign: IceTea 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120B released at 05:20:36   hit MiG-29SM - damaged 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: CBU-97 SFW 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Max 360th 
+Callsign: Max 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 11 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120B released at 05:20:04   hit MiG-29SM - damaged 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 05:37:32   hit ZSU23-4 - destroyed 
+Event AGM-88C released at 05:37:55   hit Fire Can  - destroyed 
+
+LOADOUT 4: CBU-97 SFW 
+Starting Load 4 
+Fired 3 
+Missed 1 
+Hit 2 
+Event CBU-97 SFW released at 05:43:42   hit BMP-CMD - destroyed 
+Event    hit BMP-CMD - destroyed 
+Event CBU-97 SFW released at 05:44:52   miss 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

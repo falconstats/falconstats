@@ -1,0 +1,79 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 03:52:36.
+Game is Tactical Engagement type Networked
+Mission name: Auto Save
+
+Mission Type: SEAD Strike 
+Flight Callsign: Hornet1
+1 Ship Flight
+Ac type: F/A-18C 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Hornet11 at 05:49:40 
+Event Yugoslavian MiG-29G downed by Banshee at 05:53:31 
+Event R-27RE launched at Banshee 06:00:46 
+Event Yugoslavian Low Blow destroyed by Banshee at 06:02:27 
+Event Yugoslavian MiG-21PFM downed by Banshee at 06:06:47 
+Event Yugoslavian MiG-21PFM downed by Banshee at 06:07:05 
+Event Banshee landed at 06:43:42 
+Event Banshee exited from Hornet11 at 06:46:05 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 3 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 570 
+Fired 5 
+Missed 3 
+Hit 2 
+Event 20mm M61 fired at 06:15:58   miss 
+Event 20mm M61 fired at 06:16:00   miss 
+Event 20mm M61 fired at 06:16:03   hit Offices - damaged 
+Event    hit Offices - damaged 
+Event 20mm M61 fired at 06:30:24   miss 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-9X released at 05:53:04   hit MiG-29G - damaged 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AGM-88C released at 06:00:47   hit Low Blow - destroyed 
+
+LOADOUT 3: AIM-120C-4 
+Starting Load 6 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 06:05:37   hit MiG-21PFM - destroyed 
+Event AIM-120C-4 released at 06:06:19   hit MiG-21PFM - destroyed 
+
+LOADOUT 4: 330 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

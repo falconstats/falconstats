@@ -1,0 +1,118 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/31/2007 17:30:16.
+Game is Campaign type Networked
+
+Mission Type: DCA 
+Flight Callsign: Fury1
+2 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event dado joined as Fury12 at 12:41:12 
+Event Banshee joined as Fury11 at 12:41:31 
+Event DPRK M-1974 destroyed by Banshee at 12:54:36 
+Event DPRK M-1974 destroyed by Banshee at 12:54:36 
+Event DPRK M-1975 destroyed by Banshee at 12:54:37 
+Event DPRK M-1975 destroyed by Banshee at 12:54:37 
+Event DPRK M-1975 destroyed by Banshee at 12:54:37 
+Event DPRK ACRV destroyed by Banshee at 12:54:37 
+Event R-27R launched at Banshee 12:55:33 
+Event Banshee ejected at 12:56:12 
+Event Banshee exited from Fury11 at 12:56:48 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 6 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 12 
+Fired 4 
+Missed 2 
+Hit 2 
+Event Mk-20D released at 12:54:23   hit M-1974 - destroyed 
+Event    hit M-1974 - destroyed 
+Event Mk-20D released at 12:54:26   hit M-1975 - destroyed 
+Event    hit ACRV - destroyed 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: DADO 
+Callsign: dado 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 12 
+Fired 8 
+Missed 8 
+Hit 0 
+Event Mk-20D released at 12:54:51   miss 
+Event Mk-20D released at 12:54:52   miss 
+Event Mk-20D released at 12:54:53   miss 
+Event Mk-20D released at 12:54:53   miss 
+Event Mk-20D released at 12:54:54   miss 
+Event Mk-20D released at 12:54:55   miss 
+Event Mk-20D released at 12:54:55   miss 
+Event Mk-20D released at 12:54:56   miss 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

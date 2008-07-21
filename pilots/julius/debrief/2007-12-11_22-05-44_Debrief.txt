@@ -1,0 +1,34 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/11/2007 22:05:46.
+Game is Tactical Engagement type Local
+Mission name: precise-cut
+
+Mission Type: Training 
+Flight Callsign: Raven1
+1 Ship Flight
+Ac type: EF-111A 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Banshee joined as Raven11 at 04:16:00 
+Event Banshee exited from Raven11 at 04:33:13 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+

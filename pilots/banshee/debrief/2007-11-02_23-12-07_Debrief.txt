@@ -1,0 +1,240 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/2/2007 23:12:08.
+Game is Campaign type Networked
+
+Mission Type: SEAD Escort 
+Flight Callsign: Fury1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event dado joined as Fury14 at 00:29:11 
+Event Ghost 49th joined as Fury12 at 00:29:16 
+Event 49thKolbe joined as Fury11 at 00:29:18 
+Event Banshee joined as Fury13 at 00:29:23 
+Event Ghost 49th violated ATC protocol at 00:33:15 
+Event Ghost 49th violated ATC protocol at 00:33:30 
+Event Ghost 49th violated ATC protocol at 00:33:44 
+Event DPRK Fan Song B destroyed by 49thKolbe at 01:26:36 
+Event DPRK SA-14 destroyed by 49thKolbe at 01:26:36 
+Event DPRK Fan Song B destroyed by Ghost 49th at 01:26:39 
+Event SA3 launched at Banshee 01:30:05 
+Event SA3 launched at Banshee 01:30:07 
+Event DPRK S-60 destroyed by Ghost 49th at 01:30:55 
+Event DPRK Fire Can  destroyed by Ghost 49th at 01:30:55 
+Event DPRK ZIL-135 destroyed by Ghost 49th at 01:30:55 
+Event DPRK SA-3 destroyed by Ghost 49th at 01:30:55 
+Event DPRK Low Blow destroyed by Ghost 49th at 01:30:55 
+Event DPRK SA-11 destroyed by 49thKolbe at 01:35:28 
+Event DPRK Fan Song B destroyed by dado at 01:43:30 
+Event DPRK Fan Song B destroyed by dado at 01:46:38 
+Event DPRK Su-32* downed by dado at 02:10:19 
+Event Ghost 49th landed at 02:17:38 
+Event Ghost 49th landed at 02:17:42 
+Event Banshee landed at 02:19:36 
+Event Banshee landed at 02:19:37 
+Event dado landed at 02:19:52 
+Event dado landed at 02:19:54 
+Event dado violated ATC protocol at 02:19:55 
+Event Ghost 49th exited from Fury12 at 02:20:38 
+Event Banshee exited from Fury13 at 02:22:47 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 01:25:13   hit Fan Song B - destroyed 
+Event    hit SA-14 - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 6 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-120C-5 released at 02:07:21   miss 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 01:25:39   hit Fan Song B - destroyed 
+Event AGM-88C released at 01:30:18   hit S-60 - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AGM-88C released at 01:42:21   miss 
+Event AGM-88C released at 01:43:13   miss 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: DADO 
+Callsign: dado 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 2 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120C-5 released at 01:57:20   miss 
+Event AIM-120C-5 released at 02:09:03   hit Su-32* - destroyed 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 01:42:09   hit Fan Song B - destroyed 
+Event AGM-88C released at 01:45:23   hit Fan Song B - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

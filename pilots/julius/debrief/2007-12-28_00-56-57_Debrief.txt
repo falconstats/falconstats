@@ -1,0 +1,39 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 00:56:58.
+Game is Tactical Engagement type Local
+Mission name: C17
+
+Mission Type: Air Lift 
+Flight Callsign: Angel1
+1 Ship Flight
+Ac type: C-17 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Angel11 at 09:09:01 
+Event Banshee landed at 09:12:26 
+Event Banshee landed at 09:12:27 
+Event Banshee landed at 09:12:28 
+Event Banshee violated ATC protocol at 09:12:28 
+Event Banshee violated ATC protocol at 09:13:28 
+Event Banshee exited from Angel11 at 09:13:49 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+

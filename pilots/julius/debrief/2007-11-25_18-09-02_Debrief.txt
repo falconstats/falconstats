@@ -1,0 +1,140 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/25/2007 18:09:04.
+Game is Campaign type Networked
+
+Mission Type: Deep Strike 
+Flight Callsign: Fury6
+2 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Fury62 at 06:43:13 
+Event Steffen 49th joined as Fury61 at 06:43:17 
+Event Yugoslavian Factory destroyed by Steffen 49th at 07:10:03 
+Event Yugoslavian Shipping Dock destroyed by Banshee at 07:16:00 
+Event Yugoslavian Warehouse destroyed by Banshee at 07:21:30 
+Event Steffen 49th landed at 07:45:10 
+Event Steffen 49th exited from Fury61 at 07:51:26 
+Event Banshee landed at 07:59:01 
+Event Banshee exited from Fury62 at 08:12:50 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Capt. 49th Steffen 
+Callsign: Steffen 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-22/B 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event GBU-22/B released at 07:09:33   hit Factory - destroyed 
+Event GBU-22/B released at 07:17:07   hit Processor - damaged 
+Event GBU-22/B released at 07:20:50   hit Processor - damaged 
+Event GBU-22/B released at 07:23:36   hit Storage Tank - damaged 
+
+LOADOUT 4: GBU-24/B 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event GBU-24/B released at 07:06:25   hit Office - damaged 
+Event    hit Manufacturer - damaged 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-22/B 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event GBU-22/B released at 07:15:31   hit Shipping Dock - destroyed 
+Event GBU-22/B released at 07:19:19   hit Generator - damaged 
+Event GBU-22/B released at 07:21:12   hit Warehouse - destroyed 
+Event GBU-22/B released at 07:22:55   hit Admin Building - damaged 
+
+LOADOUT 4: GBU-24/B 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event GBU-24/B released at 07:07:46   hit Factory - damaged 
+Event GBU-24/B released at 07:12:01   hit Factory - damaged 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

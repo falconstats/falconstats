@@ -1,0 +1,153 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/5/2007 21:35:20.
+Game is Campaign type Networked
+
+Mission Type: Escort 
+Flight Callsign: Fury1
+4 Ship Flight
+Ac type: F-16A-MLU 
+Country: IDF  
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Fury11 at 07:06:19 
+Event Scimitar joined as Fury12 at 07:06:21 
+Event Banshee joined as Fury13 at 07:06:31 
+Event Syrian    Su-27 downed by Fury14 at 07:25:13 
+Event Syrian    MiG-29A downed by Fury14 at 07:29:23 
+Event R-73 Mod 1 launched at Scimitar 07:30:00 
+Event R-73 Mod 1 launched at Scimitar 07:30:03 
+Event Scimitar downed by Syrian    Su-27 at 07:30:07 
+Event Scimitar exited from Fury12 at 07:30:11 
+Event SA5 launched at Ghost 49th 07:31:57 
+Event R-27RE launched at Banshee 07:32:30 
+Event Banshee ejected at 07:33:42 
+Event Banshee exited from Fury13 at 07:35:22 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 07:24:53   miss 
+
+LOADOUT 1: AIM-9P 
+Starting Load 6 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-9P released at 07:24:47   miss 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Maj. 49th-Scimitar 
+Callsign: Scimitar 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 2 
+Missed 2 
+Hit 0 
+Event 20mm M61 fired at 07:24:32   miss 
+Event 20mm M61 fired at 07:24:35   miss 
+
+LOADOUT 1: AIM-9P 
+Starting Load 6 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-9P released at 07:24:43   miss 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9P 
+Starting Load 6 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AIM-9P released at 07:24:11   miss 
+Event AIM-9P released at 07:29:17   miss 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Maj. Ramos 
+Callsign: Fury14 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9P 
+Starting Load 6 
+Fired 6 
+Missed 4 
+Hit 2 
+Event AIM-9P released at 07:24:47   hit Su-27 - destroyed 
+Event AIM-9P released at 07:28:43   miss 
+Event AIM-9P released at 07:28:56   hit MiG-29A - destroyed 
+Event AIM-9P released at 07:29:00   miss 
+Event AIM-9P released at 07:34:37   miss 
+Event AIM-9P released at 07:34:41   miss 
+

@@ -1,0 +1,50 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 00:19:36.
+Game is Tactical Engagement type Networked
+Mission name: test
+
+Mission Type: BARCAP 
+Flight Callsign: Roach1
+2 Ship Flight
+Ac type: MiG-25 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Banshee joined as Roach11 at 09:00:23 
+Event Banshee exited from Roach11 at 09:01:05 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Lt. Nightflyer 
+Callsign: Nightflyer 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+

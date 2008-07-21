@@ -1,0 +1,125 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/9/2007 23:58:36.
+Game is Campaign type Networked
+
+Mission Type: SEAD Escort 
+Flight Callsign: Avenger2
+2 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Avenger21 at 09:21:15 
+Event Yugoslavian StraightFlush destroyed by Banshee at 09:45:00 
+Event R-77M launched at Banshee 09:46:19 
+Event R-77M launched at Banshee 09:46:33 
+Event Avenger22 downed by Yugoslavian MiG-29SM at 09:48:06 
+Event Yugoslavian MiG-29SM downed by Banshee at 09:53:57 
+Event Yugoslavian MiG-29SM downed by Banshee at 09:54:19 
+Event Yugoslavian MiG-29SM downed by Banshee at 10:00:22 
+Event Yugoslavian MiG-29SM downed by Banshee at 10:11:03 
+Event Banshee landed at 10:24:21 
+Event Banshee landed at 10:24:22 
+Event Banshee exited from Avenger21 at 10:26:45 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event AIM-120C-4 released at 09:53:24   hit MiG-29SM - destroyed 
+Event AIM-120C-4 released at 09:53:46   hit MiG-29SM - destroyed 
+Event AIM-120C-4 released at 09:59:58   hit MiG-29SM - destroyed 
+Event AIM-120C-4 released at 10:10:21   hit MiG-29SM - destroyed 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 09:43:18   hit StraightFlush - destroyed 
+Event AGM-88C released at 10:11:08   hit Lights - damaged 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Liette 
+Callsign: Avenger22 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

@@ -1,0 +1,52 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/3/2007 00:34:44.
+Game is Tactical Engagement type Local
+Mission name: Flugshow
+
+Mission Type: DCA 
+Flight Callsign: Cyborg1
+1 Ship Flight
+Ac type: F/A-22A 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Cyborg11 at 09:53:01 
+Event Banshee exited from Cyborg11 at 10:25:05 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 F22 
+Starting Load 480 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+

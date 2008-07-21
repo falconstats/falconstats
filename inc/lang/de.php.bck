@@ -1,0 +1,46 @@
+<?php
+ /* German language file */
+ 
+ 
+ $lang_lb_not_found=("Logbuch nicht gefunden!");
+	$lang_pilot_name=("Name");
+	$lang_com_date=("Dabei seit");
+	$lang_flight_hours=("Flugstunden");
+	$lang_rank=("Rang");
+	$lang_callsign=("Rufname");
+	
+	$lang_medals=("Auszeichnungen");
+	
+	$lang_camp_stats=("Campangen Statistiken");
+	$lang_total_missions=("Missionen gesammt");
+	$lang_a2g=("Zerstörte Boden Einheiten");
+	$lang_con_missions=("Missionen ohne Abschuss");
+	$lang_friendly_kills=("Zerstörte Freundeinheiten");
+	$lang_clost=("Kampagnen verloren");
+	$lang_ctied=("Kampagnen unentschieden");
+	$lang_cwon=("Kampagnen gewonnen");
+	$lang_human_kills=("Menschl. Piloten abgeschossen");
+	$lang_killed=("Gestorben");
+	$lang_hkilled=("Von Menschl. Piloten abgeschossen");
+	$lang_selfkill=("Unfälle");
+	$lang_kills=("Zerstörte Luftfahrzeuge");
+	$lang_total_a_score=("Punktzahl");
+	$lang_total_score=("Punktzahl2");
+	$lang_static_kills=("Zerstörte statische Bodenziele");
+	$lang_naval_kills=("Zerstörte Schiffe");
+	$lang_miss_since_last_friendly=("Keine Ahnung");
+
+	$lang_dogfight=("Doghfight Statistiken");
+	$lang_dwon=("Gewonnene Dogfights");
+	$lang_dlost=("Verlorene Dogfights");
+	$lang_dwon_human=("Gegen Menschen gewonnen");
+	$clang_dlost_human=("Gegen Menschen verloren");
+	$lang_dkills=("Abgeschossene Flugzeuge");
+	$lang_ddeath=("Gestorben");
+	$lang_dkills_human=("Menschl. Piloten abgeschossen");
+	$lang_dkilled_human=("Von menschl. Piloten abgeschossen");
+
+ 
+ 
+ 
+ ?>

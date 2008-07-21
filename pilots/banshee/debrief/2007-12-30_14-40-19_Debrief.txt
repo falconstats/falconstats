@@ -1,0 +1,272 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/30/2007 14:40:20.
+Game is Campaign type Networked
+
+Mission Type: Pre-plan CAS 
+Flight Callsign: Blade1
+4 Ship Flight
+Ac type: F-15E-229 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Runner joined as Blade12 at 21:58:32 
+Event Sly joined as Blade13 at 21:58:32 
+Event Banshee joined as Blade11 at 21:58:39 
+Event R-27RE launched at Banshee 22:17:50 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:43 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:43 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:43 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:43 
+Event SA14 launched at Banshee 22:22:43 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:44 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:44 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:44 
+Event DPRK D-30 destroyed by Banshee at 22:22:45 
+Event DPRK D-30 destroyed by Banshee at 22:22:45 
+Event DPRK D-30 destroyed by Banshee at 22:22:45 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:47 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:47 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:47 
+Event Banshee ejected at 22:22:51 
+Event DPRK HN-5A Squad destroyed by Banshee at 22:22:52 
+Event DPRK KrAz F 255B destroyed by Banshee at 22:22:52 
+Event DPRK D-30 destroyed by Banshee at 22:22:52 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:52 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:52 
+Event DPRK D-30 destroyed by Banshee at 22:22:52 
+Event DPRK D-30 destroyed by Banshee at 22:22:52 
+Event DPRK KrAz T 255B destroyed by Banshee at 22:22:52 
+Event SA14 launched at Runner 22:23:07 
+Event SA14 launched at Runner 22:23:08 
+Event DPRK KrAz F 255B destroyed by Runner at 22:23:12 
+Event DPRK Fuel Truck destroyed by Runner at 22:23:12 
+Event DPRK BMP-1 destroyed by Runner at 22:23:14 
+Event DPRK BMP-1 destroyed by Runner at 22:23:14 
+Event DPRK KrAz F 255B destroyed by Runner at 22:23:14 
+Event DPRK KrAz F 255B destroyed by Runner at 22:23:14 
+Event DPRK ZSU57-2 destroyed by Runner at 22:23:14 
+Event DPRK ZSU57-2 destroyed by Runner at 22:23:14 
+Event DPRK BMP-1 destroyed by Runner at 22:23:14 
+Event Runner downed by DPRK ZSU23-4 at 22:23:17 
+Event DPRK KrAz T 255B destroyed by Runner at 22:23:17 
+Event DPRK KrAz T 255B destroyed by Runner at 22:23:17 
+Event DPRK KrAz T 255B destroyed by Runner at 22:23:17 
+Event Runner exited from Blade12 at 22:23:23 
+Event DPRK BMP-CMD destroyed by Sly at 22:23:38 
+Event DPRK BMP-CMD destroyed by Sly at 22:23:38 
+Event DPRK BMP-CMD destroyed by Sly at 22:23:38 
+Event DPRK Fuel Truck destroyed by Sly at 22:23:41 
+Event DPRK Fuel Truck destroyed by Sly at 22:23:41 
+Event Banshee exited from Blade11 at 22:23:41 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 21 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: CBU-97 SFW 
+Starting Load 12 
+Fired 6 
+Missed 0 
+Hit 6 
+Event CBU-97 SFW released at 22:22:34   hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event CBU-97 SFW released at 22:22:37   hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+
+LOADOUT 3: AGM-130 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 600 Gal Tank F15 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Capt. Runner -49th 
+Callsign: Runner 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 12 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: CBU-97 SFW 
+Starting Load 12 
+Fired 6 
+Missed 2 
+Hit 4 
+Event CBU-97 SFW released at 22:23:04   miss 
+Event CBU-97 SFW released at 22:23:05   hit KrAz F 255B - destroyed 
+Event    hit Fuel Truck - destroyed 
+Event CBU-97 SFW released at 22:23:07   hit BMP-1 - destroyed 
+Event    hit ZSU57-2 - destroyed 
+Event    hit ZSU57-2 - destroyed 
+
+LOADOUT 3: AGM-130 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 600 Gal Tank F15 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: 49thSly 
+Callsign: Sly 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 5 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: CBU-97 SFW 
+Starting Load 12 
+Fired 12 
+Missed 10 
+Hit 2 
+Event CBU-97 SFW released at 22:23:25   miss 
+Event CBU-97 SFW released at 22:23:25   miss 
+Event CBU-97 SFW released at 22:23:26   hit BMP-CMD - destroyed 
+Event    hit BMP-CMD - destroyed 
+Event    hit BMP-CMD - destroyed 
+Event CBU-97 SFW released at 22:23:27   miss 
+Event CBU-97 SFW released at 22:23:27   miss 
+Event CBU-97 SFW released at 22:23:29   hit Fuel Truck - destroyed 
+Event    hit Fuel Truck - destroyed 
+Event CBU-97 SFW released at 22:23:30   miss 
+Event CBU-97 SFW released at 22:23:30   miss 
+Event CBU-97 SFW released at 22:23:31   miss 
+
+LOADOUT 3: AGM-130 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 600 Gal Tank F15 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Douglas 
+Callsign: Blade14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: CBU-97 SFW 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-130 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 600 Gal Tank F15 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

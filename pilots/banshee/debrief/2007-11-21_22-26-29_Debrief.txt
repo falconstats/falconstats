@@ -1,0 +1,250 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/21/2007 22:26:30.
+Game is Tactical Engagement type Networked
+Mission name: LLTM_2006_TE-3_final
+
+Mission Type: Interdiction 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16C-42 CCIP 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event 49thKolbe joined as Cowboy12 at 10:58:20 
+Event Ghost 49th joined as Cowboy11 at 10:58:20 
+Event Banshee joined as Cowboy13 at 10:58:32 
+Event Cowboy14 landed at 11:14:49 
+Event DPRK SCUD destroyed by 49thKolbe at 11:42:55 
+Event DPRK SCUD destroyed by 49thKolbe at 11:42:57 
+Event DPRK MT55BL destroyed by Ghost 49th at 11:44:21 
+Event DPRK MT55BL destroyed by Ghost 49th at 11:44:25 
+Event DPRK SCUD destroyed by Banshee at 11:55:23 
+Event DPRK KrAz T 255B destroyed by Banshee at 11:56:37 
+Event DPRK KrAz T 255B destroyed by Banshee at 11:56:39 
+Event DPRK SCUD destroyed by Ghost 49th at 12:01:51 
+Event Ghost 49th exited from Cowboy11 at 12:15:13 
+Event Banshee exited from Cowboy13 at 12:15:22 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event AGM-65D released at 11:43:36   miss 
+Event AGM-65D released at 11:43:41   hit MT55BL - destroyed 
+Event AGM-65D released at 11:43:50   hit MT55BL - destroyed 
+Event AGM-65D released at 12:01:21   hit SCUD - destroyed 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 2 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event AGM-65D released at 11:41:49   hit Admin Building - damaged 
+Event AGM-65D released at 11:42:24   hit SCUD - destroyed 
+Event AGM-65D released at 11:42:30   hit SCUD - destroyed 
+Event AGM-65D released at 11:42:58   miss 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event AGM-65D released at 11:54:54   hit SCUD - destroyed 
+Event AGM-65D released at 11:55:04   miss 
+Event AGM-65D released at 11:56:20   hit KrAz T 255B - destroyed 
+Event AGM-65D released at 11:56:25   hit KrAz T 255B - destroyed 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Unassigned 
+Callsign: Cowboy14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

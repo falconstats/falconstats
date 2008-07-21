@@ -1,0 +1,267 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 23:46:40.
+Game is Tactical Engagement type Networked
+Mission name: Running-In-V001
+
+Mission Type: SEAD Escort 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: Typhoon 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 06:00:29 
+Event Ghost 49th joined as Cowboy14 at 06:00:30 
+Event Eagle joined as Cowboy13 at 06:00:30 
+Event Cleaner 49th joined as Cowboy12 at 06:00:32 
+Event Cleaner 49th violated ATC protocol at 06:04:12 
+Event Cleaner 49th violated ATC protocol at 06:04:27 
+Event Ghost 49th violated ATC protocol at 06:05:51 
+Event Ghost 49th violated ATC protocol at 06:06:06 
+Event Ghost 49th violated ATC protocol at 06:06:22 
+Event Ghost 49th violated ATC protocol at 06:06:37 
+Event Ghost 49th violated ATC protocol at 06:06:42 
+Event Banshee landed at 06:52:55 
+Event Banshee landed at 06:52:58 
+Event Cleaner 49th landed at 06:54:24 
+Event Eagle landed at 06:55:59 
+Event Eagle landed at 06:56:00 
+Event Ghost 49th landed at 06:56:37 
+Event Ghost 49th exited from Cowboy14 at 07:04:50 
+Event Banshee exited from Cowboy11 at 07:05:46 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: IRIS-T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: ALARM 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event ALARM released at 06:36:00   hit Sovremenny* - damaged 
+Event ALARM released at 06:36:02   hit Sovremenny* - damaged 
+
+LOADOUT 3: AGM-84A 
+Starting Load 4 
+Fired 4 
+Missed 4 
+Hit 0 
+Event AGM-84A released at 06:29:29   miss 
+Event AGM-84A released at 06:29:32   miss 
+Event AGM-84A released at 06:29:34   miss 
+Event AGM-84A released at 06:29:35   miss 
+
+LOADOUT 4: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Cleaner 49th 
+Callsign: Cleaner 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: IRIS-T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: ALARM 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event ALARM released at 06:35:50   hit Sovremenny* - damaged 
+Event ALARM released at 06:35:51   hit Sovremenny* - damaged 
+
+LOADOUT 3: AGM-84A 
+Starting Load 4 
+Fired 4 
+Missed 4 
+Hit 0 
+Event AGM-84A released at 06:29:33   miss 
+Event AGM-84A released at 06:29:34   miss 
+Event AGM-84A released at 06:29:34   miss 
+Event AGM-84A released at 06:29:35   miss 
+
+LOADOUT 4: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Eagle 360th 
+Callsign: Eagle 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: IRIS-T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: ALARM 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event ALARM released at 06:35:33   hit Sovremenny* - damaged 
+Event ALARM released at 06:35:36   miss 
+
+LOADOUT 3: AGM-84A 
+Starting Load 4 
+Fired 4 
+Missed 4 
+Hit 0 
+Event AGM-84A released at 06:30:38   miss 
+Event AGM-84A released at 06:30:52   miss 
+Event AGM-84A released at 06:32:42   miss 
+Event AGM-84A released at 06:33:18   miss 
+
+LOADOUT 4: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Maj. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: IRIS-T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: ALARM 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event ALARM released at 06:27:21   hit Sovremenny* - damaged 
+Event ALARM released at 06:34:38   hit Sovremenny* - damaged 
+
+LOADOUT 3: AGM-84A 
+Starting Load 4 
+Fired 4 
+Missed 4 
+Hit 0 
+Event AGM-84A released at 06:31:56   miss 
+Event AGM-84A released at 06:32:00   miss 
+Event AGM-84A released at 06:34:20   miss 
+Event AGM-84A released at 06:34:21   miss 
+
+LOADOUT 4: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

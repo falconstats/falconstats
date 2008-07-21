@@ -1,0 +1,318 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/15/2007 20:15:00.
+Game is Campaign type Local
+
+Mission Type: BAI 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Falcon11 at 16:35:00 
+Event DPRK ZIL-135 destroyed by Banshee at 16:54:20 
+Event DPRK ACRV destroyed by Banshee at 16:54:20 
+Event DPRK D-30 destroyed by Banshee at 16:54:20 
+Event DPRK ACRV destroyed by Banshee at 16:54:20 
+Event DPRK D-30 destroyed by Banshee at 16:54:20 
+Event DPRK 152mm Arty* destroyed by Banshee at 16:54:20 
+Event DPRK M-1974 destroyed by Banshee at 16:54:20 
+Event DPRK M-1974 destroyed by Banshee at 16:54:20 
+Event DPRK AK47 destroyed by Banshee at 16:54:20 
+Event DPRK M-1974 destroyed by Banshee at 16:54:20 
+Event DPRK D-30 destroyed by Banshee at 16:54:20 
+Event DPRK BMP-CMD destroyed by Banshee at 16:54:20 
+Event DPRK D-30 destroyed by Banshee at 16:54:20 
+Event DPRK 152mm Arty* destroyed by Banshee at 16:54:20 
+Event DPRK 152mm Arty* destroyed by Banshee at 16:54:20 
+Event DPRK BMP-CMD destroyed by Banshee at 16:54:20 
+Event DPRK M-1975 destroyed by Banshee at 16:54:20 
+Event DPRK M-1975 destroyed by Banshee at 16:54:20 
+Event DPRK M-1975 destroyed by Banshee at 16:54:20 
+Event DPRK M-1975 destroyed by Banshee at 16:54:20 
+Event DPRK D-30 destroyed by Banshee at 16:54:20 
+Event DPRK M-1975 destroyed by Banshee at 16:54:20 
+Event DPRK SA-7 destroyed by Banshee at 16:54:20 
+Event DPRK SA-7 destroyed by Banshee at 16:54:20 
+Event DPRK SA-7 destroyed by Banshee at 16:54:20 
+Event DPRK M-1975 destroyed by Banshee at 16:54:20 
+Event DPRK M-1975 destroyed by Banshee at 16:54:20 
+Event DPRK ZIL-135 destroyed by Banshee at 16:54:20 
+Event DPRK M-1975 destroyed by Banshee at 16:54:20 
+Event DPRK ZIL-135 destroyed by Banshee at 16:54:20 
+Event DPRK AK47 destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 16:54:21 
+Event DPRK AK47 destroyed by Banshee at 16:54:21 
+Event DPRK AK47 destroyed by Banshee at 16:57:27 
+Event DPRK AK47 destroyed by Banshee at 16:57:27 
+Event DPRK AK47 destroyed by Banshee at 16:57:27 
+Event DPRK S-60 destroyed by Banshee at 17:01:21 
+Event SA14 launched at Banshee 17:01:48 
+Event DPRK KrAz T 255B destroyed by Banshee at 17:01:55 
+Event DPRK KrAz T 255B destroyed by Banshee at 17:01:55 
+Event DPRK KrAz T 255B destroyed by Banshee at 17:01:55 
+Event DPRK KrAz T 255B destroyed by Banshee at 17:01:56 
+Event DPRK KrAz T 255B destroyed by Banshee at 17:01:56 
+Event DPRK ZSU23-4 destroyed by Falcon12 at 17:04:06 
+Event DPRK T-72 destroyed by Falcon12 at 17:04:06 
+Event DPRK T-72 destroyed by Falcon12 at 17:04:06 
+Event DPRK T-72 destroyed by Falcon12 at 17:04:06 
+Event DPRK T-72 destroyed by Falcon13 at 17:04:38 
+Event DPRK T-72 destroyed by Falcon13 at 17:04:38 
+Event DPRK ZIL-135 destroyed by Falcon13 at 17:04:38 
+Event DPRK BTR-60 destroyed by Falcon13 at 17:04:38 
+Event DPRK ACRV destroyed by Falcon14 at 17:04:54 
+Event DPRK ZSU23-4 destroyed by Falcon12 at 17:05:19 
+Event DPRK T-72 destroyed by Falcon12 at 17:05:19 
+Event DPRK T-72 destroyed by Falcon12 at 17:05:19 
+Event DPRK T-72 destroyed by Falcon14 at 17:06:28 
+Event DPRK T-72 destroyed by Falcon14 at 17:06:28 
+Event DPRK T-72 destroyed by Falcon14 at 17:06:28 
+Event DPRK T-72 destroyed by Falcon12 at 17:06:40 
+Event DPRK T-72 destroyed by Falcon12 at 17:06:40 
+Event DPRK T-72 destroyed by Falcon13 at 17:07:05 
+Event DPRK ZIL-135 destroyed by Falcon13 at 17:07:05 
+Event DPRK T-72 destroyed by Falcon13 at 17:07:05 
+Event DPRK T-72 destroyed by Falcon13 at 17:07:05 
+Event DPRK T-72 destroyed by Falcon13 at 17:07:05 
+Event DPRK T-72 destroyed by Falcon13 at 17:07:05 
+Event DPRK T-72 destroyed by Falcon13 at 17:07:05 
+Event DPRK T-72 destroyed by Falcon13 at 17:07:05 
+Event DPRK T-72 destroyed by Falcon14 at 17:07:43 
+Event DPRK T-72 destroyed by Falcon14 at 17:07:43 
+Event DPRK T-72 destroyed by Falcon12 at 17:08:04 
+Event DPRK T-72 destroyed by Falcon12 at 17:08:04 
+Event DPRK T-72 destroyed by Falcon13 at 17:08:30 
+Event DPRK T-72 destroyed by Falcon13 at 17:08:30 
+Event DPRK T-72 destroyed by Falcon13 at 17:08:30 
+Event DPRK T-72 destroyed by Falcon14 at 17:08:59 
+Event DPRK T-72 destroyed by Falcon14 at 17:08:59 
+Event DPRK T-72 destroyed by Falcon14 at 17:08:59 
+Event DPRK T-72 destroyed by Falcon14 at 17:08:59 
+Event DPRK ZIL-135 destroyed by Falcon12 at 17:09:19 
+Event DPRK MT55BL destroyed by Falcon12 at 17:09:19 
+Event DPRK T-72 destroyed by Falcon12 at 17:09:19 
+Event DPRK MT55BL destroyed by Falcon12 at 17:09:19 
+Event DPRK T-72 destroyed by Falcon13 at 17:10:04 
+Event DPRK T-72 destroyed by Falcon13 at 17:10:04 
+Event DPRK MT55BL destroyed by Falcon12 at 17:10:33 
+Event Banshee landed at 17:14:41 
+Event Banshee landed at 17:15:03 
+Event Banshee exited from Falcon11 at 17:15:26 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 51 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 12 
+Fired 12 
+Missed 5 
+Hit 7 
+Event Mk-20D released at 16:54:05   hit ZIL-135 - destroyed 
+Event    hit Hardened Bunker - damaged 
+Event    hit Hardened Bunker - damaged 
+Event    hit Bunker - damaged 
+Event    hit ZIL-135 - destroyed 
+Event    hit M-1975 - destroyed 
+Event    hit ZIL-135 - destroyed 
+Event    hit M-1975 - destroyed 
+Event    hit M-1975 - destroyed 
+Event    hit SA-7 - destroyed 
+Event    hit SA-7 - destroyed 
+Event    hit SA-7 - destroyed 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Maj. Min-Taek 
+Callsign: Falcon12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 16 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 12 
+Fired 12 
+Missed 3 
+Hit 9 
+Event Mk-20D released at 17:03:50   hit T-72 - destroyed 
+Event Mk-20D released at 17:03:50   hit T-72 - destroyed 
+Event Mk-20D released at 17:05:04   hit ZSU23-4 - destroyed 
+Event Mk-20D released at 17:05:04   hit T-72 - destroyed 
+Event Mk-20D released at 17:06:24   hit T-72 - destroyed 
+Event Mk-20D released at 17:06:24   miss 
+Event Mk-20D released at 17:07:48   hit T-72 - destroyed 
+Event Mk-20D released at 17:07:48   miss 
+Event Mk-20D released at 17:09:03   hit MT55BL - destroyed 
+Event Mk-20D released at 17:09:03   hit MT55BL - destroyed 
+Event Mk-20D released at 17:10:18   miss 
+Event Mk-20D released at 17:10:18   hit MT55BL - destroyed 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Rim 
+Callsign: Falcon13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 17 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 12 
+Fired 10 
+Missed 1 
+Hit 9 
+Event Mk-20D released at 17:04:23   hit T-72 - destroyed 
+Event Mk-20D released at 17:04:23   hit BTR-60 - destroyed 
+Event Mk-20D released at 17:06:50   hit ZIL-135 - destroyed 
+Event Mk-20D released at 17:06:50   hit T-72 - destroyed 
+Event Mk-20D released at 17:06:50   hit T-72 - destroyed 
+Event Mk-20D released at 17:06:50   hit T-72 - destroyed 
+Event Mk-20D released at 17:08:15   hit T-72 - destroyed 
+Event Mk-20D released at 17:08:15   hit T-72 - destroyed 
+Event Mk-20D released at 17:09:49   hit T-72 - destroyed 
+Event Mk-20D released at 17:09:49   miss 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Pak 
+Callsign: Falcon14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 10 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 12 
+Fired 10 
+Missed 4 
+Hit 6 
+Event Mk-20D released at 17:04:39   hit ACRV - destroyed 
+Event Mk-20D released at 17:04:39   miss 
+Event Mk-20D released at 17:06:13   hit T-72 - destroyed 
+Event Mk-20D released at 17:06:13   hit T-72 - destroyed 
+Event Mk-20D released at 17:07:28   hit T-72 - destroyed 
+Event Mk-20D released at 17:07:28   miss 
+Event Mk-20D released at 17:08:44   hit T-72 - destroyed 
+Event Mk-20D released at 17:08:44   hit T-72 - destroyed 
+Event Mk-20D released at 17:10:09   miss 
+Event Mk-20D released at 17:10:09   miss 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

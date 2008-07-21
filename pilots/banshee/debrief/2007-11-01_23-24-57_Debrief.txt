@@ -1,0 +1,176 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2007 23:24:58.
+Game is Campaign type Local
+
+Mission Type: Interdiction 
+Flight Callsign: Lobo2
+2 Ship Flight
+Ac type: F-16C-50 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Lobo21 at 09:45:04 
+Event DPRK Office destroyed by Banshee at 09:50:00 
+Event SA7 launched at Banshee 09:50:40 
+Event DPRK D-30 destroyed by Banshee at 09:50:44 
+Event DPRK D-30 destroyed by Banshee at 09:50:45 
+Event DPRK S-60 destroyed by Banshee at 09:50:45 
+Event DPRK ZIL-135 destroyed by Banshee at 09:50:45 
+Event DPRK D-30 destroyed by Banshee at 09:50:45 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:50:45 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:50:45 
+Event DPRK AK47 destroyed by Banshee at 09:50:45 
+Event DPRK AK47 destroyed by Banshee at 09:50:45 
+Event SA14 launched at Banshee 09:51:13 
+Event DPRK BMP-CMD destroyed by Banshee at 09:51:20 
+Event SA7 launched at Banshee 09:51:52 
+Event DPRK AK47 destroyed by Banshee at 09:51:58 
+Event DPRK D-30 destroyed by Banshee at 09:51:58 
+Event DPRK D-30 destroyed by Banshee at 09:51:58 
+Event DPRK SA-7 destroyed by Banshee at 09:51:58 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:51:58 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:51:58 
+Event SA7 launched at Banshee 09:51:58 
+Event SA7 launched at Banshee 09:51:58 
+Event SA7 launched at Banshee 09:52:09 
+Event DPRK Fire Can  destroyed by Banshee at 09:52:17 
+Event DPRK ZIL-135 destroyed by Banshee at 09:52:17 
+Event DPRK D-30 destroyed by Banshee at 09:52:17 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:52:17 
+Event DPRK AK47 destroyed by Banshee at 09:52:17 
+Event DPRK D-30 destroyed by Banshee at 09:52:17 
+Event DPRK D-30 destroyed by Banshee at 09:53:49 
+Event SA7 launched at Banshee 09:54:16 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:54:21 
+Event SA7 launched at Banshee 09:54:21 
+Event SA7 launched at Banshee 09:54:22 
+Event SA14 launched at Banshee 09:54:33 
+Event SA7 launched at Banshee 09:54:35 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:54:40 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:54:40 
+Event DPRK D-30 destroyed by Banshee at 09:54:40 
+Event SA7 launched at Banshee 09:54:41 
+Event SA14 launched at Banshee 09:54:47 
+Event DPRK Control Tower destroyed by Banshee at 09:54:59 
+Event SA14 launched at Banshee 09:55:16 
+Event SA7 launched at Banshee 09:55:18 
+Event DPRK KrAz T 255B destroyed by Banshee at 09:55:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 09:55:21 
+Event DPRK KrAz T 255B destroyed by Banshee at 09:55:21 
+Event DPRK 152mm Arty* destroyed by Banshee at 09:55:21 
+Event DPRK AK47 destroyed by Banshee at 09:55:21 
+Event Banshee landed at 10:06:55 
+Event Banshee violated ATC protocol at 10:06:55 
+Event Banshee landed at 10:06:56 
+Event Banshee violated ATC protocol at 10:07:46 
+Event Banshee exited from Lobo21 at 10:08:07 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 32 
+AS Kills 2 
+AN Kills 0 
+Shoot At 15 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 2 
+Missed 0 
+Hit 2 
+Event 20mm M61 fired at 09:55:42   hit M-1975 - damaged 
+Event    hit Hardened Bunker - damaged 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-82 
+Starting Load 12 
+Fired 12 
+Missed 0 
+Hit 12 
+Event Mk-82 released at 09:49:45   hit Office - damaged 
+Event    hit Office - damaged 
+Event Mk-82 released at 09:49:53   hit Office - destroyed 
+Event Mk-82 released at 09:50:38   hit D-30 - destroyed 
+Event    hit Hardened Bunker - damaged 
+Event Mk-82 released at 09:50:40   hit D-30 - destroyed 
+Event    hit Hardened Bunker - damaged 
+Event    hit AK47 - destroyed 
+Event    hit AK47 - destroyed 
+Event    hit 152mm Arty* - destroyed 
+Event    hit 152mm Arty* - destroyed 
+Event    hit D-30 - destroyed 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Chough 
+Callsign: Lobo22 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-82 
+Starting Load 12 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

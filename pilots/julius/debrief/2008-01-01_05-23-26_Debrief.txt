@@ -1,0 +1,995 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 1/1/2008 05:23:28.
+Game is Tactical Engagement type Local
+Mission name: B61
+
+Mission Type: Pre-plan CAS 
+Flight Callsign: Cowboy1
+2 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 07:37:00 
+Event Cowboy12 landed at 08:59:01 
+Event Yugoslavian Bridge Span destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge Ramp destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge Span destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge Span destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge Ramp destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Factory destroyed by Banshee at 09:19:25 
+Event Yugoslavian Warehouse destroyed by Banshee at 09:19:25 
+Event Yugoslavian Warehouse destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Barracks destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hotel destroyed by Banshee at 09:19:25 
+Event Yugoslavian Depot destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Depot destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Temple destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Temple destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Temple destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian TV Station destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hotel destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Warehouse destroyed by Banshee at 09:19:25 
+Event Yugoslavian Warehouse destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Temple destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian TV Station destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hotel destroyed by Banshee at 09:19:25 
+Event Yugoslavian Water Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Coal Processor destroyed by Banshee at 09:19:25 
+Event Yugoslavian Transformer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Power Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Power Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Guard Gate destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Ammo Dump destroyed by Banshee at 09:19:25 
+Event Yugoslavian Ammo Dump destroyed by Banshee at 09:19:25 
+Event Yugoslavian Ammo Dump destroyed by Banshee at 09:19:25 
+Event Yugoslavian Ammo Dump destroyed by Banshee at 09:19:25 
+Event Yugoslavian Ammo Dump destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Control Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Radar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Tank destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Landing Lights destroyed by Banshee at 09:19:25 
+Event Yugoslavian Landing Lights destroyed by Banshee at 09:19:25 
+Event Yugoslavian Approach Lights destroyed by Banshee at 09:19:25 
+Event Yugoslavian Approach Lights destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Water Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Radio Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Warehouse destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Vasi destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian M977 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Weapon Loader destroyed by Banshee at 09:19:25 
+Event Yugoslavian Weapon Trailer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Weapon Trailer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Weapon Loader destroyed by Banshee at 09:19:25 
+Event Yugoslavian M977 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Guard Gate destroyed by Banshee at 09:19:25 
+Event Yugoslavian Guard Gate destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Guard Gate destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Barracks destroyed by Banshee at 09:19:25 
+Event Yugoslavian Barracks destroyed by Banshee at 09:19:25 
+Event Yugoslavian Barracks destroyed by Banshee at 09:19:25 
+Event Yugoslavian Barracks destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Entry destroyed by Banshee at 09:19:25 
+Event Yugoslavian Furnace destroyed by Banshee at 09:19:25 
+Event Yugoslavian Furnace destroyed by Banshee at 09:19:25 
+Event Yugoslavian Generator destroyed by Banshee at 09:19:25 
+Event Yugoslavian Generator destroyed by Banshee at 09:19:25 
+Event Yugoslavian Main Plant destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Factory destroyed by Banshee at 09:19:25 
+Event Yugoslavian Converter destroyed by Banshee at 09:19:25 
+Event Yugoslavian Depot destroyed by Banshee at 09:19:25 
+Event Yugoslavian Revetment - Sandbag destroyed by Banshee at 09:19:25 
+Event Yugoslavian Revetment - Sandbag destroyed by Banshee at 09:19:25 
+Event Yugoslavian Revetment - Sandbag destroyed by Banshee at 09:19:25 
+Event Yugoslavian Revetment - Sandbag destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Temple destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hotel destroyed by Banshee at 09:19:25 
+Event Yugoslavian Water Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian TV Station destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hotel destroyed by Banshee at 09:19:25 
+Event Yugoslavian Water Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Factory destroyed by Banshee at 09:19:25 
+Event Yugoslavian Factory destroyed by Banshee at 09:19:25 
+Event Yugoslavian Factory destroyed by Banshee at 09:19:25 
+Event Yugoslavian Factory destroyed by Banshee at 09:19:25 
+Event Yugoslavian Assembly Bldg destroyed by Banshee at 09:19:25 
+Event Yugoslavian Factory destroyed by Banshee at 09:19:25 
+Event Yugoslavian Storage Tank destroyed by Banshee at 09:19:25 
+Event Yugoslavian Storage Tank destroyed by Banshee at 09:19:25 
+Event Yugoslavian Generator destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shipping Dock destroyed by Banshee at 09:19:25 
+Event Yugoslavian Generator destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Water Tower destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge Ramp destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Warehouse destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Apartment destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Conference Room destroyed by Banshee at 09:19:25 
+Event Yugoslavian Barracks destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Shop destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hotel destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian House destroyed by Banshee at 09:19:25 
+Event Yugoslavian Bridge destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Office destroyed by Banshee at 09:19:25 
+Event Yugoslavian Manufacturer destroyed by Banshee at 09:19:25 
+Event Yugoslavian Runway destroyed by Banshee at 09:19:25 
+Event Yugoslavian Hangar destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Admin Building destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fence destroyed by Banshee at 09:19:25 
+Event Yugoslavian Revetment - Sandbag destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian FROG-7 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Jeep destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian FROG-7 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian AK47 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian AK47 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian AK47 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian Jeep destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Jeep destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Jeep destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Jeep destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Jeep destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian FROG-7 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian Jeep destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU57-2 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Fuel Truck destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian ZSU23-4 destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian Jeep destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian SA-13 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian HN-5A Squad destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-CMD destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian D-30 destroyed by Banshee at 09:19:25 
+Event Yugoslavian BMP-1 destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz T 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Yugoslavian KrAz F 255B destroyed by Banshee at 09:19:25 
+Event Banshee landed at 10:28:55 
+Event Banshee landed at 10:28:58 
+Event Banshee exited from Cowboy11 at 10:30:49 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 39 
+AS Kills 98 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: B61* 
+Starting Load 1 
+Fired 1 
+Missed 0 
+Hit 1 
+Event B61* released at 09:18:41   hit D-30 - destroyed 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Grilliot 
+Callsign: Cowboy12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: B61* 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

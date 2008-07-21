@@ -1,0 +1,231 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/10/2007 12:45:54.
+Game is Campaign type Networked
+
+Mission Type: DCA 
+Flight Callsign: Python1
+4 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Warmaster joined as Python12 at 13:39:20 
+Event 49thNick joined as Python13 at 13:39:22 
+Event Banshee joined as Python11 at 13:39:32 
+Event Yugoslavian Fan Song B destroyed by 49thNick at 13:56:54 
+Event Yugoslavian MiG-29SM downed by Banshee at 14:05:26 
+Event Yugoslavian MiG-29SM downed by 49thNick at 14:05:42 
+Event Yugoslavian MiG-29SM downed by Banshee at 14:05:50 
+Event Yugoslavian MiG-29SM downed by Banshee at 14:09:16 
+Event SA6 launched at Banshee 14:18:47 
+Event SA6 launched at Banshee 14:18:53 
+Event Yugoslavian An-24 downed by Banshee at 14:25:11 
+Event R-77M launched at 49thNick 14:30:29 
+Event R-77M launched at 49thNick 14:30:36 
+Event Yugoslavian MiG-29SM downed by 49thNick at 14:31:02 
+Event Yugoslavian MiG-29SM downed by Banshee at 14:31:33 
+Event Yugoslavian An-24 downed by 49thNick at 14:34:04 
+Event Yugoslavian J-22 downed by Banshee at 14:36:00 
+Event 49thNick landed at 14:46:07 
+Event 49thNick landed at 14:46:08 
+Event Banshee landed at 14:46:46 
+Event Banshee landed at 14:46:46 
+Event Banshee landed at 14:46:49 
+Event Warmaster landed at 14:49:47 
+Event Slovenian Fence destroyed by Warmaster at 14:49:59 
+Event Warmaster exited from Python12 at 14:50:29 
+Event 49thNick exited from Python13 at 14:54:49 
+Event Banshee exited from Python11 at 14:59:37 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 6 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 5 
+Missed 3 
+Hit 2 
+Event 20mm M61 fired at 14:24:56   hit An-24 - destroyed 
+Event 20mm M61 fired at 14:25:46   hit An-24 - damaged 
+Event 20mm M61 fired at 14:25:47   miss 
+Event 20mm M61 fired at 14:38:00   miss 
+Event 20mm M61 fired at 14:38:05   miss 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 5 
+Missed 0 
+Hit 5 
+Event AIM-120C-5 released at 14:04:28   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 14:05:10   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 14:08:26   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 14:31:18   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 14:35:10   hit J-22 - destroyed 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 2Lt. 49th Warmaster 
+Callsign: Warmaster 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-5 released at 14:04:32   hit MiG-29SM - damaged 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: 2Lt. 49thNickTaylor 
+Callsign: 49thNick 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event AIM-120C-5 released at 14:04:26   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 14:29:59   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 14:30:30   hit MiG-29SM - damaged 
+Event AIM-120C-5 released at 14:33:15   hit An-24 - destroyed 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-88C released at 13:54:57   hit Fan Song B - destroyed 
+Event AGM-88C released at 14:20:38   miss 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Fischer 
+Callsign: Python14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

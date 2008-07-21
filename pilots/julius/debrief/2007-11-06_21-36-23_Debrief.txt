@@ -1,0 +1,210 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/6/2007 21:36:24.
+Game is Campaign type Networked
+
+Mission Type: Escort 
+Flight Callsign: Fury1
+4 Ship Flight
+Ac type: F-16C-52 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Fury13 at 10:05:59 
+Event 49thKolbe joined as Fury14 at 10:06:00 
+Event Scimitar joined as Fury11 at 10:06:03 
+Event Banshee joined as Fury12 at 10:06:16 
+Event Scimitar violated ATC protocol at 10:08:08 
+Event Scimitar violated ATC protocol at 10:08:23 
+Event Banshee violated ATC protocol at 10:08:32 
+Event Scimitar violated ATC protocol at 10:08:39 
+Event Banshee violated ATC protocol at 10:08:48 
+Event Scimitar violated ATC protocol at 10:08:54 
+Event Banshee violated ATC protocol at 10:09:03 
+Event Scimitar violated ATC protocol at 10:09:10 
+Event Banshee violated ATC protocol at 10:09:12 
+Event Scimitar violated ATC protocol at 10:09:25 
+Event Scimitar violated ATC protocol at 10:09:28 
+Event Ghost 49th violated ATC protocol at 10:09:36 
+Event 49thKolbe violated ATC protocol at 10:09:48 
+Event Ghost 49th violated ATC protocol at 10:09:51 
+Event 49thKolbe violated ATC protocol at 10:10:04 
+Event Ghost 49th violated ATC protocol at 10:10:07 
+Event 49thKolbe violated ATC protocol at 10:10:16 
+Event Ghost 49th violated ATC protocol at 10:10:16 
+Event DPRK MiG-21MF downed by Banshee at 10:25:46 
+Event DPRK MiG-21MF downed by Banshee at 10:26:07 
+Event R-23R launched at Banshee 10:26:14 
+Event DPRK MiG-21MF downed by Banshee at 10:26:15 
+Event R-23R launched at Banshee 10:26:26 
+Event R-27R launched at Scimitar 10:28:17 
+Event DPRK MiG-29A downed by Scimitar at 10:28:51 
+Event DPRK MiG-29A downed by Ghost 49th at 10:30:19 
+Event DPRK MiG-21Mbis downed by Ghost 49th at 10:32:00 
+Event DPRK MiG-21Mbis downed by 49thKolbe at 10:32:29 
+Event DPRK MiG-29A downed by Banshee at 10:32:34 
+Event Banshee exited from Fury12 at 10:33:13 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 49th-Scimitar 
+Callsign: Scimitar 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120B released at 10:28:00   hit MiG-29A - destroyed 
+
+LOADOUT 2: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 6 
+Fired 5 
+Missed 0 
+Hit 5 
+Event AIM-120C-4 released at 10:25:20   hit MiG-21MF - destroyed 
+Event AIM-120C-4 released at 10:25:24   hit MiG-21MF - damaged 
+Event AIM-120C-4 released at 10:25:29   hit MiG-21MF - destroyed 
+Event AIM-120C-4 released at 10:25:33   hit MiG-21MF - destroyed 
+Event AIM-120C-4 released at 10:31:35   hit MiG-29A - damaged 
+
+LOADOUT 2: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-9M released at 10:32:48   hit MiG-23ML - damaged 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 10:29:33   hit MiG-29A - destroyed 
+Event AIM-120C-4 released at 10:31:18   hit MiG-21Mbis - destroyed 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AIM-9M released at 10:32:16   miss 
+Event AIM-9M released at 10:32:42   miss 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 10:29:26   hit MiG-29A - damaged 
+Event AIM-120C-4 released at 10:31:17   hit MiG-21Mbis - destroyed 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

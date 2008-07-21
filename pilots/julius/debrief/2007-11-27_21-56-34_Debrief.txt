@@ -1,0 +1,230 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/27/2007 21:56:36.
+Game is Campaign type Networked
+
+Mission Type: Pre-plan CAS 
+Flight Callsign: Panther1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Panther11 at 10:36:29 
+Event Waldi 49th joined as Panther13 at 10:36:38 
+Event CIS VTT-323 destroyed by Waldi 49th at 11:08:25 
+Event CIS BMP-CMD destroyed by Waldi 49th at 11:09:48 
+Event CIS BRDM-AT destroyed by Panther14 at 11:10:10 
+Event CIS T-62 destroyed by Waldi 49th at 11:10:38 
+Event CIS VTT-323 destroyed by Panther12 at 11:11:38 
+Event CIS 82mm Mtr* destroyed by Waldi 49th at 11:12:32 
+Event CIS VTT-323 destroyed by Panther12 at 11:13:22 
+Event PRC KrAz T 255B destroyed by Banshee at 11:22:58 
+Event PRC 2A65 destroyed by Banshee at 11:23:00 
+Event PRC 2A65 destroyed by Banshee at 11:23:02 
+Event PRC 2A65 destroyed by Banshee at 11:23:03 
+Event PRC 2A65 destroyed by Banshee at 11:23:03 
+Event PRC 2A65 destroyed by Banshee at 11:23:04 
+Event PRC ZSU23-4 destroyed by Banshee at 11:23:04 
+Event PRC 2A65 destroyed by Banshee at 11:23:04 
+Event CIS IL-76M downed by Waldi 49th at 11:26:40 
+Event Waldi 49th landed at 11:45:17 
+Event Banshee landed at 11:47:26 
+Event Banshee landed at 11:47:30 
+Event Banshee exited from Panther11 at 11:49:21 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 8 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 11:31:31   miss 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-65D 
+Starting Load 4 
+Fired 4 
+Missed 2 
+Hit 2 
+Event AGM-65D released at 11:18:25   miss 
+Event AGM-65D released at 11:18:32   miss 
+Event AGM-65D released at 11:22:47   hit KrAz T 255B - destroyed 
+Event AGM-65D released at 11:22:51   hit 2A65 - destroyed 
+
+LOADOUT 3: CBU-97 SFW 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event CBU-97 SFW released at 11:10:06   miss 
+Event CBU-97 SFW released at 11:22:55   hit 2A65 - destroyed 
+Event CBU-97 SFW released at 11:22:56   hit 2A65 - destroyed 
+Event    hit 2A65 - destroyed 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Lt. Jel Deguero 
+Callsign: 49thJel 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: CBU-97 SFW 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: 49th-Waldi 
+Callsign: Waldi 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 4 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 3 
+Missed 2 
+Hit 1 
+Event 20mm M61 fired at 11:20:34   miss 
+Event 20mm M61 fired at 11:20:35   miss 
+Event 20mm M61 fired at 11:20:37   hit House - damaged 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-5 released at 11:25:52   hit IL-76M - destroyed 
+
+LOADOUT 2: CBU-97 SFW 
+Starting Load 8 
+Fired 8 
+Missed 3 
+Hit 5 
+Event CBU-97 SFW released at 11:06:12   miss 
+Event CBU-97 SFW released at 11:06:13   miss 
+Event CBU-97 SFW released at 11:08:14   miss 
+Event CBU-97 SFW released at 11:08:14   hit VTT-323 - destroyed 
+Event CBU-97 SFW released at 11:09:38   hit BMP-CMD - destroyed 
+Event CBU-97 SFW released at 11:10:30   hit T-62 - destroyed 
+Event CBU-97 SFW released at 11:12:21   hit 82mm Mtr* - destroyed 
+Event CBU-97 SFW released at 11:13:04   hit Manufacturer - damaged 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Col Cleaner 49th 
+Callsign: Cleaner 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: CBU-97 SFW 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

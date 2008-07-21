@@ -1,0 +1,20 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/21/2007 00:27:04.
+Game is Campaign type Local
+
+Mission Type: OCA Strike 
+Flight Callsign: Shark6
+3 Ship Flight
+Ac type: F-16C-52 
+Country: IDF  
+
+FLIGHT EVENTS
+Event Banshee joined as Shark62 at 07:13:56 
+Event SA6 launched at Banshee 07:14:00 
+Event SA6 launched at Banshee 07:14:06 
+Event Banshee downed by Egyptian    SA-6 at 07:14:13 
+Event Banshee exited from Shark62 at 07:14:15 
+

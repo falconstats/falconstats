@@ -1,0 +1,111 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/17/2007 18:19:32.
+Game is Campaign type Local
+
+Mission Type: Stealth 
+Flight Callsign: Bone1
+4 Ship Flight
+Ac type: B-2A 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Bone11 at 07:11:00 
+Event Banshee landed at 07:14:11 
+Event Bone12 landed at 07:22:42 
+Event Bone14 landed at 07:24:09 
+Event Bone13 landed at 07:25:00 
+Event R-27T launched at Banshee 08:24:44 
+Event Banshee exited from Bone11 at 08:25:05 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: AGM-129 ACM* 
+Starting Load 16 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AGM-129 ACM* released at 08:22:39   miss 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Cpt. Hackl 
+Callsign: Bone12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: AGM-129 ACM* 
+Starting Load 16 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Col. Onions 
+Callsign: Bone13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: AGM-129 ACM* 
+Starting Load 16 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Tatum 
+Callsign: Bone14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: AGM-129 ACM* 
+Starting Load 16 
+Fired 0 
+Missed 0 
+Hit 0 
+

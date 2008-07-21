@@ -1,0 +1,104 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 1/1/2008 05:45:26.
+Game is Campaign type Local
+
+Mission Type: Naval Strike 
+Flight Callsign: Redwolf2
+2 Ship Flight
+Ac type: TornIDS U 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Redwolf21 at 12:39:00 
+Event Slovenian Apartment destroyed by Banshee at 12:47:09 
+Event Banshee collided with Apartment at 12:47:09 
+Event Banshee exited from Redwolf21 at 12:47:16 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 180 
+Fired 3 
+Missed 3 
+Hit 0 
+Event 27mm-1x fired at 12:45:21   miss 
+Event 27mm-1x fired at 12:45:24   miss 
+Event 27mm-1x fired at 12:45:28   miss 
+
+LOADOUT 1: SkyShadowECM 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-83 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9M 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AIM-9M released at 12:46:32   miss 
+Event AIM-9M released at 12:46:33   miss 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Quesada 
+Callsign: Redwolf22 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 180 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: SkyShadowECM 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-83 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+

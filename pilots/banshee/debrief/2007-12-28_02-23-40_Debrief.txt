@@ -1,0 +1,111 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 02:23:42.
+Game is Tactical Engagement type Networked
+Mission name: Auto Save
+
+Mission Type: DCA 
+Flight Callsign: Buzzsaw1
+2 Ship Flight
+Ac type: MiG-31 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Banshee joined as Buzzsaw11 at 17:32:48 
+Event AIM-120C-4 launched at Banshee 17:35:16 
+Event Buzzsaw12 downed by Slovenian F-16C-52 CCIP at 17:36:23 
+Event Slovenian F-16C-52 CCIP downed by Banshee at 17:37:40 
+Event Slovenian F-16C-52 CCIP downed by Banshee at 17:42:05 
+Event Banshee destroyed by debris at 17:42:05 
+Event Banshee exited from Buzzsaw11 at 17:43:14 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: GSH-23-6* 
+Starting Load 260 
+Fired 5 
+Missed 4 
+Hit 1 
+Event GSH-23-6* fired at 17:41:19   miss 
+Event GSH-23-6* fired at 17:41:35   miss 
+Event GSH-23-6* fired at 17:41:46   miss 
+Event GSH-23-6* fired at 17:41:54   miss 
+Event GSH-23-6* fired at 17:42:04   hit F-16C-52 CCIP - destroyed 
+
+LOADOUT 1: R-60 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: R-33 
+Starting Load 4 
+Fired 3 
+Missed 2 
+Hit 1 
+Event R-33 released at 17:35:00   miss 
+Event R-33 released at 17:35:22   miss 
+Event R-33 released at 17:37:01   hit F-16C-52 CCIP - destroyed 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Blier 
+Callsign: Buzzsaw12 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: GSH-23-6* 
+Starting Load 260 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-60 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: R-33 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+

@@ -1,0 +1,213 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/30/2007 22:09:30.
+Game is Tactical Engagement type Networked
+Mission name: watchtower
+
+Mission Type: BARCAP 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Sharkfin joined as Falcon12 at 00:50:27 
+Event Cleaner 49th joined as Falcon13 at 00:50:27 
+Event Tom 360th joined as Falcon14 at 00:50:28 
+Event de4deye joined as Falcon11 at 00:50:31 
+Event Tom 360th exited from Falcon14 at 01:26:16 
+Event Yugoslavian An-2 downed by Cleaner 49th at 02:08:26 
+Event Yugoslavian An-2 downed by de4deye at 02:08:29 
+Event Yugoslavian An-2 downed by Cleaner 49th at 02:08:59 
+Event Yugoslavian An-2 downed by de4deye at 02:09:02 
+Event Bosnian An-24 downed by Cleaner 49th at 02:12:16 
+Event Bosnian An-24 downed by Cleaner 49th at 02:13:29 
+Event Bosnian An-24 downed by de4deye at 02:14:19 
+Event R-27R launched at Cleaner 49th 02:18:57 
+Event R-27R launched at de4deye 02:19:11 
+Event Yugoslavian MiG-21-93 downed by de4deye at 02:20:43 
+Event R-27R launched at Sharkfin 02:20:50 
+Event Sharkfin downed by Yugoslavian MiG-21-93 at 02:21:33 
+Event Yugoslavian MiG-21-93 downed by de4deye at 02:21:45 
+Event Sharkfin exited from Falcon12 at 02:22:03 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: de4deye 
+Callsign: de4deye 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 5 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-9M released at 02:13:55   hit An-24 - destroyed 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event AIM-120C-4 released at 02:07:20   hit An-2 - destroyed 
+Event AIM-120C-4 released at 02:08:12   hit An-2 - destroyed 
+Event AIM-120C-4 released at 02:19:12   hit MiG-21-93 - destroyed 
+Event AIM-120C-4 released at 02:20:58   hit MiG-21-93 - destroyed 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Sharkfin 2 
+Callsign: Sharkfin 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 2 
+Missed 2 
+Hit 0 
+Event 20mm M61 fired at 02:11:37   miss 
+Event 20mm M61 fired at 02:11:40   miss 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-9M released at 02:12:54   hit An-24 - damaged 
+Event AIM-9M released at 02:20:03   miss 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Cleaner 49th 
+Callsign: Cleaner 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 6 
+Missed 2 
+Hit 4 
+Event 20mm M61 fired at 02:12:08   hit An-24 - damaged 
+Event 20mm M61 fired at 02:12:13   hit An-24 - destroyed 
+Event 20mm M61 fired at 02:13:17   miss 
+Event 20mm M61 fired at 02:13:19   hit An-24 - destroyed 
+Event 20mm M61 fired at 02:13:27   hit An-24 - damaged 
+Event 20mm M61 fired at 02:14:07   miss 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 3 
+Missed 1 
+Hit 2 
+Event AIM-120C-4 released at 02:07:15   hit An-2 - destroyed 
+Event AIM-120C-4 released at 02:08:16   hit An-2 - destroyed 
+Event AIM-120C-4 released at 02:19:02   miss 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Lt. Tom 360th 
+Callsign: Tom 360th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

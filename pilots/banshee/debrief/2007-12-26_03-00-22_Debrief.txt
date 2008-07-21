@@ -1,0 +1,132 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/26/2007 03:00:24.
+Game is Campaign type Networked
+
+Mission Type: OCA Strike 
+Flight Callsign: Dipper3
+2 Ship Flight
+Ac type: TornIDS U 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Dipper32 at 11:08:44 
+Event Nightflyer joined as Dipper31 at 11:08:44 
+Event R-77 launched at Nightflyer 11:36:13 
+Event R-77 launched at Banshee 11:36:15 
+Event R-77 launched at Nightflyer 11:36:35 
+Event R-77 launched at Banshee 11:36:37 
+Event R-77 launched at Banshee 11:39:54 
+Event R-77 launched at Banshee 11:39:56 
+Event Banshee ejected at 11:40:20 
+Event Nightflyer exited from Dipper31 at 11:43:36 
+Event Banshee exited from Dipper32 at 11:43:44 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Lt. Nightflyer 
+Callsign: Nightflyer 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 180 
+Fired 2 
+Missed 2 
+Hit 0 
+Event 27mm-1x fired at 11:39:35   miss 
+Event 27mm-1x fired at 11:40:17   miss 
+
+LOADOUT 1: SkyShadowECM 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 2250li Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALARM 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: BSU-49 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 4 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 180 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: SkyShadowECM 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 2250li Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALARM 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: BSU-49 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

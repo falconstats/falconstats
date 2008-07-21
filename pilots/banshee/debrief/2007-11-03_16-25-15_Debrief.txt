@@ -1,0 +1,119 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/3/2007 16:25:16.
+Game is Campaign type Local
+
+Mission Type: Deep Strike 
+Flight Callsign: Stud5
+2 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Stud51 at 12:40:09 
+Event DPRK MiG-21Mbis downed by Stud52 at 12:48:06 
+Event Banshee crashed at 12:51:13 
+Event Banshee exited from Stud51 at 12:51:17 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 2 
+Missed 0 
+Hit 2 
+Event 20mm M61 fired at 12:50:43   hit Radio Tower - damaged 
+Event 20mm M61 fired at 12:51:07   hit Bunker - damaged 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-10I/B 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event GBU-10I/B released at 12:49:15   miss 
+Event GBU-10I/B released at 12:49:39   miss 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Maj. Bang 
+Callsign: Stud52 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AIM-120B released at 12:46:32   miss 
+Event AIM-120B released at 12:47:18   miss 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120C-4 released at 12:46:28   miss 
+Event AIM-120C-4 released at 12:47:36   hit MiG-21Mbis - destroyed 
+
+LOADOUT 3: GBU-10I/B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

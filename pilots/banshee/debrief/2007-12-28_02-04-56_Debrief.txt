@@ -1,0 +1,39 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 02:04:58.
+Game is Tactical Engagement type Networked
+Mission name: Possible
+
+Mission Type: Training 
+Flight Callsign: Angel1
+1 Ship Flight
+Ac type: C-17 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Angel11 at 16:30:18 
+Event Banshee landed at 16:32:40 
+Event Banshee landed at 17:20:02 
+Event Banshee landed at 17:20:02 
+Event Banshee landed at 17:20:10 
+Event Yugoslavian Vasi destroyed by Banshee at 17:24:07 
+Event Banshee exited from Angel11 at 17:24:29 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+

@@ -1,0 +1,128 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/31/2007 01:26:26.
+Game is Tactical Engagement type Networked
+Mission name: LLTM_2006_TE-1_final
+
+Mission Type: Deep Strike 
+Flight Callsign: Cowboy1
+2 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Cowboy11 at 02:59:01 
+Event Banshee joined as Cowboy12 at 02:59:05 
+Event Ghost 49th violated ATC protocol at 02:59:56 
+Event Ghost 49th violated ATC protocol at 03:00:09 
+Event DPRK Factory destroyed by Banshee at 03:34:11 
+Event DPRK Smokestack destroyed by Banshee at 03:34:11 
+Event DPRK Factory destroyed by Ghost 49th at 03:35:53 
+Event DPRK MiG-23ML downed by Ghost 49th at 03:51:03 
+Event Ghost 49th landed at 04:13:53 
+Event Banshee landed at 04:14:42 
+Event Banshee landed at 04:14:45 
+Event Ghost 49th exited from Cowboy11 at 04:16:15 
+Event Banshee exited from Cowboy12 at 04:16:44 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Maj. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120C-5 released at 03:50:10   hit MiG-23ML - destroyed 
+Event AIM-120C-5 released at 03:50:59   miss 
+
+LOADOUT 2: BSU-50 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event BSU-50 released at 03:35:48   hit Factory - damaged 
+Event BSU-50 released at 03:35:49   hit Factory - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-120C-5 released at 03:43:38   miss 
+
+LOADOUT 2: BSU-50 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event BSU-50 released at 03:33:53   hit Factory - destroyed 
+Event    hit Smokestack - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

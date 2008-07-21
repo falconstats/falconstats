@@ -1,0 +1,27 @@
+Pilot Name: Banshee
+Commissioned Date: 09/16/06
+Number of Flight Hours: 715.6 
+Rank: Colonel
+Callsign: Banshee
+Medals:
+
+Air Force Cross: 0
+Silver Star: 6
+Distinguished Flying Cross: 23
+Air Medal: 21
+Longevity Medal: 4
+Campaign Medals: 50
+
+CAMPAIGN STATS:
+
+Total Missions Flown: 481
+Air to Ground: 3533
+Consecutive Missions: 10
+Friendlies Killed: 5
+Games Lost: 0
+Games Tied: 0
+Games Won: 45
+Human Kills: 0
+Number of Times Killed: 12
+Number of Times Killed by Human: 48
+Killed by Self: 31

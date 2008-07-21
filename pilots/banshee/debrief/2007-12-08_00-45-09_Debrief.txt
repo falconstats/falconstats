@@ -1,0 +1,246 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/8/2007 00:45:10.
+Game is Tactical Engagement type Local
+Mission name: precise-cut
+
+Mission Type: Intercept 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 04:10:07 
+Event SA6 launched at Banshee 04:26:11 
+Event SA6 launched at Banshee 04:26:16 
+Event SA6 launched at Banshee 04:28:35 
+Event SA6 launched at Banshee 04:28:40 
+Event Yugoslavian StraightFlush destroyed by Cowboy12 at 04:30:32 
+Event Yugoslavian An-72* downed by Banshee at 04:33:18 
+Event Yugoslavian An-72* downed by Banshee at 04:34:06 
+Event Yugoslavian An-72* downed by Cowboy12 at 04:34:46 
+Event R-77M launched at Banshee 04:36:58 
+Event Cowboy12 ejected at 04:37:50 
+Event Banshee downed by Yugoslavian Su-37 at 04:37:51 
+Event Banshee exited from Cowboy11 at 04:37:54 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 5 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Python-4 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event Python-4 released at 04:33:28   hit An-72* - destroyed 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-5 released at 04:32:36   hit An-72* - destroyed 
+Event AIM-120C-5 released at 04:36:56   hit Su-37 - damaged 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AGM-88C released at 04:28:04   miss 
+Event AGM-88C released at 04:30:26   miss 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Tatum 
+Callsign: Cowboy12 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 1 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Python-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-5 released at 04:34:10   hit An-72* - destroyed 
+Event AIM-120C-5 released at 04:37:04   hit Su-37 - damaged 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-88C released at 04:28:16   hit StraightFlush - destroyed 
+Event AGM-88C released at 04:28:21   miss 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Stabler 
+Callsign: Cowboy13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Python-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Dalby 
+Callsign: Cowboy14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Python-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

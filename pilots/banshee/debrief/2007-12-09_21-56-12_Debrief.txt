@@ -1,0 +1,268 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/9/2007 21:56:14.
+Game is Campaign type Networked
+
+Mission Type: OCA Strike 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-52 
+Country: IDF  
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Falcon11 at 07:12:17 
+Event Banshee joined as Falcon12 at 07:12:32 
+Event Falcon13 landed at 07:25:15 
+Event Falcon14 landed at 07:26:31 
+Event Syrian    Depot destroyed by Ghost 49th at 07:38:40 
+Event Syrian    Barracks destroyed by Ghost 49th at 07:39:17 
+Event Syrian    Barracks destroyed by Ghost 49th at 07:39:54 
+Event Syrian    Radar destroyed by Banshee at 07:40:18 
+Event Syrian    Admin Building destroyed by Banshee at 07:40:19 
+Event Syrian    Depot destroyed by Banshee at 07:40:19 
+Event Syrian    Barracks destroyed by Ghost 49th at 07:41:21 
+Event R-27R launched at Banshee 07:47:26 
+Event Banshee ejected at 07:48:24 
+Event Syrian    Su-27 downed by Banshee at 07:48:31 
+Event Syrian    MiG-25 downed by Ghost 49th at 07:52:10 
+Event Syrian    MiG-25 downed by Ghost 49th at 07:52:50 
+Event R-60 launched at Ghost 49th 07:54:39 
+Event R-60 launched at Ghost 49th 07:54:44 
+Event R-60 launched at Ghost 49th 07:54:46 
+Event R-60 launched at Ghost 49th 07:55:04 
+Event Ghost 49th landed at 08:00:23 
+Event Ghost 49th landed at 08:00:25 
+Event Ghost 49th exited from Falcon11 at 08:01:11 
+Event Banshee exited from Falcon12 at 08:21:44 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Maj. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 4 
+AN Kills 0 
+Shoot At 4 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-9M released at 07:52:21   hit MiG-25 - destroyed 
+
+LOADOUT 2: AIM-120B 
+Starting Load 3 
+Fired 3 
+Missed 2 
+Hit 1 
+Event AIM-120B released at 07:47:46   miss 
+Event AIM-120B released at 07:50:58   hit MiG-25 - destroyed 
+Event AIM-120B released at 07:51:53   miss 
+
+LOADOUT 3: Mk-84 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event Mk-84 released at 07:37:43   hit Depot - damaged 
+Event Mk-84 released at 07:38:32   hit Depot - destroyed 
+
+LOADOUT 4: Mk-82 
+Starting Load 6 
+Fired 6 
+Missed 1 
+Hit 5 
+Event Mk-82 released at 07:39:16   hit Barracks - destroyed 
+Event Mk-82 released at 07:39:50   hit Barracks - destroyed 
+Event    hit Barracks - damaged 
+Event Mk-82 released at 07:40:39   hit Barracks - damaged 
+Event Mk-82 released at 07:40:40   miss 
+Event Mk-82 released at 07:41:17   hit Barracks - destroyed 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 1 
+AG Kills 0 
+AS Kills 3 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 3 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120B released at 07:47:41   hit Su-27 - destroyed 
+
+LOADOUT 3: Mk-84 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event Mk-84 released at 07:37:54   hit Depot - damaged 
+Event Mk-84 released at 07:39:20   hit Ammo Dump - damaged 
+
+LOADOUT 4: Mk-82 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event Mk-82 released at 07:40:10   hit Radar - destroyed 
+Event Mk-82 released at 07:40:11   hit Admin Building - destroyed 
+Event Mk-82 released at 07:40:13   hit Depot - damaged 
+Event Mk-82 released at 07:40:13   hit Depot - destroyed 
+Event Mk-82 released at 07:41:21   hit Admin Building - damaged 
+Event Mk-82 released at 07:41:22   hit Ammo Dump - damaged 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Cpt. Coe 
+Callsign: Falcon13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-84 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: Mk-82 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Cpt. van Kasteren 
+Callsign: Falcon14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-84 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: Mk-82 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

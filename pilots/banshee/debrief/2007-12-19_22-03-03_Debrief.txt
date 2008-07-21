@@ -1,0 +1,279 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/19/2007 22:03:06.
+Game is Campaign type Networked
+
+Mission Type: OCA Strike 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Wildsau joined as Cowboy14 at 00:23:10 
+Event Tom 360th joined as Cowboy12 at 00:23:17 
+Event Ghost 49th joined as Cowboy13 at 00:23:26 
+Event Banshee joined as Cowboy11 at 00:23:33 
+Event Wildsau violated ATC protocol at 00:33:41 
+Event SA7 launched at Banshee 01:07:31 
+Event Yugoslavian Runway destroyed by Banshee at 01:07:32 
+Event Yugoslavian Runway destroyed by Banshee at 01:07:34 
+Event Yugoslavian Runway destroyed by Tom 360th at 01:07:48 
+Event SA7 launched at Tom 360th 01:07:50 
+Event Yugoslavian Runway destroyed by Tom 360th at 01:07:51 
+Event SA14 launched at Ghost 49th 01:10:05 
+Event SA7 launched at Ghost 49th 01:10:19 
+Event SA14 launched at Wildsau 01:10:32 
+Event SA14 launched at Ghost 49th 01:10:34 
+Event SA7 launched at Wildsau 01:10:48 
+Event SA14 launched at Wildsau 01:11:02 
+Event Yugoslavian J-22 downed by Ghost 49th at 01:20:09 
+Event Banshee landed at 01:34:00 
+Event Ghost 49th landed at 01:37:44 
+Event Tom 360th landed at 01:38:33 
+Event Tom 360th landed at 01:38:33 
+Event Tom 360th violated ATC protocol at 01:38:34 
+Event Tom 360th violated ATC protocol at 01:38:34 
+Event Wildsau landed at 01:38:36 
+Event Wildsau landed at 01:38:36 
+Event Wildsau landed at 01:38:37 
+Event Tom 360th violated ATC protocol at 01:39:34 
+Event Ghost 49th exited from Cowboy13 at 01:41:07 
+Event Banshee exited from Cowboy11 at 01:41:09 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: BLU-107/B 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BLU-107/B released at 01:07:26   hit Runway - destroyed 
+Event BLU-107/B released at 01:07:27   hit Runway - damaged 
+Event BLU-107/B released at 01:07:27   hit Runway - damaged 
+Event BLU-107/B released at 01:07:28   hit Runway - destroyed 
+Event BLU-107/B released at 01:07:29   hit Runway - damaged 
+Event BLU-107/B released at 01:07:30   hit Runway - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Tom 360th 
+Callsign: Tom 360th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 01:07:46   miss 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: BLU-107/B 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BLU-107/B released at 01:07:42   hit Runway - destroyed 
+Event BLU-107/B released at 01:07:43   hit Runway - damaged 
+Event BLU-107/B released at 01:07:44   hit Runway - damaged 
+Event BLU-107/B released at 01:07:45   hit Runway - destroyed 
+Event BLU-107/B released at 01:07:46   hit Runway - damaged 
+Event BLU-107/B released at 01:07:47   hit Runway - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-5 released at 01:19:13   hit J-22 - destroyed 
+
+LOADOUT 3: BLU-107/B 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BLU-107/B released at 01:10:25   hit Taxiway - damaged 
+Event BLU-107/B released at 01:10:25   hit Taxiway - damaged 
+Event BLU-107/B released at 01:10:25   hit Taxiway - damaged 
+Event BLU-107/B released at 01:10:25   hit Taxiway - damaged 
+Event BLU-107/B released at 01:10:25   hit Taxiway - damaged 
+Event BLU-107/B released at 01:10:25   hit Taxiway - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Wildsau 
+Callsign: Wildsau 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: BSU-49 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BSU-49 released at 01:10:52   hit Runway - damaged 
+Event BSU-49 released at 01:10:53   hit Runway - damaged 
+Event BSU-49 released at 01:10:54   hit Runway - damaged 
+Event BSU-49 released at 01:10:55   hit Runway - damaged 
+Event BSU-49 released at 01:10:56   hit Runway - damaged 
+Event BSU-49 released at 01:10:56   hit Runway - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

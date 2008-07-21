@@ -1,0 +1,102 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/25/2007 16:57:00.
+Game is Tactical Engagement type Networked
+Mission name: Flugshow
+
+Mission Type: DCA 
+Flight Callsign: Cowboy1
+2 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy12 at 09:08:28 
+Event Snapper joined as Cowboy11 at 09:08:32 
+Event Snapper landed at 09:12:17 
+Event Snapper ejected at 09:12:49 
+Event Banshee collided with Tree at 09:14:24 
+Event Banshee exited from Cowboy12 at 09:14:28 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Snapper 
+Callsign: Snapper 
+Pilot status  - OK 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

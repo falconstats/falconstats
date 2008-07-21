@@ -1,0 +1,253 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/15/2007 22:53:42.
+Game is Campaign type Networked
+
+Mission Type: SEAD Escort 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Falcon11 at 04:44:06 
+Event crissiloop joined as Falcon12 at 04:44:07 
+Event DragonFly joined as Falcon13 at 04:44:07 
+Event PRC Flap Lid destroyed by Falcon14 at 06:01:29 
+Event PRC Flap Lid destroyed by Falcon14 at 06:08:24 
+Event PRC SA-10 destroyed by DragonFly at 06:08:58 
+Event PRC Flap Lid destroyed by DragonFly at 06:08:58 
+Event PRC Su-27SM downed by Falcon14 at 06:12:49 
+Event PRC Su-27SM downed by DragonFly at 06:19:24 
+Event PRC Su-27SM downed by Banshee at 06:27:16 
+Event PRC Su-27SM downed by Banshee at 06:27:22 
+Event SA14 launched at Banshee 06:29:18 
+Event SA14 launched at Banshee 06:29:31 
+Event SA14 launched at Banshee 06:29:36 
+Event SA14 launched at Banshee 06:29:44 
+Event PRC Su-27SM destroyed by DragonFly at 06:29:47 
+Event SA14 launched at DragonFly 06:29:48 
+Event Banshee ejected at 06:29:52 
+Event SA14 launched at DragonFly 06:29:55 
+Event SA14 launched at DragonFly 06:30:03 
+Event DragonFly ejected at 06:30:40 
+Event Falcon14 ejected at 06:30:45 
+Event Banshee exited from Falcon11 at 06:37:02 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 4 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 6 
+Missed 6 
+Hit 0 
+Event 20mm M61 fired at 06:29:11   miss 
+Event 20mm M61 fired at 06:29:13   miss 
+Event 20mm M61 fired at 06:29:14   miss 
+Event 20mm M61 fired at 06:29:20   miss 
+Event 20mm M61 fired at 06:29:22   miss 
+Event 20mm M61 fired at 06:29:24   miss 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 3 
+Missed 0 
+Hit 3 
+Event AIM-120C-5 released at 06:15:23   hit Su-27SM - damaged 
+Event AIM-120C-5 released at 06:26:47   hit Su-27SM - destroyed 
+Event AIM-120C-5 released at 06:26:54   hit Su-27SM - destroyed 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AGM-88C released at 05:56:53   miss 
+Event AGM-88C released at 06:10:23   miss 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: crissiloop 
+Callsign: crissiloop 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AGM-88C released at 05:56:50   miss 
+Event AGM-88C released at 06:15:22   miss 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: 49thDragonFly 
+Callsign: DragonFly 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 1 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 10 
+Missed 6 
+Hit 4 
+Event 20mm M61 fired at 06:19:22   hit Su-27SM - destroyed 
+Event    hit hit  - damaged 
+Event 20mm M61 fired at 06:19:23   miss 
+Event 20mm M61 fired at 06:29:37   miss 
+Event 20mm M61 fired at 06:29:39   miss 
+Event 20mm M61 fired at 06:29:40   miss 
+Event 20mm M61 fired at 06:29:41   hit Su-27SM - damaged 
+Event 20mm M61 fired at 06:29:43   hit Su-27SM - damaged 
+Event 20mm M61 fired at 06:29:45   miss 
+Event 20mm M61 fired at 06:29:45   miss 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-120C-5 released at 06:11:55   miss 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 06:06:19   hit SA-10 - destroyed 
+Event    hit Flap Lid - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Shin 
+Callsign: Falcon14 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 1 
+AG Kills 2 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 3 
+Missed 2 
+Hit 1 
+Event AIM-120C-5 released at 06:11:52   hit Su-27SM - destroyed 
+Event AIM-120C-5 released at 06:11:56   miss 
+Event AIM-120C-5 released at 06:26:53   miss 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 05:58:53   hit Flap Lid - destroyed 
+Event AGM-88C released at 06:05:44   hit Flap Lid - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

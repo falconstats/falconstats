@@ -1,0 +1,138 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/21/2007 17:57:10.
+Game is Campaign type Local
+
+Mission Type: Naval Strike 
+Flight Callsign: Snake3
+2 Ship Flight
+Ac type: Typhoon 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Snake31 at 07:12:06 
+Event Yugoslavian Osa II destroyed by Banshee at 07:27:46 
+Event Yugoslavian Osa II destroyed by Banshee at 07:28:45 
+Event Yugoslavian Osa II destroyed by Banshee at 07:37:26 
+Event Yugoslavian Osa II destroyed by Banshee at 07:38:39 
+Event Yugoslavian Osa II destroyed by Banshee at 07:40:30 
+Event Yugoslavian Osa II destroyed by Banshee at 07:40:36 
+Event Yugoslavian J-22 downed by Banshee at 07:50:00 
+Event Yugoslavian J-22 downed by Banshee at 07:53:22 
+Event Yugoslavian J-22 downed by Banshee at 08:02:31 
+Event SA6 launched at Banshee 08:03:58 
+Event SA6 launched at Banshee 08:04:04 
+Event Yugoslavian J-22 downed by Banshee at 08:04:13 
+Event SA6 launched at Banshee 08:15:52 
+Event Snake32 landed at 08:19:38 
+Event Banshee landed at 08:35:41 
+Event Banshee exited from Snake31 at 08:37:45 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 0 
+AS Kills 0 
+AN Kills 6 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 2 
+Missed 2 
+Hit 0 
+Event 27mm-1x fired at 07:52:09   miss 
+Event 27mm-1x fired at 07:52:47   miss 
+
+LOADOUT 1: IRIS-T 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event IRIS-T released at 07:53:07   hit J-22 - destroyed 
+Event IRIS-T released at 08:15:37   miss 
+
+LOADOUT 2: AGM-84A 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event AGM-84A released at 07:26:17   hit Osa II - destroyed 
+Event AGM-84A released at 07:28:08   hit Osa II - destroyed 
+Event AGM-84A released at 07:36:35   hit Osa II - destroyed 
+Event AGM-84A released at 07:38:17   hit Osa II - destroyed 
+Event AGM-84A released at 07:40:00   hit Osa II - destroyed 
+Event AGM-84A released at 07:40:10   hit Osa II - destroyed 
+
+LOADOUT 3: AIM-120B 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event AIM-120B released at 07:49:09   hit J-22 - destroyed 
+Event AIM-120B released at 08:01:32   hit J-22 - destroyed 
+Event AIM-120B released at 08:03:29   hit J-22 - destroyed 
+Event AIM-120B released at 08:03:51   miss 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Maj. Powers 
+Callsign: Snake32 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: IRIS-T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-84A 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-120B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

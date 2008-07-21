@@ -1,0 +1,167 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/9/2007 15:27:50.
+Game is Tactical Engagement type Local
+Mission name: precise-cut
+
+Mission Type: Intercept 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 04:18:25 
+Event Yugoslavian An-225 downed by Banshee at 04:32:25 
+Event Yugoslavian An-225 downed by Banshee at 04:32:48 
+Event Yugoslavian An-225 downed by Banshee at 04:34:34 
+Event Yugoslavian An-225 downed by Banshee at 04:34:51 
+Event Banshee exited from Cowboy11 at 04:35:26 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 7 
+Missed 2 
+Hit 5 
+Event 20mm M61 fired at 04:32:18   miss 
+Event 20mm M61 fired at 04:32:20   hit An-225 - damaged 
+Event 20mm M61 fired at 04:32:24   hit An-225 - destroyed 
+Event 20mm M61 fired at 04:32:41   hit An-225 - damaged 
+Event 20mm M61 fired at 04:32:45   miss 
+Event 20mm M61 fired at 04:32:47   hit An-225 - destroyed 
+Event 20mm M61 fired at 04:34:02   hit An-225 - damaged 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120B released at 04:34:13   hit An-225 - destroyed 
+Event AIM-120B released at 04:34:25   hit An-225 - destroyed 
+
+LOADOUT 2: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Webster 
+Callsign: Cowboy12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Parker 
+Callsign: Cowboy13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Munoz 
+Callsign: Cowboy14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

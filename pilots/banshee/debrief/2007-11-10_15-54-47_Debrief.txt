@@ -1,0 +1,90 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/10/2007 15:54:48.
+Game is Tactical Engagement type Local
+Mission name: Flugshow
+
+Mission Type: DCA 
+Flight Callsign: Cowboy1
+2 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 09:08:00 
+Event Banshee violated ATC protocol at 09:09:15 
+Event Banshee violated ATC protocol at 09:09:30 
+Event Banshee violated ATC protocol at 09:09:46 
+Event Banshee violated ATC protocol at 09:09:51 
+Event Banshee exited from Cowboy11 at 09:11:16 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Grilliot 
+Callsign: Cowboy12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

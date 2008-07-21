@@ -1,0 +1,254 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/25/2007 18:01:54.
+Game is Tactical Engagement type Networked
+Mission name: SEAD Strike
+
+Mission Type: SEAD Escort 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-50 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Falcon12 at 08:45:20 
+Event Snapper joined as Falcon11 at 08:45:25 
+Event Falcon13 landed at 08:55:34 
+Event Falcon14 landed at 08:56:44 
+Event Yugoslavian StraightFlush destroyed by Banshee at 09:18:03 
+Event Yugoslavian Low Blow destroyed by Snapper at 09:21:12 
+Event Yugoslavian Fan Song B destroyed by Banshee at 09:23:42 
+Event R-13R launched at Snapper 09:25:58 
+Event R-13R launched at Banshee 09:26:15 
+Event Yugoslavian MiG-21Mbis downed by Snapper at 09:26:16 
+Event Yugoslavian MiG-21Mbis downed by Banshee at 09:26:17 
+Event R-13R launched at Banshee 09:26:20 
+Event Yugoslavian MiG-21Mbis downed by Snapper at 09:26:22 
+Event F-16C-50 Banshee launched AIM-120C-4 at Snapper 09:26:29 
+Event Yugoslavian MiG-21Mbis downed by Snapper at 09:26:36 
+Event R-13M launched at Snapper 09:26:38 
+Event Snapper downed by Yugoslavian MiG-21Mbis at 09:26:43 
+Event R-13M launched at Banshee 09:27:19 
+Event Banshee exited from Falcon12 at 09:28:24 
+Event Snapper exited from Falcon11 at 09:28:40 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Snapper 
+Callsign: Snapper 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 3 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-4 released at 09:25:59   hit MiG-21Mbis - destroyed 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120B released at 09:25:15   hit MiG-21Mbis - destroyed 
+Event AIM-120B released at 09:25:46   hit MiG-21Mbis - destroyed 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AGM-88C released at 09:20:35   hit Low Blow - destroyed 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 2 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 09:25:18   hit MiG-21Mbis - destroyed 
+Event AIM-120C-4 released at 09:26:29   hit F-16C-50 - damaged 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120B released at 09:18:58   hit MiG-29A - damaged 
+Event AIM-120B released at 09:26:07   hit MiG-21Mbis - damaged 
+
+LOADOUT 3: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-88C released at 09:16:32   hit StraightFlush - destroyed 
+Event AGM-88C released at 09:21:48   hit Fan Song B - destroyed 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Kimmel 
+Callsign: Falcon13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: CBU-87 CEM 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Leugers 
+Callsign: Falcon14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: CBU-87 CEM 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

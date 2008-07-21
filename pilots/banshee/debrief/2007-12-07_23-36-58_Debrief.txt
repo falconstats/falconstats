@@ -1,0 +1,87 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/7/2007 23:37:00.
+Game is Tactical Engagement type Local
+Mission name: precise-cut
+
+Mission Type: Escort 
+Flight Callsign: Buzzsaw1
+2 Ship Flight
+Ac type: Su-37 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Banshee joined as Buzzsaw11 at 04:14:00 
+Event Banshee crashed at 04:24:49 
+Event Banshee exited from Buzzsaw11 at 04:24:58 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-301 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 2 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-77M 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Page 
+Callsign: Buzzsaw12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-301 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 2 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-77M 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+

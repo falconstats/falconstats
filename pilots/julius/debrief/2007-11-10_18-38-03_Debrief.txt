@@ -1,0 +1,262 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/10/2007 18:38:04.
+Game is Campaign type Networked
+
+Mission Type: CAS 
+Flight Callsign: Cowboy4
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event 49thSnake joined as Cowboy41 at 05:02:48 
+Event Wildcard joined as Cowboy43 at 05:02:48 
+Event Banshee joined as Cowboy42 at 05:02:50 
+Event Eagle joined as Cowboy44 at 05:02:51 
+Event F-16C-50 CCIP Steffen 49th launched AIM-120C-5 at Eagle 05:14:42 
+Event Yugoslavian MT55BL destroyed by Banshee at 05:39:52 
+Event Yugoslavian MT55BL destroyed by Banshee at 05:39:52 
+Event Yugoslavian AK47 destroyed by Banshee at 05:39:52 
+Event Yugoslavian G-4 downed by Eagle at 05:40:35 
+Event Yugoslavian BMP-2 destroyed by Wildcard at 05:44:57 
+Event Yugoslavian BMP-2 destroyed by Wildcard at 05:44:57 
+Event Yugoslavian BMP-2 destroyed by Wildcard at 05:44:57 
+Event Yugoslavian PKT-7 destroyed by Wildcard at 05:45:00 
+Event Yugoslavian AK47 destroyed by Wildcard at 05:45:03 
+Event Yugoslavian S-60 destroyed by Banshee at 05:45:03 
+Event Yugoslavian T-72 destroyed by Banshee at 05:45:03 
+Event Yugoslavian T-72 destroyed by Banshee at 05:45:03 
+Event Yugoslavian J-22 downed by Eagle at 05:46:17 
+Event Yugoslavian AK47 destroyed by 49thSnake at 05:46:17 
+Event Yugoslavian MDK-2-D destroyed by 49thSnake at 05:46:19 
+Event Yugoslavian MDK-2-D destroyed by 49thSnake at 05:46:19 
+Event Yugoslavian J-22 downed by Eagle at 05:46:24 
+Event Yugoslavian AK47 destroyed by Wildcard at 05:48:25 
+Event Yugoslavian AK47 destroyed by Banshee at 05:48:42 
+Event Yugoslavian AK47 destroyed by Banshee at 05:48:42 
+Event Yugoslavian AK47 destroyed by Banshee at 05:48:42 
+Event Yugoslavian AK74 destroyed by Banshee at 05:48:42 
+Event Yugoslavian AK47 destroyed by Banshee at 05:48:44 
+Event 49thSnake landed at 06:11:46 
+Event 49thSnake landed at 06:11:46 
+Event 49thSnake landed at 06:11:47 
+Event 49thSnake landed at 06:11:47 
+Event 49thSnake landed at 06:11:48 
+Event Eagle landed at 06:12:34 
+Event Eagle landed at 06:12:35 
+Event Banshee landed at 06:13:10 
+Event Banshee landed at 06:13:10 
+Event Banshee landed at 06:13:11 
+Event Wildcard landed at 06:14:03 
+Event 49thSnake exited from Cowboy41 at 06:19:53 
+Event Wildcard exited from Cowboy43 at 06:19:54 
+Event Banshee exited from Cowboy42 at 06:20:36 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Lt. 49thSnake 
+Callsign: 49thSnake 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 6 
+Missed 3 
+Hit 3 
+Event Mk-20D released at 05:46:01   hit Shop - damaged 
+Event    hit Office - damaged 
+Event    hit AK47 - destroyed 
+Event Mk-20D released at 05:46:02   hit Office - damaged 
+Event    hit Office - damaged 
+Event Mk-20D released at 05:46:02   hit MDK-2-D - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 2Lt. Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 11 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 6 
+Missed 2 
+Hit 4 
+Event Mk-20D released at 05:39:34   hit MT55BL - destroyed 
+Event    hit AK47 - destroyed 
+Event    hit MT55BL - destroyed 
+Event Mk-20D released at 05:44:46   hit S-60 - destroyed 
+Event    hit T-72 - destroyed 
+Event    hit T-72 - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Lt. Wildcard 
+Callsign: Wildcard 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 6 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 6 
+Missed 2 
+Hit 4 
+Event Mk-20D released at 05:39:51   miss 
+Event Mk-20D released at 05:44:36   hit BMP-2 - destroyed 
+Event    hit BMP-2 - destroyed 
+Event    hit BMP-2 - destroyed 
+Event Mk-20D released at 05:44:37   hit PKT-7 - destroyed 
+Event Mk-20D released at 05:44:37   hit AK47 - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Eagle 360th 
+Callsign: Eagle 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 3 
+Missed 0 
+Hit 3 
+Event AIM-120C-5 released at 05:40:03   hit G-4 - destroyed 
+Event AIM-120C-5 released at 05:45:45   hit J-22 - destroyed 
+Event AIM-120C-5 released at 05:46:03   hit J-22 - destroyed 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

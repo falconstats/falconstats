@@ -1,0 +1,102 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/20/2007 21:41:46.
+Game is Tactical Engagement type Networked
+Mission name: Auto Save
+
+Mission Type: BARCAP 
+Flight Callsign: Spirit1
+2 Ship Flight
+Ac type: MiG-29SM 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Banshee joined as Spirit12 at 08:53:23 
+Event AIM-120C-5 launched at Spirit11 09:01:27 
+Event AIM-120C-5 launched at Banshee 09:01:31 
+Event Ghost 49th ejected at 09:02:04 
+Event Banshee downed by Slovenian F-16C-52 at 09:02:15 
+Event Banshee exited from Spirit12 at 09:02:38 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-301 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 2 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-77 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 440Imp Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-301 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 2 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-77 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 440Imp Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

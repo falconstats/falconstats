@@ -1,0 +1,184 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 1/2/2008 22:01:26.
+Game is Tactical Engagement type Networked
+Mission name: BLUE-SPIRIT-MISSION-1
+
+Mission Type: Strike 
+Flight Callsign: Cowboy1
+4 Ship Flight
+Ac type: F-16C-40 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Cowboy11 at 08:47:19 
+Event 49thKolbe joined as Cowboy12 at 08:47:19 
+Event Scimitar joined as Cowboy14 at 08:47:19 
+Event Banshee joined as Cowboy13 at 08:47:32 
+Event 49thKolbe violated ATC protocol at 09:02:17 
+Event Banshee violated ATC protocol at 09:02:32 
+Event Scimitar violated ATC protocol at 09:02:38 
+Event Japanese Temple destroyed by 49thKolbe at 09:27:04 
+Event R-13M launched at 49thKolbe 09:34:15 
+Event R-60 launched at 49thKolbe 09:34:31 
+Event ROK MiG-23ML downed by Banshee at 09:35:04 
+Event R-60 launched at Banshee 09:35:53 
+Event R-60 launched at Banshee 09:35:57 
+Event R-60 launched at Scimitar 09:38:04 
+Event ROK MiG-23ML downed by Ghost 49th at 09:38:16 
+Event Scimitar ejected at 09:38:47 
+Event Scimitar exited from Cowboy14 at 09:39:21 
+Event ROK MiG-23ML downed by Ghost 49th at 09:39:23 
+Event Japanese Q-5* downed by Ghost 49th at 09:43:17 
+Event Ghost 49th landed at 09:57:50 
+Event Ghost 49th landed at 09:57:51 
+Event Ghost 49th exited from Cowboy11 at 09:59:27 
+Event Banshee exited from Cowboy13 at 09:59:36 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Maj. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-9M released at 09:37:51   hit MiG-23ML - destroyed 
+Event AIM-9M released at 09:39:10   hit MiG-23ML - destroyed 
+
+LOADOUT 2: AIM-120B 
+Starting Load 1 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120B released at 09:42:36   hit Q-5* - destroyed 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-82 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event Mk-82 released at 09:26:57   hit Temple - destroyed 
+Event Mk-82 released at 09:26:57   miss 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-9M released at 09:34:36   hit MiG-23ML - destroyed 
+
+LOADOUT 2: AIM-120B 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Maj. 49th-Scimitar 
+Callsign: Scimitar 
+Pilot status  - OK 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 09:26:24   miss 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-82 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event Mk-82 released at 09:27:32   hit Temple - damaged 
+Event Mk-82 released at 09:27:32   hit Temple - damaged 
+

@@ -1,0 +1,119 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/18/2007 02:14:26.
+Game is Campaign type Local
+
+Mission Type: HAVCAP 
+Flight Callsign: Garbo1
+2 Ship Flight
+Ac type: Tornado ADV 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Garbo11 at 05:03:00 
+Event Banshee violated ATC protocol at 05:04:38 
+Event Banshee violated ATC protocol at 05:04:50 
+Event Banshee exited from Garbo11 at 05:06:23 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 180 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Aim-132 ASRAAM 
+Starting Load 4 
+Fired 4 
+Missed 4 
+Hit 0 
+Event Aim-132 ASRAAM released at 05:06:12   miss 
+Event Aim-132 ASRAAM released at 05:06:12   miss 
+Event Aim-132 ASRAAM released at 05:06:12   miss 
+Event Aim-132 ASRAAM released at 05:06:12   miss 
+
+LOADOUT 2: 1500li Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-120B 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AIM-120B released at 05:06:06   miss 
+Event AIM-120B released at 05:06:07   miss 
+
+LOADOUT 4: Skyflash 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event Skyflash released at 05:06:07   miss 
+Event Skyflash released at 05:06:07   miss 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Strieb 
+Callsign: Garbo12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 180 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Aim-132 ASRAAM 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 1500li Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: Skyflash 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+

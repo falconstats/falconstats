@@ -1,0 +1,240 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/12/2007 22:28:50.
+Game is Campaign type Networked
+
+Mission Type: SEAD Escort 
+Flight Callsign: Fury1
+4 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event DragonFly joined as Fury11 at 22:28:02 
+Event Banshee joined as Fury13 at 22:28:02 
+Event 49thKolbe joined as Fury14 at 22:28:02 
+Event redfox joined as Fury12 at 22:28:03 
+Event 49thKolbe collided with U.S. M977 at 22:32:06 
+Event U.S. M977 destroyed by 49thKolbe at 22:32:15 
+Event DPRK SA-2 destroyed by DragonFly at 23:04:07 
+Event DPRK Fan Song B destroyed by DragonFly at 23:04:07 
+Event DPRK Low Blow destroyed by Banshee at 23:06:57 
+Event SA14 launched at Banshee 23:08:23 
+Event SA14 launched at Banshee 23:08:27 
+Event DPRK KS-19 destroyed by Banshee at 23:08:57 
+Event DPRK KS-19 destroyed by Banshee at 23:08:57 
+Event SA14 launched at Banshee 23:09:56 
+Event SA14 launched at Banshee 23:10:02 
+Event R-77 launched at DragonFly 23:23:51 
+Event R-77 launched at redfox 23:24:30 
+Event DPRK MiG-29SM downed by DragonFly at 23:24:38 
+Event R-77 launched at redfox 23:24:51 
+Event redfox ejected at 23:24:57 
+Event redfox exited from Fury12 at 23:25:32 
+Event DPRK MiG-29SM downed by redfox at 23:25:46 
+Event DPRK MiG-29SM downed by DragonFly at 23:27:25 
+Event DPRK MiG-21Mbis downed by DragonFly at 23:33:15 
+Event Banshee landed at 23:37:59 
+Event Banshee landed at 23:38:00 
+Event DragonFly landed at 23:44:04 
+Event DragonFly landed at 23:44:06 
+Event DragonFly violated ATC protocol at 23:44:06 
+Event Banshee exited from Fury13 at 23:50:12 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 49thDragonFly 
+Callsign: DragonFly 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 2 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 3 
+Missed 0 
+Hit 3 
+Event AIM-120C-5 released at 23:23:33   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 23:26:14   hit MiG-29SM - destroyed 
+Event AIM-120C-5 released at 23:32:33   hit MiG-21Mbis - destroyed 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AGM-88C released at 23:03:13   hit SA-2 - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: LtC. redfox 
+Callsign: redfox 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120C-5 released at 23:23:44   miss 
+Event AIM-120C-5 released at 23:24:50   hit MiG-29SM - destroyed 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AGM-88C released at 23:02:23   miss 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 4 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 2 
+Missed 1 
+Hit 1 
+Event 20mm M61 fired at 23:08:54   hit KS-19 - destroyed 
+Event    hit KS-19 - destroyed 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-88C released at 22:59:40   miss 
+Event AGM-88C released at 23:05:53   hit Low Blow - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

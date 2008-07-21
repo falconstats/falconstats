@@ -1,0 +1,159 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 00:17:34.
+Game is Tactical Engagement type Networked
+Mission name: test
+
+Mission Type: Training 
+Flight Callsign: Buzzsaw1
+3 Ship Flight
+Ac type: MiG-29SM 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Buzzsaw11 at 08:52:28 
+Event Nightflyer joined as Buzzsaw12 at 08:52:38 
+Event Banshee joined as Buzzsaw13 at 08:52:39 
+Event AIM-120C-5 launched at Ghost 49th 08:54:42 
+Event AIM-120C-5 launched at Banshee 08:55:16 
+Event AIM-120C-5 launched at Nightflyer 08:56:17 
+Event AIM-120C-5 launched at Ghost 49th 08:56:26 
+Event AIM-120C-5 launched at Ghost 49th 08:56:55 
+Event AIM-120C-5 launched at Ghost 49th 08:57:41 
+Event Ghost 49th ejected at 08:57:49 
+Event AIM-120C-5 launched at Banshee 08:57:50 
+Event Ghost 49th exited from Buzzsaw11 at 08:58:05 
+Event AIM-120C-5 launched at Banshee 08:58:14 
+Event Slovenian F-16C-52 CCIP downed by Nightflyer at 08:58:41 
+Event Slovenian F-16C-52 CCIP downed by Banshee at 08:58:44 
+Event Banshee ejected at 08:58:55 
+Event Banshee exited from Buzzsaw13 at 08:59:04 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Maj. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 4 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-301 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-77 
+Starting Load 4 
+Fired 1 
+Missed 1 
+Hit 0 
+Event R-77 released at 08:54:37   miss 
+
+LOADOUT 3: 440Imp Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Nightflyer 
+Callsign: Nightflyer 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-301 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-77 
+Starting Load 4 
+Fired 4 
+Missed 2 
+Hit 2 
+Event R-77 released at 08:56:21   miss 
+Event R-77 released at 08:57:27   miss 
+Event R-77 released at 08:57:49   hit F-16C-52 CCIP - destroyed 
+Event R-77 released at 08:58:23   hit F-16C-52 CCIP - damaged 
+
+LOADOUT 3: 440Imp Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GSH-301 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-77 
+Starting Load 4 
+Fired 1 
+Missed 0 
+Hit 1 
+Event R-77 released at 08:57:48   hit F-16C-52 CCIP - destroyed 
+
+LOADOUT 3: 440Imp Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

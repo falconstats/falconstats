@@ -1,0 +1,133 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/10/2007 03:09:40.
+Game is Campaign type Networked
+
+Mission Type: OCA Strike 
+Flight Callsign: Cowboy1
+2 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event 49thKolbe joined as Cowboy12 at 07:35:11 
+Event Banshee joined as Cowboy11 at 07:35:34 
+Event SA7 launched at Banshee 07:58:21 
+Event Yugoslavian Runway destroyed by Banshee at 07:58:26 
+Event Yugoslavian Runway destroyed by Banshee at 07:58:27 
+Event Yugoslavian Runway destroyed by Banshee at 07:58:28 
+Event Yugoslavian Runway destroyed by 49thKolbe at 07:58:36 
+Event Yugoslavian Low Blow destroyed by 49thKolbe at 08:03:38 
+Event Banshee landed at 08:17:44 
+Event Banshee landed at 08:17:49 
+Event 49thKolbe landed at 08:19:06 
+Event Banshee exited from Cowboy11 at 08:20:09 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 3 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: BLU-107/B 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BLU-107/B released at 07:58:21   hit Runway - destroyed 
+Event BLU-107/B released at 07:58:21   hit Runway - destroyed 
+Event BLU-107/B released at 07:58:22   hit Runway - damaged 
+Event BLU-107/B released at 07:58:23   hit Runway - damaged 
+Event BLU-107/B released at 07:58:23   hit Runway - destroyed 
+Event BLU-107/B released at 07:58:24   hit Runway - damaged 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 1 
+AS Kills 1 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88C 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-88C released at 08:00:33   miss 
+Event AGM-88C released at 08:02:46   hit Low Blow - destroyed 
+
+LOADOUT 3: BLU-107/B 
+Starting Load 6 
+Fired 6 
+Missed 0 
+Hit 6 
+Event BLU-107/B released at 07:58:26   hit Runway - damaged 
+Event BLU-107/B released at 07:58:27   hit Runway - damaged 
+Event BLU-107/B released at 07:58:28   hit Runway - damaged 
+Event BLU-107/B released at 07:58:28   hit Runway - damaged 
+Event BLU-107/B released at 07:58:29   hit Runway - damaged 
+Event BLU-107/B released at 07:58:30   hit Runway - destroyed 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

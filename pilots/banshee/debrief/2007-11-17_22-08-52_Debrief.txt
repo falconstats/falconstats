@@ -1,0 +1,198 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/17/2007 22:08:54.
+Game is Campaign type Networked
+
+Mission Type: Escort 
+Flight Callsign: Fury1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Runner joined as Fury12 at 05:32:42 
+Event Banshee joined as Fury11 at 05:32:42 
+Event Tiger joined as Fury14 at 05:32:45 
+Event DragonFly joined as Fury13 at 05:32:47 
+Event Runner exited from Fury12 at 05:50:07 
+Event CIS MiG-31 downed by Tiger at 05:53:36 
+Event CIS Tu-160* downed by Banshee at 06:07:31 
+Event CIS Tu-160* downed by Banshee at 06:08:35 
+Event DPRK MiG-21Mbis downed by Tiger at 06:08:38 
+Event Tiger landed at 06:27:45 
+Event Tiger landed at 06:27:49 
+Event Tiger landed at 06:27:53 
+Event Tiger exited from Fury14 at 06:28:03 
+Event Banshee landed at 06:30:41 
+Event Banshee landed at 06:30:44 
+Event DragonFly landed at 06:30:49 
+Event DragonFly exited from Fury13 at 06:33:44 
+Event Banshee exited from Fury11 at 06:34:23 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-5 released at 06:06:52   hit Tu-160* - destroyed 
+Event AIM-120C-5 released at 06:07:55   hit Tu-160* - destroyed 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Capt. x4nPro 
+Callsign: x4nPro 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col 49thDragonFly 
+Callsign: DragonFly 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-5 released at 05:52:34   hit MiG-31 - damaged 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Col =Tiger= 
+Callsign: Tiger 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 6 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-5 released at 05:52:34   hit MiG-31 - destroyed 
+Event AIM-120C-5 released at 06:07:35   hit MiG-21Mbis - destroyed 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

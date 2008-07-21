@@ -1,0 +1,21 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/29/2007 06:20:30.
+Game is Campaign type Local
+
+Mission Type: BARCAP 
+Flight Callsign: Python3
+1 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Python32 at 18:10:30 
+Event R-27TE launched at Banshee 18:10:48 
+Event R-77M launched at Banshee 18:11:33 
+Event DPRK MiG-29SM downed by Banshee at 18:11:36 
+Event Banshee ejected at 18:12:21 
+Event Banshee exited from Python32 at 18:12:27 
+

@@ -1,0 +1,44 @@
+Pilot Name: 49th-Scimitar
+Commissioned Date: 07/06/06
+Number of Flight Hours: 245.7 
+Rank: Major
+Callsign: Scimitar
+Medals:
+
+Air Force Cross: 0
+Silver Star: 0
+Distinguished Flying Cross: 0
+Air Medal: 0
+Longevity Medal: 0
+Campaign Medals: 15
+
+CAMPAIGN STATS:
+
+Total Missions Flown: 185
+Air to Ground: 99
+Consecutive Missions: 0
+Friendlies Killed: 7
+Games Lost: 0
+Games Tied: 0
+Games Won: 15
+Human Kills: 0
+Number of Times Killed: 7
+Number of Times Killed by Human: 20
+Killed by Self: 14
+Number of Kills: 177
+Total Adjusted Score: 1222
+Total Score: 752
+Total Static Kills: 126
+Total Naval Kills: 10
+Miss Since Last Friendly Kill: 0
+
+DOGFIGHT STATS:
+
+Matches Won: 24
+Matches Lost: 6
+Matches Won vs Humans: 2
+Matches Lost vS Humans: 6
+Total Kills: 85
+Total Times Killed: 67
+Total Human Kills: 4
+Times Killed by Humans: 16

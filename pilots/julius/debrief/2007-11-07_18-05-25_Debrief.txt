@@ -1,0 +1,63 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/7/2007 18:05:26.
+Game is Campaign type Local
+
+Mission Type: OCA Strike 
+Flight Callsign: Snake4
+1 Ship Flight
+Ac type: F-16C-40 CCIP 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Snake41 at 13:53:00 
+Event Banshee violated ATC protocol at 13:54:50 
+Event Banshee violated ATC protocol at 13:55:06 
+Event Banshee violated ATC protocol at 13:55:15 
+Event R-27T launched at Banshee 14:08:51 
+Event R-27T launched at Banshee 14:08:55 
+Event R-27T launched at Banshee 14:09:01 
+Event Banshee exited from Snake41 at 14:09:12 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Mk-84 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

@@ -1,0 +1,134 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2007 23:39:06.
+Game is Campaign type Local
+
+Mission Type: Pre-plan CAS 
+Flight Callsign: Thunder1
+2 Ship Flight
+Ac type: A-10 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Thunder11 at 10:27:00 
+Event DPRK KrAz T 255B destroyed by Banshee at 10:41:56 
+Event DPRK KrAz T 255B destroyed by Banshee at 10:41:56 
+Event DPRK KrAz T 255B destroyed by Banshee at 10:41:57 
+Event DPRK KrAz T 255B destroyed by Banshee at 10:41:57 
+Event DPRK FROG-7 destroyed by Banshee at 10:41:58 
+Event DPRK ZU-23 destroyed by Banshee at 10:42:00 
+Event DPRK ZU-23 destroyed by Banshee at 10:42:00 
+Event Banshee exited from Thunder11 at 10:42:58 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 7 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GAU8 
+Starting Load 1170 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 30mm GAU8 fired at 10:28:41   miss 
+
+LOADOUT 1: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: M151 2.75" HE 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: CBU-87 CEM 
+Starting Load 8 
+Fired 5 
+Missed 0 
+Hit 5 
+Event CBU-87 CEM released at 10:41:47   hit FROG-7 - damaged 
+Event CBU-87 CEM released at 10:41:50   hit KrAz T 255B - damaged 
+Event    hit KrAz T 255B - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event CBU-87 CEM released at 10:41:51   hit KrAz T 255B - destroyed 
+
+LOADOUT 5: ALQ-119 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. VenEhgen 
+Callsign: Thunder12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 30mm GAU8 
+Starting Load 1170 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: M151 2.75" HE 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: CBU-87 CEM 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: ALQ-119 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

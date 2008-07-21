@@ -1,0 +1,99 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 02:07:22.
+Game is Tactical Engagement type Networked
+Mission name: Auto Save
+
+Mission Type: DCA 
+Flight Callsign: Roach1
+2 Ship Flight
+Ac type: MiG-31 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Banshee joined as Roach11 at 17:26:20 
+Event Banshee crashed at 17:26:38 
+Event Banshee exited from Roach11 at 17:26:54 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: GSH-23-6* 
+Starting Load 260 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-27T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: R-33 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Swann 
+Callsign: Roach12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: GSH-23-6* 
+Starting Load 260 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-27T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: R-33 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+

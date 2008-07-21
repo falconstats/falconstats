@@ -1,0 +1,182 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/20/2007 20:10:06.
+Game is Campaign type Local
+
+Mission Type: Naval Strike 
+Flight Callsign: Viper2
+2 Ship Flight
+Ac type: F-16A-MLU 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Viper21 at 05:09:00 
+Event Yugoslavian Osa II destroyed by Banshee at 05:24:48 
+Event Yugoslavian Osa II destroyed by Banshee at 05:24:56 
+Event Yugoslavian Osa II destroyed by Banshee at 05:33:19 
+Event Yugoslavian Osa II destroyed by Banshee at 05:33:20 
+Event Yugoslavian JangWei* destroyed by Banshee at 05:38:00 
+Event Yugoslavian JangWei* destroyed by Banshee at 05:39:13 
+Event Yugoslavian Osa II destroyed by Banshee at 05:44:44 
+Event Yugoslavian Osa II destroyed by Banshee at 05:46:16 
+Event Yugoslavian Osa II destroyed by Banshee at 05:49:25 
+Event Yugoslavian Osa II destroyed by Banshee at 05:51:02 
+Event Yugoslavian Osa II destroyed by Banshee at 05:57:40 
+Event Yugoslavian Osa II destroyed by Banshee at 05:57:43 
+Event Yugoslavian Osa II destroyed by Viper22 at 06:14:03 
+Event Yugoslavian Osa II destroyed by Banshee at 06:14:18 
+Event Yugoslavian Osa II destroyed by Banshee at 06:18:54 
+Event Yugoslavian Osa II destroyed by Banshee at 06:19:54 
+Event Yugoslavian Osa II destroyed by Banshee at 06:19:55 
+Event Banshee exited from Viper21 at 06:23:32 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 16 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Python-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-119 
+Starting Load 2 
+Fired 42 
+Missed 14 
+Hit 28 
+Event AGM-119 released at 05:23:45   hit Osa II - destroyed 
+Event AGM-119 released at 05:23:54   hit Osa II - damaged 
+Event AGM-119 released at 05:24:03   hit Osa II - damaged 
+Event AGM-119 released at 05:24:47   miss 
+Event AGM-119 released at 05:24:49   hit Osa II - destroyed 
+Event AGM-119 released at 05:32:22   hit Osa II - damaged 
+Event AGM-119 released at 05:32:40   hit Osa II - damaged 
+Event AGM-119 released at 05:32:46   hit Osa II - destroyed 
+Event AGM-119 released at 05:32:55   hit Osa II - destroyed 
+Event AGM-119 released at 05:37:24   miss 
+Event AGM-119 released at 05:37:31   hit JangWei* - destroyed 
+Event AGM-119 released at 05:37:42   miss 
+Event AGM-119 released at 05:38:55   hit JangWei* - destroyed 
+Event AGM-119 released at 05:39:00   miss 
+Event AGM-119 released at 05:43:43   hit Osa II - damaged 
+Event AGM-119 released at 05:43:52   hit Osa II - destroyed 
+Event AGM-119 released at 05:44:05   hit Osa II - damaged 
+Event AGM-119 released at 05:45:57   hit Osa II - destroyed 
+Event AGM-119 released at 05:46:02   miss 
+Event AGM-119 released at 05:48:52   hit Osa II - destroyed 
+Event AGM-119 released at 05:48:57   miss 
+Event AGM-119 released at 05:49:19   hit Osa II - damaged 
+Event AGM-119 released at 05:50:49   hit Osa II - destroyed 
+Event AGM-119 released at 05:56:46   hit Osa II - damaged 
+Event AGM-119 released at 05:56:49   hit Osa II - destroyed 
+Event AGM-119 released at 05:56:54   hit Osa II - destroyed 
+Event AGM-119 released at 05:56:57   miss 
+Event AGM-119 released at 06:13:10   miss 
+Event AGM-119 released at 06:13:13   hit Osa II - damaged 
+Event AGM-119 released at 06:14:09   hit Osa II - destroyed 
+Event AGM-119 released at 06:18:06   miss 
+Event AGM-119 released at 06:18:09   miss 
+Event AGM-119 released at 06:18:12   hit Osa II - destroyed 
+Event AGM-119 released at 06:18:19   miss 
+Event AGM-119 released at 06:18:29   hit Osa II - damaged 
+Event AGM-119 released at 06:18:58   hit Osa II - damaged 
+Event AGM-119 released at 06:19:01   miss 
+Event AGM-119 released at 06:19:06   hit Osa II - destroyed 
+Event AGM-119 released at 06:19:12   hit Osa II - damaged 
+Event AGM-119 released at 06:19:25   miss 
+Event AGM-119 released at 06:19:31   miss 
+Event AGM-119 released at 06:19:36   hit Osa II - destroyed 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Subler 
+Callsign: Viper22 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 1 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: Python-4 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-119 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-119 released at 06:13:38   hit Osa II - damaged 
+Event AGM-119 released at 06:13:43   hit Osa II - destroyed 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

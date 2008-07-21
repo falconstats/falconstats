@@ -1,0 +1,154 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/12/2007 14:14:22.
+Game is Campaign type Local
+
+Mission Type: Strike 
+Flight Callsign: Cobra4
+2 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Banshee joined as Cobra41 at 14:23:00 
+Event Banshee violated ATC protocol at 14:24:18 
+Event Banshee violated ATC protocol at 14:24:39 
+Event DPRK MiG-29A downed by Banshee at 14:26:36 
+Event DPRK MiG-29A downed by Banshee at 14:27:04 
+Event DPRK MiG-29A downed by Cobra42 at 14:29:49 
+Event DPRK MiG-29A downed by Cobra42 at 14:29:59 
+Event DPRK Su-25 downed by Banshee at 14:30:12 
+Event DPRK Su-25 downed by Banshee at 14:30:22 
+Event FAB-250/UKB launched at Banshee 14:30:53 
+Event FAB-250/UKB launched at Banshee 14:30:53 
+Event FAB-250/UKB launched at Banshee 14:30:53 
+Event FAB-250/UKB launched at Banshee 14:30:53 
+Event DPRK MiG-21MF downed by Banshee at 14:32:56 
+Event DPRK Bridge destroyed by Banshee at 14:34:50 
+Event DPRK TV Station destroyed by Banshee at 14:35:26 
+Event DPRK Radar destroyed by Banshee at 14:35:26 
+Event FAB-250/UKB launched at Banshee 14:36:05 
+Event FAB-250/UKB launched at Banshee 14:36:05 
+Event FAB-250/UKB launched at Banshee 14:36:05 
+Event FAB-250/UKB launched at Banshee 14:36:05 
+Event ZAB-500 launched at Banshee 14:36:32 
+Event ZAB-500 launched at Banshee 14:36:32 
+Event ZAB-500 launched at Banshee 14:36:32 
+Event ZAB-500 launched at Banshee 14:36:32 
+Event Banshee landed at 14:40:20 
+Event Banshee landed at 14:40:21 
+Event Banshee exited from Cobra41 at 14:41:34 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 5 
+AG Kills 0 
+AS Kills 3 
+AN Kills 0 
+Shoot At 12 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 3 
+Missed 0 
+Hit 3 
+Event 20mm M61 fired at 14:32:38   hit MiG-21MF - damaged 
+Event 20mm M61 fired at 14:32:40   hit MiG-21MF - destroyed 
+Event 20mm M61 fired at 14:32:43   hit MiG-21MF - damaged 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event AIM-120C-5 released at 14:25:54   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 14:26:30   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 14:29:37   hit Su-25 - destroyed 
+Event AIM-120C-5 released at 14:29:51   hit Su-25 - destroyed 
+
+LOADOUT 2: AGM-65D 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event AGM-65D released at 14:34:50   hit Radar - destroyed 
+Event AGM-65D released at 14:34:52   hit Radar - damaged 
+Event AGM-65D released at 14:34:57   hit TV Station - damaged 
+Event AGM-65D released at 14:34:58   hit TV Station - destroyed 
+
+LOADOUT 3: AGM-65G 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-65G released at 14:34:17   hit Bridge - destroyed 
+Event AGM-65G released at 14:34:19   hit Bridge - damaged 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Maj. Kram 
+Callsign: Cobra42 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 2 
+Missed 2 
+Hit 0 
+Event 20mm M61 fired at 14:36:47   miss 
+Event 20mm M61 fired at 14:37:09   miss 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event AIM-120C-5 released at 14:29:06   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 14:29:30   hit MiG-29A - damaged 
+Event AIM-120C-5 released at 14:29:37   hit MiG-29A - destroyed 
+Event AIM-120C-5 released at 14:29:41   hit MiG-29A - damaged 
+
+LOADOUT 2: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65G 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

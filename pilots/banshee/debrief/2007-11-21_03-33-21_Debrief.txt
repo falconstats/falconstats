@@ -1,0 +1,239 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/21/2007 03:33:22.
+Game is Campaign type Local
+
+Mission Type: SEAD Escort 
+Flight Callsign: Panther2
+4 Ship Flight
+Ac type: Typhoon 
+Country: Slovenian 
+
+FLIGHT EVENTS
+Event Banshee joined as Panther21 at 05:28:00 
+Event Yugoslavian Radar destroyed by Banshee at 05:53:01 
+Event Yugoslavian StraightFlush destroyed by Banshee at 05:53:39 
+Event Yugoslavian Low Blow destroyed by Panther22 at 05:54:04 
+Event Yugoslavian Fire Can  destroyed by Panther24 at 05:58:08 
+Event SA14 launched at Banshee 06:02:02 
+Event Yugoslavian Fire Can  destroyed by Panther23 at 06:04:34 
+Event Yugoslavian M-1939 destroyed by Panther23 at 06:04:34 
+Event Yugoslavian ZIL-135 destroyed by Panther23 at 06:04:34 
+Event Yugoslavian Su-25 downed by Banshee at 06:30:09 
+Event Yugoslavian Su-25 downed by Banshee at 06:31:38 
+Event Yugoslavian MiG-29SM downed by Panther22 at 06:34:02 
+Event Yugoslavian J-22 downed by Banshee at 06:35:40 
+Event Panther23 landed at 06:58:16 
+Event Banshee violated ATC protocol at 07:01:21 
+Event Banshee landed at 07:01:44 
+Event Banshee exited from Panther21 at 07:03:58 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 1 
+AS Kills 1 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 3 
+Missed 3 
+Hit 0 
+Event 27mm-1x fired at 06:01:52   miss 
+Event 27mm-1x fired at 06:01:54   miss 
+Event 27mm-1x fired at 06:01:57   miss 
+
+LOADOUT 1: Aim-132 ASRAAM 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event Aim-132 ASRAAM released at 06:30:23   hit Su-25 - damaged 
+Event Aim-132 ASRAAM released at 06:31:13   hit Su-25 - destroyed 
+
+LOADOUT 2: AIM-120B 
+Starting Load 8 
+Fired 8 
+Missed 5 
+Hit 3 
+Event AIM-120B released at 05:53:21   miss 
+Event AIM-120B released at 05:53:34   miss 
+Event AIM-120B released at 05:53:48   miss 
+Event AIM-120B released at 06:27:56   hit Su-25 - damaged 
+Event AIM-120B released at 06:28:35   miss 
+Event AIM-120B released at 06:29:52   hit Su-25 - destroyed 
+Event AIM-120B released at 06:32:08   miss 
+Event AIM-120B released at 06:35:00   hit J-22 - destroyed 
+
+LOADOUT 3: ALARM 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event ALARM released at 05:52:17   hit Radar - destroyed 
+Event ALARM released at 05:52:23   hit StraightFlush - destroyed 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Rose 
+Callsign: Panther22 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Aim-132 ASRAAM 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 8 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-120B released at 06:28:46   miss 
+Event AIM-120B released at 06:33:00   hit MiG-29SM - destroyed 
+
+LOADOUT 3: ALARM 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event ALARM released at 05:53:30   hit Low Blow - destroyed 
+Event ALARM released at 05:53:35   miss 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Griffey 
+Callsign: Panther23 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Aim-132 ASRAAM 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALARM 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event ALARM released at 06:03:56   hit ZIL-135 - destroyed 
+Event ALARM released at 06:04:01   miss 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Cpt. Brendel 
+Callsign: Panther24 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 27mm-1x 
+Starting Load 150 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: Aim-132 ASRAAM 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 8 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: ALARM 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event ALARM released at 05:57:47   miss 
+Event ALARM released at 05:57:52   hit Fire Can  - destroyed 
+
+LOADOUT 4: 1000l AMX 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

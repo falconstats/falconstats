@@ -1,0 +1,259 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/19/2007 22:06:40.
+Game is Campaign type Networked
+
+Mission Type: Strike 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event 49thKolbe joined as Falcon12 at 09:16:10 
+Event Ghost 49th joined as Falcon11 at 09:16:12 
+Event Scimitar joined as Falcon14 at 09:16:17 
+Event Banshee joined as Falcon13 at 09:16:22 
+Event Scimitar violated ATC protocol at 09:24:26 
+Event Scimitar violated ATC protocol at 09:24:41 
+Event Scimitar violated ATC protocol at 09:24:51 
+Event DPRK Warehouse destroyed by 49thKolbe at 09:44:57 
+Event DPRK Manufacturer destroyed by Banshee at 09:46:50 
+Event DPRK Fuel Truck destroyed by Banshee at 09:46:50 
+Event DPRK Warehouse destroyed by Ghost 49th at 09:48:40 
+Event DPRK Oil Tank destroyed by Ghost 49th at 09:52:44 
+Event DPRK Dock destroyed by Scimitar at 09:55:16 
+Event DPRK Dock destroyed by Banshee at 09:55:18 
+Event DPRK Dock destroyed by 49thKolbe at 09:56:07 
+Event DPRK Hangar destroyed by Banshee at 10:00:43 
+Event DPRK ZIL-135 destroyed by Banshee at 10:00:43 
+Event R-77 launched at 49thKolbe 10:02:03 
+Event R-77 launched at 49thKolbe 10:02:07 
+Event 49thKolbe downed by DPRK MiG-29SM at 10:02:28 
+Event DPRK MiG-29SM downed by 49thKolbe at 10:02:36 
+Event 49thKolbe exited from Falcon12 at 10:02:57 
+Event Ghost 49th landed at 10:06:28 
+Event Ghost 49th landed at 10:06:32 
+Event Ghost 49th exited from Falcon11 at 10:07:19 
+Event DPRK MiG-21Mbis downed by Banshee at 10:10:19 
+Event R-60 launched at Banshee 10:10:26 
+Event R-13M launched at Banshee 10:10:30 
+Event DPRK MiG-21Mbis downed by Banshee at 10:10:34 
+Event DPRK MiG-21Mbis downed by Banshee at 10:12:16 
+Event Scimitar landed at 10:30:08 
+Event Scimitar violated ATC protocol at 10:31:01 
+Event Scimitar violated ATC protocol at 10:31:17 
+Event Banshee landed at 10:36:47 
+Event Scimitar exited from Falcon14 at 10:37:18 
+Event Banshee exited from Falcon13 at 10:38:16 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Capt. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: GBU-22/B 
+Starting Load 4 
+Fired 2 
+Missed 0 
+Hit 2 
+Event GBU-22/B released at 09:48:07   hit Warehouse - destroyed 
+Event GBU-22/B released at 09:52:11   hit Oil Tank - destroyed 
+
+LOADOUT 3: GBU-24/B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Maj. 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 1 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-5 released at 10:02:05   hit MiG-29SM - destroyed 
+
+LOADOUT 2: GBU-22/B 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event GBU-22/B released at 09:48:21   hit Dock - damaged 
+Event GBU-22/B released at 09:51:57   hit Dock - damaged 
+Event GBU-22/B released at 09:51:57   hit Dock - damaged 
+Event GBU-22/B released at 09:55:32   hit Dock - destroyed 
+
+LOADOUT 3: GBU-24/B 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event GBU-24/B released at 09:44:23   hit Warehouse - destroyed 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 2 
+AS Kills 3 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event AIM-120C-5 released at 10:02:11   hit MiG-21Mbis - damaged 
+Event AIM-120C-5 released at 10:09:38   hit MiG-21Mbis - destroyed 
+Event AIM-120C-5 released at 10:10:09   hit MiG-21Mbis - destroyed 
+Event AIM-120C-5 released at 10:11:46   hit MiG-21Mbis - destroyed 
+
+LOADOUT 2: GBU-22/B 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event GBU-22/B released at 09:50:26   hit Dock - damaged 
+Event GBU-22/B released at 09:54:43   hit Dock - damaged 
+Event GBU-22/B released at 09:54:43   hit Dock - destroyed 
+Event GBU-22/B released at 10:06:02   hit Taxiway - damaged 
+
+LOADOUT 3: GBU-24/B 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event GBU-24/B released at 09:46:14   hit Manufacturer - destroyed 
+Event    hit Fuel Truck - destroyed 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+Human Player: Maj. 49th-Scimitar 
+Callsign: Scimitar 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-5 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: GBU-22/B 
+Starting Load 4 
+Fired 4 
+Missed 2 
+Hit 2 
+Event GBU-22/B released at 09:46:13   hit Factory - damaged 
+Event GBU-22/B released at 09:58:00   hit Hangar - damaged 
+Event GBU-22/B released at 10:01:38   miss 
+Event GBU-22/B released at 10:04:40   miss 
+
+LOADOUT 3: GBU-24/B 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event GBU-24/B released at 09:50:15   hit Dock - damaged 
+Event    hit Dock - damaged 
+
+LOADOUT 4: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

@@ -1,0 +1,287 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/2/2007 21:57:56.
+Game is Campaign type Networked
+
+Mission Type: SEAD Strike 
+Flight Callsign: Falcon1
+4 Ship Flight
+Ac type: F-16C-52 CCIP 
+Country: ROK 
+
+FLIGHT EVENTS
+Event Ghost 49th joined as Falcon11 at 11:33:29 
+Event 49thKolbe joined as Falcon13 at 11:33:31 
+Event Banshee joined as Falcon12 at 11:33:35 
+Event Falcon14 landed at 11:39:18 
+Event PRC AK74 destroyed by 49thKolbe at 11:57:09 
+Event PRC AT-4 destroyed by 49thKolbe at 11:57:11 
+Event PRC SA-14 destroyed by 49thKolbe at 11:57:12 
+Event DPRK SA-5 destroyed by Ghost 49th at 11:57:16 
+Event DPRK SA-2 destroyed by Ghost 49th at 11:57:16 
+Event SA14 launched at Banshee 11:57:32 
+Event DPRK SA-5 destroyed by Banshee at 11:57:43 
+Event DPRK SA-5 destroyed by Banshee at 11:57:43 
+Event DPRK SA-14 destroyed by Banshee at 11:57:43 
+Event DPRK KrAz T 255B destroyed by Banshee at 11:57:43 
+Event DPRK SA-14 destroyed by Banshee at 11:57:43 
+Event DPRK SA-14 destroyed by Banshee at 11:57:43 
+Event DPRK ZIL-135 destroyed by Banshee at 11:57:43 
+Event DPRK KrAz T 255B destroyed by Banshee at 11:57:43 
+Event DPRK BRDM1 destroyed by Ghost 49th at 11:58:33 
+Event DPRK BRDM1 destroyed by Ghost 49th at 11:58:33 
+Event DPRK SA-14 destroyed by Ghost 49th at 11:58:33 
+Event DPRK SA-14 destroyed by Ghost 49th at 11:58:33 
+Event DPRK KrAz T 255B destroyed by Banshee at 11:59:52 
+Event DPRK KrAz T 255B destroyed by Banshee at 11:59:52 
+Event DPRK KrAz T 255B destroyed by Banshee at 11:59:52 
+Event PRC KrAz F 255B destroyed by Ghost 49th at 12:01:15 
+Event DPRK KS-12 destroyed by Banshee at 12:02:22 
+Event DPRK KS-12 destroyed by Banshee at 12:02:22 
+Event DPRK KrAz T 255B destroyed by Ghost 49th at 12:02:51 
+Event DPRK KrAz T 255B destroyed by Ghost 49th at 12:04:38 
+Event DPRK KrAz T 255B destroyed by Banshee at 12:05:31 
+Event DPRK M-1974 destroyed by Banshee at 12:06:22 
+Event 49thKolbe landed at 12:19:46 
+Event 49thKolbe landed at 12:19:47 
+Event 49thKolbe exited from Falcon13 at 12:29:27 
+Event Banshee violated ATC protocol at 12:43:48 
+Event Banshee landed at 12:44:17 
+Event Ghost 49th landed at 12:44:31 
+Event Banshee violated ATC protocol at 12:44:40 
+Event Ghost 49th violated ATC protocol at 12:44:48 
+Event Ghost 49th exited from Falcon11 at 12:47:04 
+Event Banshee exited from Falcon12 at 12:47:37 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Maj. Ghost 49th 
+Callsign: Ghost 49th 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 9 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 3 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AIM-120C-5 released at 12:11:27   hit MiG-29SM - damaged 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event AGM-65D released at 12:00:49   hit KrAz F 255B - destroyed 
+Event AGM-65D released at 12:00:59   miss 
+Event AGM-65D released at 12:02:27   hit KrAz T 255B - destroyed 
+Event AGM-65D released at 12:03:41   hit KrAz T 255B - destroyed 
+
+LOADOUT 4: CBU-97 SFW 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event CBU-97 SFW released at 11:56:55   hit SA-5 - destroyed 
+Event    hit SA-2 - destroyed 
+Event CBU-97 SFW released at 11:56:55   hit SA-5 - damaged 
+Event    hit SA-2 - damaged 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 15 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 3 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-120C-5 released at 11:50:11   miss 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 4 
+Missed 2 
+Hit 2 
+Event AGM-65D released at 12:05:21   hit KrAz T 255B - destroyed 
+Event AGM-65D released at 12:05:30   miss 
+Event AGM-65D released at 12:06:13   hit M-1974 - destroyed 
+Event AGM-65D released at 12:06:16   miss 
+
+LOADOUT 4: CBU-97 SFW 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event CBU-97 SFW released at 11:57:30   hit SA-5 - destroyed 
+Event    hit KrAz T 255B - destroyed 
+Event    hit ZIL-135 - destroyed 
+Event    hit SA-14 - destroyed 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 3:
+
+Human Player: Maj. 49thKolbe 
+Callsign: 49thKolbe 
+Pilot status  - OK 
+Aircraft status  - DAMAGED 
+AA Kills 0 
+AG Kills 3 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: CBU-97 SFW 
+Starting Load 4 
+Fired 4 
+Missed 1 
+Hit 3 
+Event CBU-97 SFW released at 11:56:43   miss 
+Event CBU-97 SFW released at 11:56:58   hit AK74 - destroyed 
+Event CBU-97 SFW released at 11:56:59   hit AT-4 - destroyed 
+Event CBU-97 SFW released at 11:57:01   hit SA-14 - destroyed 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Gill 
+Callsign: Falcon14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C-5 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: CBU-97 SFW 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

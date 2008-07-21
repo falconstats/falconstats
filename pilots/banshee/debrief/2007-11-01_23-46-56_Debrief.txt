@@ -1,0 +1,83 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2007 23:46:58.
+Game is Campaign type Local
+
+Mission Type: ECM 
+Flight Callsign: Raven1
+4 Ship Flight
+Ac type: EF-111A 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Raven11 at 11:02:00 
+Event SA2 launched at Banshee 11:14:14 
+Event SA2 launched at Banshee 11:14:29 
+Event Banshee exited from Raven11 at 11:29:56 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+-------------
+PILOT SLOT 2:
+
+AI Player: Lt. Griffey 
+Callsign: Raven12 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+-------------
+PILOT SLOT 3:
+
+AI Player: Lt. Heffner 
+Callsign: Raven13 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+-------------
+PILOT SLOT 4:
+
+AI Player: Lt. Electra 
+Callsign: Raven14 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+

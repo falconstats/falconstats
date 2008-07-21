@@ -1,0 +1,102 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 12/28/2007 02:09:54.
+Game is Tactical Engagement type Networked
+Mission name: Auto Save
+
+Mission Type: DCA 
+Flight Callsign: Roach1
+2 Ship Flight
+Ac type: MiG-31 
+Country: Yugoslavian 
+
+FLIGHT EVENTS
+Event Banshee joined as Roach12 at 17:27:31 
+Event AIM-120C-4 launched at Banshee 17:28:35 
+Event Banshee ejected at 17:29:00 
+Event Banshee exited from Roach12 at 17:29:25 
+
+-------------
+PILOT SLOT 1:
+
+AI Player: Maj. Crag 
+Callsign: Roach11 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: GSH-23-6* 
+Starting Load 260 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-27T 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: R-33 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: GSH-23-6* 
+Starting Load 260 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: R-73 Mod 1 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: R-27T 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event R-27T released at 17:28:45   miss 
+Event R-27T released at 17:28:45   miss 
+
+LOADOUT 3: R-33 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+

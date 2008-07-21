@@ -1,0 +1,116 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/3/2007 17:22:14.
+Game is Campaign type Networked
+
+Mission Type: Escort 
+Flight Callsign: Lobo1
+2 Ship Flight
+Ac type: F-16C-50 CCIP 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Moonlight joined as Lobo12 at 12:13:19 
+Event Banshee joined as Lobo11 at 12:13:28 
+Event DPRK MiG-23MF downed by Moonlight at 12:30:58 
+Event DPRK MiG-23MF downed by Banshee at 12:31:07 
+Event DPRK MiG-23MF downed by Banshee at 12:31:26 
+Event R-27R launched at Moonlight 12:32:34 
+Event R-27R launched at Moonlight 12:32:38 
+Event DPRK MiG-29A downed by Moonlight at 12:33:19 
+Event Moonlight downed by DPRK MiG-29A at 12:33:25 
+Event R-27R launched at Banshee 12:33:28 
+Event R-27R launched at Banshee 12:33:31 
+Event Moonlight exited from Lobo12 at 12:33:44 
+Event Banshee ejected at 12:33:57 
+Event Banshee exited from Lobo11 at 12:34:17 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: Col Banshee 
+Callsign: Banshee 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 1 
+Hit 0 
+Event 20mm M61 fired at 12:32:04   miss 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 6 
+Fired 4 
+Missed 2 
+Hit 2 
+Event AIM-120C-4 released at 12:30:13   hit MiG-23MF - destroyed 
+Event AIM-120C-4 released at 12:30:44   hit MiG-23MF - destroyed 
+Event AIM-120C-4 released at 12:31:03   miss 
+Event AIM-120C-4 released at 12:33:40   miss 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: Capt. Moonlight 
+Callsign: Moonlight 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C-4 
+Starting Load 6 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AIM-120C-4 released at 12:29:57   hit MiG-23MF - destroyed 
+Event AIM-120C-4 released at 12:32:09   hit MiG-29A - destroyed 
+
+LOADOUT 2: Mk-20D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+

@@ -1,0 +1,73 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/11/2007 01:44:38.
+Game is Tactical Engagement type Local
+Mission name: 24 Laser-Guided Bombs
+
+Mission Type: Training 
+Flight Callsign: Cowboy1
+1 Ship Flight
+Ac type: F-16D-40 
+Country: U.S. 
+
+FLIGHT EVENTS
+Event Banshee joined as Cowboy11 at 09:21:30 
+Event Banshee collided with Tree at 09:27:44 
+Event Banshee exited from Cowboy11 at 09:27:55 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Banshee 
+Callsign: Banshee 
+Pilot status  - KIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 500 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-12B/B 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: GBU-24B/B 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event GBU-24B/B released at 09:22:45   miss 
+Event GBU-24B/B released at 09:24:01   miss 
+
+LOADOUT 5: ALQ-131 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
